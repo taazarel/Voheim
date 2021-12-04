@@ -2,7 +2,52 @@
 These are the notes for the HTX group
 ---
 #htx #story #mika #aesh #sker #ækuf #ouli
+## The skyrates
+[[Skërlite]] is the main healer and can take quite a hit. Strange creature though.
+[[Mikalei]] the scholar of the group. Very explorative and questionate. What a nightmare.
+[[Ouli]] is the bard. Has yet to do bard things. Hope it stays that way.
+[[Aesh]], a very straight-forward person. Not that this is a bad thing.
+[[Ækuf]], oh Ækuf. Why are you still here? you only care for 
 
-[[Skërlite]]
-[[Mikalei]]
-[Ouli](Ouli.md) is the bard.
+
+
+Session 1.
+The starting date is the 3rd of brinat 8423.
+Mika is sassy towards Aesh. Mika has a grudge against Ækuf. 
+Skerlite stopped a cultist ritual that tried to summon Mokov, by powerwashing the runes. 
+Session 2.
+The starting date is the 5th of brinat.
+The party was thanked for helping Lobëni with their infestation of cultists, and leave for Nusa'kö'nuëv to find a faster way towards the capital. 
+Ouli and Mika met Hul ci sannesh in Nusa'kö'nuëv. They discovered mokov by name and "big black fog devouring shit".
+Waiting for the sky-ship the party asked for voyage, but when the captain and crew left the ship for hours they decided to commandeer the ship instead. Throwing the last two crewmates overboard they began raising the ship, but not before being discovered by the guards. The guards tried to capsize the ship with a battering ram, but to no avail. The party killed 4 guards and left with the ship mostly unscathed. The skyship the party stole is called @Sebángoush(vehicle)
+Session 3.
+The starting date was. 22nd of Brinat. 
+The party started out on their ship. They discussed where to head next, and decided to head to Tamnënavë to pick up supplies and a crew. On their way, Sannesh made contact with Mika again through a magical scarecrow and letter. Ækuf tailed the mayor, stole his purse, infiltrated his manor and escaped his guards managing to assault the guard captain leaving him wounded. The party then left for Röso arriving just in time for the horse-race festival, they bet and won money on the underdog horse (maybe a little cheating was involved). Ækuf noticed one of the sunset tower leave silently (he sabotaged the leading horse's saddle and was ready to make another fall with a sleep dart). Ouli bought out an entire herbal shop and Aesh exchanged a ruby for 100 gold and 4 platinum. Mika also found Sanesh's shop again and sold the iron crates. 
+When the party gathered in the captains quarters to show off their newfound wealth, a thief from the sunset tower showed up with a proposition for the party.
+Session 4.
+The starting date was 26th of Brinat. 
+Eutshé asked the party to help him with a heist to the anchor of dahjui. The party agreed and entered the keep. Wherein they found the bounty Eutshé was looking for as well as tools for opening the safe on their ship. A fight broke out and Ækuf had a vision when he was bleeding out. He saw his family members in flames which rose from runes in a void. There he also saw his childhood friend.
+The party managed to live and leave with the bounty and ship somewhat intact. When arriving in Röso once again Eutshé offered the party to form their own cell in his orginization. 
+Session 5.
+The starting date was 27th of Brinat.
+The party did some erands in the city. Skërlite went to the library and made paint. Ouli bought some Tisen babies. Mika found an artificer to help increase capacity of the ship. Mika then went on to lose a platinum piece to gamlbing. The skyrates then bought 30 silvers worth of cured hides and 1 gold worth of fruits and nuts. Selling this cargo at Kö'tuom made them quite a bit of money. They then ordered a set of cannons, a harpoon and a pulley.
+On the way to Kö'tuom they found a shimmer of Menun's silver dagger floating in the sky.
+Ækuf and Skërlite found a spy for the earthern snake. They apprehended the spy while robbing him and reported him to the guards.
+After two days. The skyrates were attackdd by the same guild again. They were equiped with oil fires and tried to stealth up to the ship. 
+Acid Face was rescued by a mysterious invisible person
+Session 6.
+The starting date was 10th of Branat.
+The party made the captured bandit betray his comrades by leading them to their hideout. When there he alerts his crew and is killed immediantly. 
+Ouli breaks the only light-source and blinds everyone in the cave. Ækuf goes on killing 6 bandits. They bring a new hostage back to their ship and imprison him in the brig.
+The city guards warn the party not to partake in gang-wars again, and advises them to use common-sense.
+While discussing their next direction the voice of Nebusiton greeted them and tried to inquire about a quest. They then teleported onto the deck with a mage, and told the skyrates about Aga Brakksi.
+The party was granted 20 platinum pieces and given the rest of the month and another month to spend it and prepare.
+Aesh bought Mythril armor and an orichalcum glaive.
+Ouli bought 25 barrels of crude oil and 3 orichalcum rapiers.
+Mika used all her money for spells. wizards amiright?
+Ækuf bought better armor.
+Ækuf and Ouli met Sannesh. He sold them a modern fish-net and a burger-box. 
+Ækuf also bought a cursed dagger from Sannesh called world ender. Sannesh was hesitant to give any information about its curse even though Ækuf paid a gold piece.
+The party then made their way to the capital of Anumivo. 
+Session 7.
+The starting date was the 17th of Bronat. 
