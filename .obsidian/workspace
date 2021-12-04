@@ -7,8 +7,33 @@
         "id": "aae78096cc8ea612",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "The sunset tower.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6da16973deac6aeb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Adventures.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6bb9fa89e53d555f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "The sunset tower.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Adventures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,20 +117,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Adventures.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "aae78096cc8ea612",
+  "active": "6da16973deac6aeb",
   "lastOpenFiles": [
-    "Test.md",
+    "Adventures.md",
     "The sunset tower.md",
+    "The Sunset Tower told Ækuf that they run the town of Röso. Then a leader of a cell in the sunset tower found their ship and gave them the proposition of a heist..md",
+    "Test.md",
     "new test.md",
     "test.md",
     "Pc notes.md"
