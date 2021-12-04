@@ -7,9 +7,7 @@ These are the notes for the HTX group
 [[Mikalei]] the scholar of the group. Very explorative and questionate. What a nightmare.
 [[Ouli]] is the bard. Has yet to do bard things. Hope it stays that way.
 [[Aesh]], a very straight-forward person. Not that this is a bad thing.
-[[Ækuf]], oh Ækuf. Why are you still here? you only care for 
-
-
+[[Ækuf]], oh Ækuf. Why are you still here? you only care for one person amongst this group. and that is the monster...
 
 Session 1.
 The starting date is the 3rd of brinat 8423.
@@ -19,7 +17,7 @@ Session 2.
 The starting date is the 5th of brinat.
 The party was thanked for helping Lobëni with their infestation of cultists, and leave for Nusa'kö'nuëv to find a faster way towards the capital. 
 Ouli and Mika met Hul ci sannesh in Nusa'kö'nuëv. They discovered mokov by name and "big black fog devouring shit".
-Waiting for the sky-ship the party asked for voyage, but when the captain and crew left the ship for hours they decided to commandeer the ship instead. Throwing the last two crewmates overboard they began raising the ship, but not before being discovered by the guards. The guards tried to capsize the ship with a battering ram, but to no avail. The party killed 4 guards and left with the ship mostly unscathed. The skyship the party stole is called @Sebángoush(vehicle)
+Waiting for the sky-ship the party asked for voyage, but when the captain and crew left the ship for hours they decided to commandeer the ship instead. Throwing the last two crewmates overboard they began raising the ship, but not before being discovered by the guards. The guards tried to capsize the ship with a battering ram, but to no avail. The party killed 4 guards and left with the ship mostly unscathed. The skyship the party stole is called [Sebángoush](Frontiers Edge)
 Session 3.
 The starting date was. 22nd of Brinat. 
 The party started out on their ship. They discussed where to head next, and decided to head to Tamnënavë to pick up supplies and a crew. On their way, Sannesh made contact with Mika again through a magical scarecrow and letter. Ækuf tailed the mayor, stole his purse, infiltrated his manor and escaped his guards managing to assault the guard captain leaving him wounded. The party then left for Röso arriving just in time for the horse-race festival, they bet and won money on the underdog horse (maybe a little cheating was involved). Ækuf noticed one of the sunset tower leave silently (he sabotaged the leading horse's saddle and was ready to make another fall with a sleep dart). Ouli bought out an entire herbal shop and Aesh exchanged a ruby for 100 gold and 4 platinum. Mika also found Sanesh's shop again and sold the iron crates. 
