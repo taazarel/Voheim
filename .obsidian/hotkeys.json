@@ -126,5 +126,14 @@
       ],
       "key": "N"
     }
+  ],
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "G"
+    }
   ]
 }
