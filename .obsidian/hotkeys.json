@@ -136,7 +136,8 @@
       "key": "G"
     }
   ],
-  "note-refactor-obsidian:app:extract-selection-first-line": [
+  "note-refactor-obsidian:app:extract-selection-first-line": [],
+  "note-refactor-obsidian:app:extract-selection-content-only": [
     {
       "modifiers": [
         "Alt"
@@ -144,7 +145,6 @@
       "key": "L"
     }
   ],
-  "note-refactor-obsidian:app:extract-selection-content-only": [],
   "note-refactor-obsidian:app:extract-selection-autogenerate-name": [],
   "templater-obsidian:insert-templater": [
     {
