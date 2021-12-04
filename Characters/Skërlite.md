@@ -1,1 +1,1 @@
-This is Vikt
+This is Viktors character.

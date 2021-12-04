@@ -39,7 +39,14 @@
       "key": "G"
     }
   ],
-  "editor:insert-link": [],
+  "editor:insert-link": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "H"
+    }
+  ],
   "app:go-back": [
     {
       "modifiers": [
