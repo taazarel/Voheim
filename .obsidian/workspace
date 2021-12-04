@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pcNotesV.md",
+            "file": "Characters/Skërlite.md",
             "mode": "source"
           }
         }
@@ -18,11 +18,8 @@
         "id": "28daf5933a915f11",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "pcNotesH.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -79,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pcNotesV.md",
+                "file": "Characters/Skërlite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pcNotesV.md"
+                "file": "Characters/Skërlite.md"
               }
             }
           }
@@ -121,15 +118,15 @@
   },
   "active": "b63a1903c1394d65",
   "lastOpenFiles": [
-    "pcNotesV.md",
+    "Characters/Skërlite.md",
     "pcNotesH.md",
+    "pcNotesV.md",
     "Adventures.md",
     "The sunset tower.md",
     "Mokov.md",
     "The Sunset Tower told Ækuf that they run the town of Röso. Then a leader of a cell in the sunset tower found their ship and gave them the proposition of a heist..md",
     "Test.md",
     "new test.md",
-    "test.md",
-    "Pc notes.md"
+    "test.md"
   ]
 }
