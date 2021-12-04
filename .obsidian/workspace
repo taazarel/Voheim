@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Test.md",
-            "mode": "preview"
+            "file": "The sunset tower.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "The sunset tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md"
+                "file": "The sunset tower.md"
               }
             }
           }
@@ -109,6 +109,7 @@
   },
   "active": "aae78096cc8ea612",
   "lastOpenFiles": [
+    "The sunset tower.md",
     "Test.md",
     "new test.md",
     "test.md",
