@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pcNotesH.md",
+            "file": "Characters/Skërlite.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pcNotesH.md",
+                "file": "Characters/Skërlite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pcNotesH.md"
+                "file": "Characters/Skërlite.md"
               }
             }
           }
@@ -110,10 +110,10 @@
   },
   "active": "b63a1903c1394d65",
   "lastOpenFiles": [
+    "Characters/Skërlite.md",
+    "Characters/Mikalei.md",
     "pcNotesH.md",
     "pcNotesV.md",
-    "Characters/Mikalei.md",
-    "Characters/Skërlite.md",
     "Ouli.md",
     "Adventures.md",
     "The sunset tower.md",
