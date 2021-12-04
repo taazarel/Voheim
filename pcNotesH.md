@@ -3,5 +3,6 @@ These are the notes for the HTX group
 ---
 #htx #story #mika #aesh #sker #ækuf #ouli
 
-[[Characters/Skërlite]]
+[[Skërlite]]
 [[Mikalei]]
+[Ouli](Ouli.md) is the bard.
