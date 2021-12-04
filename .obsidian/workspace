@@ -4,34 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "aae78096cc8ea612",
+        "id": "b63a1903c1394d65",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The sunset tower.md",
+            "file": "pcNotesV.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "6da16973deac6aeb",
+        "id": "28daf5933a915f11",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Adventures.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "6bb9fa89e53d555f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "The sunset tower.md",
+            "file": "pcNotesH.md",
             "mode": "preview"
           }
         }
@@ -90,14 +79,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures.md",
+                "file": "pcNotesV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -108,7 +97,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -118,20 +107,25 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures.md"
+                "file": "pcNotesV.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "6da16973deac6aeb",
+  "active": "b63a1903c1394d65",
   "lastOpenFiles": [
+    "pcNotesV.md",
+    "pcNotesH.md",
     "Adventures.md",
     "The sunset tower.md",
+    "Mokov.md",
     "The Sunset Tower told Ækuf that they run the town of Röso. Then a leader of a cell in the sunset tower found their ship and gave them the proposition of a heist..md",
     "Test.md",
     "new test.md",
