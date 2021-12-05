@@ -23,7 +23,7 @@ Causing discord between two of [[Nif Ötas Kimë]], will surely bring doom upon 
 ### Common Myths and Legends
 The Rahu is a traditional people, they not only write down their history but also sing it through rituals.
 Many legends and myths are vividly remembered, and one such legend is that of the [[Mnumusi Öm Maki]], and their origins. Others may be myths made up to teach about the world, such as [[a brown talik]], The story of a small village, and How nuts live when we don't see, just to name a few.
-On the other end of the spectrum are stories about their own religion, with [[how Ritu was made]], the legend of [[Lububu]] of how to live a virtous life and of course the [forgotten song](Numen) which speaks of how to care for the land, the dead and the people.
+On the other end of the spectrum are stories about their own religion, with [[how Ritu was made]], the legend of [[Lububu]] of how to live a virtous life and of course the [forgotten song](Numen.md) which speaks of how to care for the land, the dead and the people.
 ### Historical figures
 Every child knows the legend of [[Lububu]], a person most important to the growth of Ritu as we know it.
 Other than this every village keeps track of its own bloodlines, significance, therefore, varies greatly from place to place.

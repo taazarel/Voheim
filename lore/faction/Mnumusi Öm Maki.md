@@ -1,3 +1,3 @@
-#lore 
+#lore #faction 
 A mythical people lost to time, they are said to have been the first to follow and provide for the land. They are said to have won [[Kakëmne Sunaöm]] by listening to the land and living in harmony with it. This harmony led to an end to a long drought, followed quickly by a resurgence of vitality to their own side they swiftly ended the battles and bloodshed upon roots. 
 The first of singers, as they are called, were a generous people who held no grudges. So that everyone could prosper and the land become whole, they shared their newfound ways. But much seems to have gone missing since their time, songs are forgotten and stories are untold, and a god's name is lost to time.
