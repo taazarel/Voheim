@@ -1,7 +1,7 @@
-#npc #god
+#god #npc 
 # OGASM
 ## Occupation
-icon of Magic, often prayed to for protection
+icon of motion
 ## Goals
 
 ## Attitude

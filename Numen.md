@@ -1,7 +1,7 @@
-#npc #god
+#god #npc 
 # OGASM
 ## Occupation
-icon of Magic, often prayed to for protection
+icon of eternity
 ## Goals
 
 ## Attitude
@@ -11,3 +11,4 @@ icon of Magic, often prayed to for protection
 ## Machnations
 
 # Appearance, Personality & Background
+also called Kozc, the forgotten
