@@ -1,7 +1,7 @@
 #god #npc 
 # OGASM
 ## Occupation
-icon of eternity
+icon of eternity and the lost.
 ## Goals
 
 ## Attitude

@@ -75,7 +75,7 @@ Nebusiton approached the party concerning their public image and mentioned [[Gil
 Gilvuv discussed the trip and ceremony with the party, as well as the meeting which would take place 1 week beforehand. 
 The party upgraded their ship to a leviathan-class and their machine was also upgraded. 
 During their stay a high-storm hit Sinea. Skërlite and Ouli comforted Aesh through the worst part. 
-Aesh scryed with an [old friend](npc/Oscar%20Krasiou.md), Mika then called in a favour from Bliun. Bliun then fetched crystals for the ships array.
+Aesh scryed with an [old friend](npc/Oscar%20Ferdinan%20Krasiou.md), Mika then called in a favour from Bliun. Bliun then fetched crystals for the ships array.
 During the science fair, Luna was requited by [[Bliun]], he gave her 3 months asylum with more provided she worked hard. A week later she would make a new discovery.
 Also in the science fair [an old friend of Mika](Hrouei.md) invented a way of quickly transporting materials from place to place.
 Voei is a douche.
