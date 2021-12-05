@@ -31,31 +31,37 @@ When the party gathered in the captains quarters to show off their newfound weal
 
 Session 4.
 The starting date was 26th of Brinat. 
-Eutshé asked the party to help him with a heist to The anchor of Dahjui. The party agreed and entered the keep. Wherein they found the bounty Eutshé was looking for as well as tools for opening the safe on their ship. A fight broke out and Ækuf had a vision when he was bleeding out. He saw his family members in flames which rose from runes in a void. There he also saw his childhood friend.
+Eutshé asked the party to help him with a heist to [[The anchor of Dahjui]]. The party agreed and entered the keep. Wherein they found the bounty Eutshé was looking for as well as tools for opening the safe on their ship. A fight broke out and Ækuf had a vision when he was bleeding out. He saw his family members in flames which rose from runes in a void. There he also saw his childhood friend.
 The party managed to live and leave with the bounty and ship somewhat intact. When arriving in Röso once again Eutshé offered the party to form their own cell in his orginization. 
 
 Session 5.
 The starting date was 27th of Brinat.
-The party did some erands in the city. Skërlite went to the library and made paint. Ouli bought some Tisen babies. Mika found an artificer to help increase capacity of the ship. Mika then went on to lose a platinum piece to gamlbing. The skyrates then bought 30 silvers worth of cured hides and 1 gold worth of fruits and nuts. Selling this cargo at Kö'tuom made them quite a bit of money. They then ordered a set of cannons, a harpoon and a pulley.
+The party did some erands in the city.:
+- Skërlite went to the library and made paint. 
+- Ouli bought some Tisen babies. 
+- Mika found an artificer to help increase capacity of the ship. 
+- Mika then went on to lose a platinum piece to gamlbing. 
+- The skyrates then bought 30 silvers worth of cured hides and 1 gold worth of fruits and nuts. Selling this cargo at Kö'tuom made them quite a bit of money. 
+- They then ordered a set of cannons, a harpoon and a pulley.
 On the way to Kö'tuom they found a shimmer of Menun's silver dagger floating in the sky.
-Ækuf and Skërlite found a spy for the earthern snake. They apprehended the spy while robbing him and reported him to the guards.
-After two days. The skyrates were attackdd by the same guild again. They were equiped with oil fires and tried to stealth up to the ship. 
-Acid Face was rescued by a mysterious invisible person
+Ækuf and Skërlite found a spy for [the earthern snake](The%20Earthern%20Snake.md). They apprehended the spy while robbing him and reported him to the guards.
+After two days. The skyrates were attackd by the same guild again. They were equiped with oil fires and tried to stealth up to the ship. 
+[[Acid Face]] was rescued by a mysterious invisible person
 
 Session 6.
 The starting date was 10th of Branat.
 The party made the captured bandit betray his comrades by leading them to their hideout. When there he alerts his crew and is killed immediantly. 
-Ouli breaks the only light-source and blinds everyone in the cave. Ækuf goes on killing 6 bandits. They bring a new hostage back to their ship and imprison him in the brig.
+Ouli breaks the only light-source and blinds everyone in the cave. Ækuf goes on killing 6 bandits. [They bring a new hostage back to their ship and imprison him in the brig.](npc/Ilsem.md)
 The city guards warn the party not to partake in gang-wars again, and advises them to use common-sense.
-While discussing their next direction the voice of Nebusiton greeted them and tried to inquire about a quest. They then teleported onto the deck with a mage, and told the skyrates about Aga Brakksi.
-The party was granted 20 platinum pieces and given the rest of the month and another month to spend it and prepare.
-Aesh bought Mythril armor and an orichalcum glaive.
-Ouli bought 25 barrels of crude oil and 3 orichalcum rapiers.
-Mika used all her money for spells. wizards amiright?
-Ækuf bought better armor.
-Ækuf and Ouli met Sannesh. He sold them a modern fish-net and a burger-box. 
-Ækuf also bought a cursed dagger from Sannesh called world ender. Sannesh was hesitant to give any information about its curse even though Ækuf paid a gold piece.
-The party then made their way to the capital of Anumivo. 
+While discussing their next direction the voice of [[Nebusiton]] greeted them and tried to inquire about a quest. They then teleported onto the deck with a mage, and told the skyrates about [[Aga Brakksi]].
+The party was granted 20 platinum pieces and given the rest of the month and another month to spend it and prepare:
+- Aesh bought Mythril armor and an orichalcum glaive.
+- Ouli bought 25 barrels of crude oil and 3 orichalcum rapiers.
+- Mika used all her money for spells. wizards amiright?
+- Ækuf bought better armor.
+- Ækuf and Ouli met Sannesh. He sold them a modern fish-net and a burger-box. 
+- Ækuf also bought a cursed dagger from Sannesh called world ender. Sannesh was hesitant to give any information about its curse even though Ækuf paid a gold piece.
+The party then made their way to [[Sinea]]. 
 
 Session 7.
 The starting date was the 17th of Bronat.
@@ -74,6 +80,6 @@ During the science fair, Luna was requited by Bliun, he gave her 3 months asylum
 Also in the science fair an old friend of Mika invented a way of quickly transporting materials from place to place.
 Voei is a douche.
 A week before the celebration a meeting was held to inform the party about the severity of this quest for aga brakksi.
-The members stressed the dangers of damaging the soul. Moreover that the party might face curated tests for worthiness. To top it all of a shadow-organization might be trying to stop the skyrates and their rival group by force.
-The rivals, oficially called Mato Exim is lead by the purple tiefling Lavender.
-Every skyrate was flooded with applause on their way to the worlds end. 
+The members stressed the dangers of damaging the soul. Moreover that the party might face curated tests for worthiness. To top it all of a [shadow-organization](Odium) might be trying to stop the skyrates and their rival group by force.
+The rivals, oficially called [[Mato Exim]] is lead by [the purple tiefling Lavender](Iouvaung Virhárhei.md).
+Every skyrate was flooded with applause on their way to [[The World's End]]. 
