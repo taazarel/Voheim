@@ -1,3 +1,4 @@
+#tips
 ## The Goal
 
 There are multiple types of heists. All for different goals.
