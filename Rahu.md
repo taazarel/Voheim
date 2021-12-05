@@ -15,15 +15,15 @@ They are called nameless and may not be written in Itë, for they hold no meanin
 ### Average technological level
 Rahu technology is mostly made up of writing, pottery, weaving baskets, carving wood, decorating with teeth, and gemstones and pearls, they do not use iron, but instead have found protection through unity.
 ### Coming of Age Rites
-There are multiple traditions depending on which profession you wish to perfect. Singers, historians and warriors are compelled to take part in Amnisa.
-Craftsman, priests, watchers and druids will take part in a much larger ritual called Alëmni.
+There are multiple traditions depending on which profession you wish to perfect. Singers, historians and warriors are compelled to take part in [[Amnisa]].
+Craftsman, priests, watchers and druids will take part in a much larger ritual called [[Alëmni]].
 ### Common Taboos
 Breaking the earth, cleaving up ground for your own gain is considered taboo. By breaking the earth you disturb the land on which you step, the trees roots, and by that the trees under which you sleep, and which gives you food.
-Causing discord between two of Nif Ötas Kimë, will surely bring doom upon your people.
+Causing discord between two of [[Nif Ötas Kimë]], will surely bring doom upon your people.
 ### Common Myths and Legends
 The Rahu is a traditional people, they not only write down their history but also sing it through rituals.
-Many legends and myths are vividly remembered, and one such legend is that of the Mnumusi Öm Maki, and their origins. Others may be myths made up to teach about the world, such as The brown talik, The story of a small village, and How nuts live when we don't see, just to name a few.
-On the other end of the spectrum are stories about their own religion, with how Ritu was made, the legend of Lububu of how to live a virtous life and of course the [forgotten song](Numen) which speaks of how to care for the land, the dead and the people.
+Many legends and myths are vividly remembered, and one such legend is that of the [[Mnumusi Öm Maki]], and their origins. Others may be myths made up to teach about the world, such as [[a brown talik]], The story of a small village, and How nuts live when we don't see, just to name a few.
+On the other end of the spectrum are stories about their own religion, with [[how Ritu was made]], the legend of [[Lububu]] of how to live a virtous life and of course the [forgotten song](Numen) which speaks of how to care for the land, the dead and the people.
 ### Historical figures
 Every child knows the legend of [[Lubunu]], a person most important to the growth of Ritu as we know it.
 Other than this every village keeps track of its own bloodlines, significance, therefore, varies greatly from place to place.
