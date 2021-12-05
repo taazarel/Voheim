@@ -1,2 +1,3 @@
 #npc #god 
-Gud af skabelse, Torko Vo, givet til ham selv. [[Sothos]] kalder ham "Den som elsker verdenen".
+God of creation, Torko Vo, a name given to himself. [[Sothos]] call him "The one who is loved by the world"
+Gave all gods the name [[Torko Uhralik]].
