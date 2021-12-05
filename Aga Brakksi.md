@@ -1,3 +1,4 @@
+#lore #location #legend
 ## The story
 The legend of Aga Brakksi (Tragedy)
 
@@ -13,49 +14,30 @@ All the items should be collected to find the last location***
 ## Riddles and Puzzles
 The party must prove themselves worthy of each item. The puzzles are designed to let virtous people pass.
 The virtues which are to be tested are:
+1. Patience 
+1. Focus 
+1. Calmness 
+1. Cleverness 
+1. Honesty 
+1. Selflessness 
+1. Trust/loyalty 
+1. Cooperation 
+1. Courage
 
-Patience 
-Focus 
-Calmness 
-Cleverness 
-Honesty 
+### Items
+1. A golden beetle 
+1. A sapphire teardrop 
+1. A scroll with a river drawn upon it. Along the river there is a poem. 
+1. A living fox with a silver hide 
+1. A glass plate 
+1. 20 identical stone leaves 
+1. A spearshaft with a black banner wrapped across it
 
-Selflessness 
-
-Trust/loyalty 
-
-Cooperation 
-
-Courage
-
-Items
-1. 
-A golden beetle 
-2. 
-A sapphire teardrop 
-3. 
-A scroll with a river drawn upon it. Along the river there is a poem. 
-4. 
-A living fox with a silver hide 
-5. 
-A glass plate 
-6. 
-20 identical stone leaves 
-7. 
-A spearshaft with a black banner wrapped across it
-
-Locations
-1. 
-A forest of mirrors 
-2. 
-A gladiatorial combat arena 
-3. 
-A highstilted set of stones 
-4. 
-A cave with blackened walls 
-5. 
-A chasm with poisonous gas 
-6. 
-A gate with two godlike statues who appear to be enemies 
-7. 
-The library of Aga Brakksi
+### Locations
+1. A forest of mirrors 
+1. A gladiatorial combat arena 
+1. A highstilted set of stones 
+1. A cave with blackened walls 
+1. A chasm with poisonous gas 
+1. A gate with two godlike statues who appear to be enemies 
+1. The library of Aga Brakksi
