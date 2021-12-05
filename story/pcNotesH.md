@@ -1,7 +1,7 @@
 ---
 These are the notes for the HTX group
 ---
-#htx #story #mika #aesh #sker #ækuf #ouli
+#htx #story
 ## The skyrates
 [[Skërlite]] is the main healer and can take quite a hit. Strange creature though.
 [[Mikalei]] the scholar of the group. Very explorative and questionate. What a nightmare.
