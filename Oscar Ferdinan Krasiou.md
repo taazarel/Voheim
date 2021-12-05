@@ -1,4 +1,4 @@
-#npc 
+#antagonist #npc 
 ### TYPE
 Nemesis/Plotter - Mentor
 
