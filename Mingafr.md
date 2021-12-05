@@ -1,0 +1,2 @@
+#npc 
+Chief of [[Råkram]]
