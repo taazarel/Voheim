@@ -13,19 +13,23 @@ Session 1.
 The starting date is the 3rd of brinat 8423.
 Mika is sassy towards Aesh. Mika has a grudge against Ækuf. 
 Skerlite stopped a cultist ritual that tried to summon Mokov, by powerwashing the runes. 
+
 Session 2.
 The starting date is the 5th of brinat.
 The party was thanked for helping Lobëni with their infestation of cultists, and leave for Nusa'kö'nuëv to find a faster way towards the capital. 
 Ouli and Mika met Hul ci sannesh in Nusa'kö'nuëv. They discovered mokov by name and "big black fog devouring shit".
-Waiting for the sky-ship the party asked for voyage, but when the captain and crew left the ship for hours they decided to commandeer the ship instead. Throwing the last two crewmates overboard they began raising the ship, but not before being discovered by the guards. The guards tried to capsize the ship with a battering ram, but to no avail. The party killed 4 guards and left with the ship mostly unscathed. The skyship the party stole is called [Sebángoush](Frontiers Edge)
+Waiting for the sky-ship the party asked for voyage, but when the captain and crew left the ship for hours they decided to commandeer the ship instead. Throwing the last two crewmates overboard they began raising the ship, but not before being discovered by the guards. The guards tried to capsize the ship with a battering ram, but to no avail. The party killed 4 guards and left with the ship mostly unscathed. The skyship the party stole is called @Sebángoush(vehicle)
+
 Session 3.
 The starting date was. 22nd of Brinat. 
 The party started out on their ship. They discussed where to head next, and decided to head to Tamnënavë to pick up supplies and a crew. On their way, Sannesh made contact with Mika again through a magical scarecrow and letter. Ækuf tailed the mayor, stole his purse, infiltrated his manor and escaped his guards managing to assault the guard captain leaving him wounded. The party then left for Röso arriving just in time for the horse-race festival, they bet and won money on the underdog horse (maybe a little cheating was involved). Ækuf noticed one of the sunset tower leave silently (he sabotaged the leading horse's saddle and was ready to make another fall with a sleep dart). Ouli bought out an entire herbal shop and Aesh exchanged a ruby for 100 gold and 4 platinum. Mika also found Sanesh's shop again and sold the iron crates. 
 When the party gathered in the captains quarters to show off their newfound wealth, a thief from the sunset tower showed up with a proposition for the party.
+
 Session 4.
 The starting date was 26th of Brinat. 
 Eutshé asked the party to help him with a heist to the anchor of dahjui. The party agreed and entered the keep. Wherein they found the bounty Eutshé was looking for as well as tools for opening the safe on their ship. A fight broke out and Ækuf had a vision when he was bleeding out. He saw his family members in flames which rose from runes in a void. There he also saw his childhood friend.
 The party managed to live and leave with the bounty and ship somewhat intact. When arriving in Röso once again Eutshé offered the party to form their own cell in his orginization. 
+
 Session 5.
 The starting date was 27th of Brinat.
 The party did some erands in the city. Skërlite went to the library and made paint. Ouli bought some Tisen babies. Mika found an artificer to help increase capacity of the ship. Mika then went on to lose a platinum piece to gamlbing. The skyrates then bought 30 silvers worth of cured hides and 1 gold worth of fruits and nuts. Selling this cargo at Kö'tuom made them quite a bit of money. They then ordered a set of cannons, a harpoon and a pulley.
@@ -33,6 +37,7 @@ On the way to Kö'tuom they found a shimmer of Menun's silver dagger floating in
 Ækuf and Skërlite found a spy for the earthern snake. They apprehended the spy while robbing him and reported him to the guards.
 After two days. The skyrates were attackdd by the same guild again. They were equiped with oil fires and tried to stealth up to the ship. 
 Acid Face was rescued by a mysterious invisible person
+
 Session 6.
 The starting date was 10th of Branat.
 The party made the captured bandit betray his comrades by leading them to their hideout. When there he alerts his crew and is killed immediantly. 
@@ -47,5 +52,24 @@ Mika used all her money for spells. wizards amiright?
 Ækuf and Ouli met Sannesh. He sold them a modern fish-net and a burger-box. 
 Ækuf also bought a cursed dagger from Sannesh called world ender. Sannesh was hesitant to give any information about its curse even though Ækuf paid a gold piece.
 The party then made their way to the capital of Anumivo. 
+
 Session 7.
-The starting date was the 17th of Bronat. 
+The starting date was the 17th of Bronat.
+They started off with meeting the dockmaster. Then Mika went to Nanmaiei to order some outfits, suprising her with an illusion and cannonfire. 
+Aesh went to explore the city and socialize and Ækuf went into the slums to gamble. 
+Ouli decided to find a workshop to upgrade the airship.
+Skërlite wanted to pit-fight. The skyrates went to cattown to find a place, then bet on skërlite and won big. 
+While there the party encountered a shadowy theif, trying to sabotage their totally fair play. 
+They brought this culprit to their ship only to see them slip away through teleportation immediantly after.
+Nebusiton approached the party concerning their public image and mentioned Gilvuv would smooth things over. When back to the ship, Gilvuv arrived to greet the party.
+Gilvuv discussed the trip and ceremony with the party, as well as the meeting which would take place 1 week beforehand. 
+The party upgraded their ship to a leviathan-class and their machine was also upgraded. 
+During their stay a high-storm hit Sinea. Skërlite and Ouli comforted Aesh through the worst part. 
+Aesh scyed with an old friend, Mika then called in a favour from Bliun. Bliun then fetched crystals for the ships array.
+During the science fair, Luna was requited by Bliun, he gave her 3 months asylum with more provided she worked hard. A week later she would make a new discovery.
+Also in the science fair an old friend of Mika invented a way of quickly transporting materials from place to place.
+Voei is a douche.
+A week before the celebration a meeting was held to inform the party about the severity of this quest for aga brakksi.
+The members stressed the dangers of damaging the soul. Moreover that the party might face curated tests for worthiness. To top it all of a shadow-organization might be trying to stop the skyrates and their rival group by force.
+The rivals, oficially called Mato Exim is lead by the purple tiefling Lavender.
+Every skyrate was flooded with applause on their way to the worlds end. 
