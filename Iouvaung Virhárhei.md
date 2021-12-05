@@ -1,3 +1,4 @@
+#npc #rival 
 Pronounced {Jo, Vah-ng} Nickname: Lavender
 
 Born in Beausi
