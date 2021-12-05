@@ -1,5 +1,5 @@
 #pc #htx 
-
+## Description
 Wants revenge for his parents, and wants material goods. Needs to let go of all material things and all attachments to gain peace.
 Is revenge really worth it? Will all the worlds treasures distract you from happiness?'
 

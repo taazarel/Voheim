@@ -8,26 +8,30 @@ These are the notes for the HTX group
 [[Ouli]] is the bard. Has yet to do bard things. Hope it stays that way.
 [[Aesh]], a very straight-forward person. Not that this is a bad thing.
 [[Ækuf]], oh Ækuf. Why are you still here? you only care for one person amongst this group. and that is the monster...
+& Some honorary members of the party:
+[[Luna]] is a very interesting person for this party. Bit of a rocky start to their relationship.
 
 Session 1.
 The starting date is the 3rd of brinat 8423.
 Mika is sassy towards Aesh. Mika has a grudge against Ækuf. 
-Skerlite stopped a cultist ritual that tried to summon Mokov, by powerwashing the runes. 
+Skerlite stopped a cultist ritual that tried to summon [[Mokov]], by powerwashing the runes. 
 
 Session 2.
 The starting date is the 5th of brinat.
-The party was thanked for helping Lobëni with their infestation of cultists, and leave for Nusa'kö'nuëv to find a faster way towards the capital. 
-Ouli and Mika met Hul ci sannesh in Nusa'kö'nuëv. They discovered mokov by name and "big black fog devouring shit".
-Waiting for the sky-ship the party asked for voyage, but when the captain and crew left the ship for hours they decided to commandeer the ship instead. Throwing the last two crewmates overboard they began raising the ship, but not before being discovered by the guards. The guards tried to capsize the ship with a battering ram, but to no avail. The party killed 4 guards and left with the ship mostly unscathed. The skyship the party stole is called @Sebángoush(vehicle)
+The party was thanked for helping [[Lobëni]] with their infestation of cultists, and leave for Nusa'kö'nuëv to find a faster way towards the capital. 
+Ouli and Mika met [Hul ci sannesh](Sannesh.md) in [[Nusa'kö'nuëv]]. They discovered mokov by name and "big black fog devouring shit".
+Waiting for the sky-ship the party asked for voyage, but when the captain and crew left the ship for hours they decided to commandeer the ship instead. Throwing the last two crewmates overboard they began raising the ship, but not before being discovered by the guards. The guards tried to capsize the ship with a battering ram, but to no avail. The party killed 4 guards and left with the ship mostly unscathed. The skyship the party stole is called [[Sebángoush]]
 
 Session 3.
 The starting date was. 22nd of Brinat. 
-The party started out on their ship. They discussed where to head next, and decided to head to Tamnënavë to pick up supplies and a crew. On their way, Sannesh made contact with Mika again through a magical scarecrow and letter. Ækuf tailed the mayor, stole his purse, infiltrated his manor and escaped his guards managing to assault the guard captain leaving him wounded. The party then left for Röso arriving just in time for the horse-race festival, they bet and won money on the underdog horse (maybe a little cheating was involved). Ækuf noticed one of the sunset tower leave silently (he sabotaged the leading horse's saddle and was ready to make another fall with a sleep dart). Ouli bought out an entire herbal shop and Aesh exchanged a ruby for 100 gold and 4 platinum. Mika also found Sanesh's shop again and sold the iron crates. 
-When the party gathered in the captains quarters to show off their newfound wealth, a thief from the sunset tower showed up with a proposition for the party.
+The party started out on their ship. They discussed where to head next, and decided to head to [[Tamnënavë]] to pick up supplies and a crew. On their way, Sannesh made contact with Mika again through a magical scarecrow and letter. 
+Ækuf tailed the mayor, stole his purse, infiltrated his manor and escaped his guards managing to assault the guard captain leaving him wounded. The party then left for [[Röso]] arriving just in time for the horse-race festival, they bet and won money on the underdog horse (maybe a little cheating was involved). Ækuf noticed one of [[The Sunset Tower]] leave silently (he sabotaged the leading horse's saddle and was ready to make another fall with a sleep dart). 
+Ouli bought out an entire herbal shop and Aesh exchanged a ruby for 100 gold and 4 platinum. Mika also found Sanesh's shop again and sold the iron crates. 
+When the party gathered in the captains quarters to show off their newfound wealth, [a thief from the sunset tower](npc/Eutshé.md) showed up with a proposition for the party.
 
 Session 4.
 The starting date was 26th of Brinat. 
-Eutshé asked the party to help him with a heist to the anchor of dahjui. The party agreed and entered the keep. Wherein they found the bounty Eutshé was looking for as well as tools for opening the safe on their ship. A fight broke out and Ækuf had a vision when he was bleeding out. He saw his family members in flames which rose from runes in a void. There he also saw his childhood friend.
+Eutshé asked the party to help him with a heist to The anchor of Dahjui. The party agreed and entered the keep. Wherein they found the bounty Eutshé was looking for as well as tools for opening the safe on their ship. A fight broke out and Ækuf had a vision when he was bleeding out. He saw his family members in flames which rose from runes in a void. There he also saw his childhood friend.
 The party managed to live and leave with the bounty and ship somewhat intact. When arriving in Röso once again Eutshé offered the party to form their own cell in his orginization. 
 
 Session 5.
