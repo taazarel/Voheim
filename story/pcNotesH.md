@@ -65,21 +65,21 @@ The party then made their way to [[Sinea]].
 
 Session 7.
 The starting date was the 17th of Bronat.
-They started off with meeting the dockmaster. Then Mika went to Nanmaiei to order some outfits, suprising her with an illusion and cannonfire. 
+They started off with meeting the dockmaster. Then Mika went to [[Nanmaiei]] to order some outfits, suprising her with an illusion and cannonfire. 
 Aesh went to explore the city and socialize and Ækuf went into the slums to gamble. 
 Ouli decided to find a workshop to upgrade the airship.
-Skërlite wanted to pit-fight. The skyrates went to cattown to find a place, then bet on skërlite and won big. 
-While there the party encountered a shadowy theif, trying to sabotage their totally fair play. 
+Skërlite wanted to pit-fight. The skyrates went to [[Cattown]] to find a place, then bet on skërlite and won big. 
+While there the party encountered a shadowy theif, trying to sabotage their "totally fair play". 
 They brought this culprit to their ship only to see them slip away through teleportation immediantly after.
-Nebusiton approached the party concerning their public image and mentioned Gilvuv would smooth things over. When back to the ship, Gilvuv arrived to greet the party.
+Nebusiton approached the party concerning their public image and mentioned [[Gilvuv]] would smooth things over. When back to the ship, Gilvuv arrived to greet the party.
 Gilvuv discussed the trip and ceremony with the party, as well as the meeting which would take place 1 week beforehand. 
 The party upgraded their ship to a leviathan-class and their machine was also upgraded. 
 During their stay a high-storm hit Sinea. Skërlite and Ouli comforted Aesh through the worst part. 
-Aesh scyed with an old friend, Mika then called in a favour from Bliun. Bliun then fetched crystals for the ships array.
-During the science fair, Luna was requited by Bliun, he gave her 3 months asylum with more provided she worked hard. A week later she would make a new discovery.
-Also in the science fair an old friend of Mika invented a way of quickly transporting materials from place to place.
+Aesh scryed with an [old friend](npc/Oscar%20Krasiou.md), Mika then called in a favour from Bliun. Bliun then fetched crystals for the ships array.
+During the science fair, Luna was requited by [[Bliun]], he gave her 3 months asylum with more provided she worked hard. A week later she would make a new discovery.
+Also in the science fair [an old friend of Mika](Hrouei.md) invented a way of quickly transporting materials from place to place.
 Voei is a douche.
 A week before the celebration a meeting was held to inform the party about the severity of this quest for aga brakksi.
-The members stressed the dangers of damaging the soul. Moreover that the party might face curated tests for worthiness. To top it all of a [shadow-organization](Odium) might be trying to stop the skyrates and their rival group by force.
+The members stressed the dangers of damaging the soul. Moreover that the party might face curated tests for worthiness. To top it all of a [shadow-organization](lore/Odium.md) might be trying to stop the skyrates and their rival group by force.
 The rivals, oficially called [[Mato Exim]] is lead by [the purple tiefling Lavender](Iouvaung Virhárhei.md).
 Every skyrate was flooded with applause on their way to [[The World's End]]. 

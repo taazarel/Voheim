@@ -1,3 +1,4 @@
+#npc
 Real name is classified. Bliun means butterfly, and is a nickname given to him by his wife, the head of An-rivatch.
 
 ### Quotes
