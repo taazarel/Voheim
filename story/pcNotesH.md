@@ -80,6 +80,6 @@ During the science fair, Luna was requited by [[Bliun]], he gave her 3 months as
 Also in the science fair [an old friend of Mika](Hrouei.md) invented a way of quickly transporting materials from place to place.
 Voei is a douche.
 A week before the celebration a meeting was held to inform the party about the severity of this quest for aga brakksi.
-The members stressed the dangers of damaging the soul. Moreover that the party might face curated tests for worthiness. To top it all of a [shadow-organization](lore/Odium.md) might be trying to stop the skyrates and their rival group by force.
+The members stressed the dangers of damaging the soul. Moreover that the party might face curated tests for worthiness. To top it all of a [shadow-organization](lore/Oudul.md) might be trying to stop the skyrates and their rival group by force.
 The rivals, oficially called [[Mato Exim]] is lead by [the purple tiefling Lavender](Iouvaung Virhárhei.md).
 Every skyrate was flooded with applause on their way to [[The World's End]]. 
