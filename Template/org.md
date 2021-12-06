@@ -49,8 +49,45 @@
 
 ### Territory
 
-Agricultu
+### Agriculture & Industry
+
+### Trade & Transport
+
+#### Imports
+
+#### Exports
+
+### Education
+
+### Infrastructure
+
+### Technological & Scientific Level
 
 ## Religious
+### Deities
 
+### Mythology
+
+### Origins
+
+### Cosmology
+
+### Tenets of Faith
+
+### Priesthood
+
+#### Granted Divine Powers
+
+### Ethics
+
+### Political Influence
+
+### Worship
+
+### Sects
 ## Military
+### Formation Type
+
+### Training Level
+
+### Veterancy
