@@ -64,4 +64,8 @@
 
 ### Species
 
-### 
+### Items
+
+### Technologies
+
+### Professions
