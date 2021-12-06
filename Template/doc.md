@@ -4,7 +4,7 @@
 ## Generic
 ### Medium
 
-### Related Location
+### Related Locations
 
 ### Related Litterature
 
@@ -23,7 +23,9 @@
 
 ## Historical Details
 - Authoring Date:
-- 
+- Ratification Date:
+- Expiration Date:
+
 
 ### Cultural, Historical & Political Background
 

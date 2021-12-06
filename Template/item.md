@@ -33,3 +33,7 @@
 ### Related Condition
 
 ### Related Ethnicities
+
+# Whereabouts
+- Current Geographic Location:
+- Current Holder:
