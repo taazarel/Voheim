@@ -2,14 +2,18 @@
 # Description
 
 ## Generic
-- Parent Plot:
+- Related Plots:
 - Related Guilds:
 - Related Locations:
 - Plot Type:
 - Completion Date:
 
-## Characters
+### Characters
+#### Plotters
 
+#### Advesaries
+
+#### Competition
 
 ### Toolkit
 #### Allies
