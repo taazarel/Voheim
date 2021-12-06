@@ -1,4 +1,4 @@
-#lore #faction 
+#lore #guild 
 ## Description
 A zealous group who keeps checks-and-balances through questions to each other.  
  Their attention was caught when the party acquired their ship. To not have them ruin their plans they sent warnings throughout their ranks.  

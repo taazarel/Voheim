@@ -1,4 +1,4 @@
-#lore #faction 
+#lore #guild 
 ## Description
 A notorious group for stealing the most valuable of treasures.
 

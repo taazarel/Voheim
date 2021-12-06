@@ -1,4 +1,4 @@
-#faction #lore 
+#guild #lore 
 ## Description
 The black boots. The name which they got from psychological warfare, smothering their boots and horseshoes with ash and coal as to leave dark stains upon the ground they tread. But be warned, their fierce reputation is not just rumor, this group is full of hardened warriors and dangerous people.  
 "Boats we ave already" -- "But what'about falling from the sky? eh?" ---- "Then it is decided, we will find these thieves and take their ship"
