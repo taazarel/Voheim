@@ -41,3 +41,12 @@
 ### Uses byproducts & Exploitation
 
 ## Sapience
+### History
+
+### Major Ethnicities
+
+### Interspecies Relations
+
+### Taboos
+
+### Myths & Legends
