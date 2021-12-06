@@ -26,7 +26,7 @@
 
 ### Manufacturer
 
-### Owning Orginization
+### Owning Guilds
 
 ### Related Technologies
 

@@ -11,7 +11,7 @@
 ### Creation Process
 - Author
 - Signatories for backers:
-- Signatories for orginizations:
+- Signatories for guilds:
 
 ### Purpose
 ## Structure

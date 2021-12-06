@@ -6,7 +6,11 @@
 ## Culture
 
 # Capitals
+
 # Regions
+
 ## Cities
+
 ## Towns
+
 ## Villages

@@ -7,7 +7,7 @@
 - Ruination Date:
 - Owner/Ruler:
 - Owning Rank:
-- Owning Orginizations:
+- Owning Guilds:
 - Alternate Names:
 
 ### Purpose

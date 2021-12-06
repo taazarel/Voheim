@@ -8,7 +8,7 @@
 - Ruiners:
 - Ruler/Owner:
 - Owning Rank:
-- Owning Orginizaitons:
+- Owning Guilds:
 - Alternate Names:
 - Population:
 - Denonym of Inhabitants:

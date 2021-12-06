@@ -56,4 +56,4 @@
 
 ## Parent Ethnicities
 
-## Major Orginizations
+## Major Guilds

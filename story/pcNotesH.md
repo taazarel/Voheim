@@ -32,7 +32,7 @@ When the party gathered in the captains quarters to show off their newfound weal
 Session 4.
 The starting date was 26th of Brinat. 
 Eutshé asked the party to help him with a heist to [[The anchor of Dahjui]]. The party agreed and entered the keep. Wherein they found the bounty Eutshé was looking for as well as tools for opening the safe on their ship. A fight broke out and Ækuf had a vision when he was bleeding out. He saw his family members in flames which rose from runes in a void. There he also saw his childhood friend.
-The party managed to live and leave with the bounty and ship somewhat intact. When arriving in Röso once again Eutshé offered the party to form their own cell in his orginization. 
+The party managed to live and leave with the bounty and ship somewhat intact. When arriving in Röso once again Eutshé offered the party to form their own cell in his guild. 
 
 Session 5.
 The starting date was 27th of Brinat.

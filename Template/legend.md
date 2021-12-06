@@ -23,6 +23,6 @@
 - Ethnicities:
 - Species:
 - Locations:
-- Orginizations:
+- Guilds:
 - Items:
 - Vehicles:

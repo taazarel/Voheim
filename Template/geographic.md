@@ -4,8 +4,8 @@
 - Parent Location:
 - Ruler/Owner:
 - Owning Rank:
-- Owning Orginizations
-- Contesting Orginizations:
+- Owning Guilds:
+- Contesting Guilds:
 - Alternate Names:
 
 ## Geography
