@@ -1,6 +1,8 @@
 #millt #lore 
 # Description
 
+## Type
+
 ## Composition
 ### Parent Formation
 
@@ -21,10 +23,24 @@
 
 #### Vehicles
 
-### Strategy
-#### Command Structure
+### Command Structure
 
-#### Tactics
+### Tactics
 
-#### Training
+### Training
 
+## Logistics
+### Logistical Support
+
+### Auxilia
+
+### Upkeep
+
+### Recruitment
+
+## Historical Details
+### Founding & Dissolution Date
+
+### History
+
+### Loyalties

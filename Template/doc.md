@@ -8,9 +8,10 @@
 
 ### Related Litterature
 
-### Authors
-
-#### Signatories for orginizations and characters
+### Creation Process
+- Author
+- Signatories for backers:
+- Signatories for orginizations:
 
 ### Purpose
 ## Structure
@@ -21,7 +22,8 @@
 ### Legal & Publication Status
 
 ## Historical Details
-### Authoring, Expiration & Ratification Date
+- Authoring Date:
+- 
 
 ### Cultural, Historical & Political Background
 
