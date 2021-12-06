@@ -53,7 +53,7 @@ The starting date was 10th of Branat.
 The party made the captured bandit betray his comrades by leading them to their hideout. When there he alerts his crew and is killed immediantly. 
 Ouli breaks the only light-source and blinds everyone in the cave. Ækuf goes on killing 6 bandits. [They bring a new hostage back to their ship and imprison him in the brig.](npc/Ilsem.md)
 The city guards warn the party not to partake in gang-wars again, and advises them to use common-sense.
-While discussing their next direction the voice of [[Nebusiton]] greeted them and tried to inquire about a quest. They then teleported onto the deck with a mage, and told the skyrates about [[Aga Brakksi]].
+While discussing their next direction the voice of [[Nebusiton Ovibosa]] greeted them and tried to inquire about a quest. They then teleported onto the deck with a mage, and told the skyrates about [[Aga Brakksi]].
 The party was granted 20 platinum pieces and given the rest of the month and another month to spend it and prepare:
 - Aesh bought Mythril armor and an orichalcum glaive.
 - Ouli bought 25 barrels of crude oil and 3 orichalcum rapiers.
