@@ -1,1 +1,1 @@
-#location #lore 
+#location #lore #geographic 

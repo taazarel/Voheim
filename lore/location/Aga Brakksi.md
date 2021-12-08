@@ -1,4 +1,4 @@
-#lore #location #legend
+#lore #location #legend #settlement 
 ## The story
 The legend of Aga Brakksi (Tragedy)
 

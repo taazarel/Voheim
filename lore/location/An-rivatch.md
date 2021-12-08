@@ -1,4 +1,4 @@
-#location #lore 
+#location #lore #building 
 
 The school where [[Mikalei]] learned magic and grew up in her adolesent years.
 

@@ -1,4 +1,4 @@
-#location #lore 
+#location #lore #geographic 
 This is the wheel of moons. Seven continents.
 # Locations
 ## Continents

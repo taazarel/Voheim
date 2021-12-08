@@ -1,2 +1,2 @@
-#location #lore 
+#location #lore #settlement 
 Means fountain, small city.

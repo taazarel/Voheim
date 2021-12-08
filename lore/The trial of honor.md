@@ -1,4 +1,4 @@
-#lore 
+#lore #ritual 
 ## Description
 The trial of honour is a ritual which every 15 year old must complete. It will change according to the choices of the person. The person must choose a way to prove their courage and honour to the family and village. Most just complete it in order to please the family tradition, but some take it more seriously. 
 There once was a young man called [[Rofra]] who decided to swim from one great isle to another. A journey that takes many weeks on a boat. But he survived and became a legend.

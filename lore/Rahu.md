@@ -1,4 +1,4 @@
-#guild #lore 
+#ethnicity #lore 
 ## Description
 The people of Ritu are peaceful and harmonious. Every day they sing to the trees and land, they do no harm to the land, trees, and animals but rather perfect their craftsmanship. 
  To outsiders Ritu sounds like a paradise, and to most it is. No conflict, only time to do what you love.

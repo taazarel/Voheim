@@ -1,4 +1,4 @@
-#location #lore 
+#location #lore #building 
 ## Description
 Some 50 kilometers off the coast of [[Röso]] is a small island. The isle of Dahjui.   
  This island is host to one of the greatest prisons in Ritu, and is named after the dragon who founded the fortress.   

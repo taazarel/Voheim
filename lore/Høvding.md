@@ -1,4 +1,4 @@
-#lore 
+#lore #rank 
 A title specific to [[Kragvi]]. The chieftain of a city has a lot of responsibility, but its also the one of the highest honours a Viking can gain.
 
 ### Qualifications

@@ -1,4 +1,4 @@
-#location #lore 
+#location #lore #settlement 
 ## Description
 Råkram is the second-largest city in all of Kragvi. They have it easy most Vikings say. Well I have been there and I say they have it much harder than any not of Kragvi. There are just different standards for "danger" in the rest of the world.
 

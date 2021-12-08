@@ -1,4 +1,4 @@
-#lore #guild 
+#lore #ethnicity 
 ## Culture
 Det nomadiske folk bruger det meste af deres tid på at følge stjernerne, interagere med verdenen omkring dem og efterlade alle steder hvor de er bedre end før. De taler langsomt, blødt og kærligt til andre. Sothos-mænd og kvinder er som regel meget glade for deres liv og tager ting som de kommer.
 ## Description

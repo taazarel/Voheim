@@ -1,4 +1,4 @@
-#location #lore 
+#location #lore #settlement 
 A large coastal city known for its horseracing. By its coast lies [[The anchor of Dahjui]].
 
 5000 People 

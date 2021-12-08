@@ -1,4 +1,4 @@
-#location #lore 
+#location #lore #settlement 
 The capital of Anumivo
 
 ## Personel
