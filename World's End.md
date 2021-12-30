@@ -1,6 +1,6 @@
 #vehicle #lore #item #htx 
 # Description
-The newly Crisen ship of the skyrates. Stolen from [[Ourabasá]] and upgraded at [[Sinea]]. The skyrates have increased its speed, firepower and sturdyness at a cost of cargospace.
+The newly crisen ship of the skyrates. Stolen from [[Ourabasá]] and upgraded at [[Sinea]]. The skyrates have increased its speed, firepower and sturdyness at a cost of cargospace.
 ## Identity
 - Class: Leviathan millitary class
 - Nickname: Sebángoush
@@ -29,11 +29,11 @@ The newly Crisen ship of the skyrates. Stolen from [[Ourabasá]] and upgraded at
 ### Propulsion
 
 ### Weapons & Armaments
-
+Two cannons powered by craft-crystals, one on each side of the ship. An additional harpoon for boarding ships, and tisen which when fully grown can be utilized as a strike-team.
 ### Armor & Defences
 
 ### Communication Tools & Systems
-
+There are pipes on the ship allowing for easy verbal communication between stations. As well as bells for sounding the alarm, lunch and so on.
 ### Sensors:
 
 ### Additional & Auxiliary Systems
