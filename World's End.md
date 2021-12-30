@@ -4,8 +4,8 @@ The newly Crisen ship of the skyrates. Stolen from [[Ourabasá]] and upgraded at
 ## Identity
 - Class: Leviathan millitary class
 - Nickname: Sebángoush
-- Designation: 
-- Motto:
+- Designation: zym.v.wugna tuqp p-id-kqkl
+- Motto: World ender on worlds end hopefully wont bring about the end of the world. - The crew
 - Creation Date: The 28th of Brunat, year 8423.
 - Manufacturer:
 - Related Primary Location:
