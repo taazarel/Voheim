@@ -1,23 +1,19 @@
 #vehicle #lore #item #htx 
 # Description
-
+The newly Crisen ship of the skyrates. Stolen from [[Ourabasá]] and upgraded at [[Sinea]]. The skyrates have increased its speed, firepower and sturdyness at a cost of cargospace.
 ## Identity
 - Class: Leviathan millitary class
 - Nickname: Sebángoush
 - Designation: 
 - Motto:
-- Creation Date: 
-	- Decommission Date:
-	- Destruction Date:
+- Creation Date: The 28th of Brunat, year 8423.
 - Manufacturer:
 - Related Primary Location:
-- Owner:
-- Owning Guild:
-- Millitary Unit use:
+- Owner: The Skyrates
 
 ## Properties
-- Related Tech:
-- Price:
+- Related Tech: [[Airship]]
+- Price: 
 - Rarity:
 - Length:
 - Height:
