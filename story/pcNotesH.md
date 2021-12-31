@@ -20,7 +20,7 @@ Session 2.
 The starting date is the 5th of brinat.
 The party was thanked for helping [[Lobëni]] with their infestation of cultists, and leave for Nusa'kö'nuëv to find a faster way towards the capital. 
 Ouli and Mika met [Hul ci sannesh](Sannesh.md) in [[Nusa'kö'nuëv]]. They discovered mokov by name and "big black fog devouring shit".
-Waiting for the sky-ship the party asked for voyage, but when the captain and crew left the ship for hours they decided to commandeer the ship instead. Throwing the last two crewmates overboard they began raising the ship, but not before being discovered by the guards. The guards tried to capsize the ship with a battering ram, but to no avail. The party killed 4 guards and left with the ship mostly unscathed. The skyship the party stole is called [[Sebángoush]]
+Waiting for the sky-ship the party asked for voyage, but when the captain and crew left the ship for hours they decided to commandeer the ship instead. Throwing the last two crewmates overboard they began raising the ship, but not before being discovered by the guards. The guards tried to capsize the ship with a battering ram, but to no avail. The party killed 4 guards and left with the ship mostly unscathed. The skyship the party stole is called [Sebangoúsh](World's%20End.md)
 
 Session 3.
 The starting date was. 22nd of Brinat. 
