@@ -18,9 +18,4 @@ They wear expensive clothes that are wonderful
 Wants to get the transgender spell. And will if she succeeds. She is exited for this oppurtunity and the glory that comes with it.
 Her and her band are rivals to Nebusiton and thus will not fight.
 
-Her group consist of:
-
-1. [[Skip, the lance ]]
-1. [[Pen, the brains ]]
-1. [[Small-arm, the powerhouse ]]
-1. [[Bottle, Heart of the team]]
+She is the leader of [[Mato Exim]]

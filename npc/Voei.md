@@ -14,4 +14,9 @@ Somewhat high-stakes. Allways has a backup plan as a teacher, but he does want t
 ## Machnations
 Anything he can think of to get ahead. From bribery, to hard-work and politics. Hard-work is the last resort though...
 # Appearance, Personality & Background
-Human wizard. 21 years old. Demiboy
+Human wizard. 21 years old. Demiboy.
+Dark hair swooped to the side. Warm eyes and pronounced eyebrows.
+
+Straight. Boastful > Hardworking.
+
+From a well-off village with his brother [[Hrouei]], uses politics to be welcome in [[Sinea]].
