@@ -109,12 +109,6 @@
       "modifiers": [
         "Alt"
       ],
-      "key": "E"
-    },
-    {
-      "modifiers": [
-        "Alt"
-      ],
       "key": "S"
     }
   ],
@@ -149,7 +143,7 @@
   "templater-obsidian:insert-templater": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": "E"
     }
