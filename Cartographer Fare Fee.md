@@ -10,25 +10,8 @@ A cartographer was sent to Ritu on a mission of mapping the region, as well as r
 
 ### Characters
 #### Plotters
-
+The people who hired Mato exim, and the skyrates
+- [[Unn]]
 #### Advesaries
-
-#### Competition
-
-### Toolkit
-#### Allies
-
-#### Assets
-
-#### Manpower
-
-#### Locations
-
-### Contingencies
-
-## Components
-### Goals
-
-### Hooks
-
-### Stakes
+The people of RItu, and the senate of Ritu in particular.
+[[Senate of Ritu]]
