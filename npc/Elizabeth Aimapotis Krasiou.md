@@ -42,7 +42,7 @@ Their shared collection of impressive size and important people. Their love for 
 
 ### SHARED ACQUAINTANCES
 
-The mage [[Erik Ulhjar]] who helped the couple arrange their collection, among other things. War general [[Valmar S.D. Wulf]], whom Ferdinan served under in the army.
+The mage Erik Ulhjar who helped the couple arrange their collection, among other things. War general Valmar S.D. Wulf, whom Ferdinan served under in the army.
 
 ### LEGAL STATUS
 Married
