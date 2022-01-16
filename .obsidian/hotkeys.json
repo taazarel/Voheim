@@ -109,12 +109,6 @@
       "modifiers": [
         "Alt"
       ],
-      "key": "E"
-    },
-    {
-      "modifiers": [
-        "Alt"
-      ],
       "key": "S"
     }
   ],
@@ -136,15 +130,7 @@
       "key": "G"
     }
   ],
-  "note-refactor-obsidian:app:extract-selection-first-line": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "L"
-    }
-  ],
+  "note-refactor-obsidian:app:extract-selection-first-line": [],
   "note-refactor-obsidian:app:extract-selection-content-only": [
     {
       "modifiers": [
@@ -153,19 +139,11 @@
       "key": "L"
     }
   ],
-  "note-refactor-obsidian:app:extract-selection-autogenerate-name": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "L"
-    }
-  ],
+  "note-refactor-obsidian:app:extract-selection-autogenerate-name": [],
   "templater-obsidian:insert-templater": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": "E"
     }
@@ -176,6 +154,22 @@
         "Alt"
       ],
       "key": "A"
+    }
+  ],
+  "editor:focus-bottom": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:focus-top": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowUp"
     }
   ]
 }
