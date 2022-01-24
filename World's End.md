@@ -59,4 +59,21 @@ There are pipes on the ship allowing for easy verbal communication between stati
 
 ## Crew
 - [[Kikosi Ëmnanimusöbu]], The carpenter
-- 
+- Ritu, The Carpenter
+- RItu, The Surgeon/Doctor
+- Ritu, The Scout
+- Glalei
+- Glalou
+- Hreivei
+- Feivei
+- Aneivei
+- Manbreinei
+- Uhrn
+- Ahrm
+- Einio
+- Mobrtch
+- Aehrann
+- Mounm
+- Niyou
+- Aurus
+- Ngisaussau
