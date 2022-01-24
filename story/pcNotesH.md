@@ -83,3 +83,6 @@ A week before the celebration a meeting was held to inform the party about the s
 The members stressed the dangers of damaging the soul. Moreover that the party might face curated tests for worthiness. To top it all of a [shadow-organization](Oudul.md) might be trying to stop the skyrates and their rival group by force.
 The rivals, oficially called [[Mato Exim]] is lead by [the purple tiefling Lavender](Iouvaung Virhárhei.md).
 Every skyrate was flooded with applause on their way to [[World's End]]. 
+
+Session 8.
+The starting date was the 1st of Quczhat.
