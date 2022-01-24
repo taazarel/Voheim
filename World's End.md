@@ -30,7 +30,7 @@ Two Cannons
 - Related Tech: [[Airship]]
 - Price: The product value of a small towns output for 10 years
 - Rarity: Unique
-- Crew: 20 Including the skyrates
+- Crew: 21 Including the skyrates
 - Length: 100m
 - Height: 12m
 - Width: 18m
@@ -59,9 +59,9 @@ There are pipes on the ship allowing for easy verbal communication between stati
 
 ## Crew
 - [[Kikosi Ëmnanimusöbu]], The carpenter
-- Ritu, The Carpenter
-- RItu, The Surgeon/Doctor
-- Ritu, The Scout
+- Kaval, The Carpenter
+- Rëmnërin, The Surgeon/Doctor
+- Itef, The Scout
 - Glalei
 - Glalou
 - Hreivei
@@ -77,3 +77,5 @@ There are pipes on the ship allowing for easy verbal communication between stati
 - Niyou
 - Aurus
 - Ngisaussau
+- Eraffua
+- Ngijø
