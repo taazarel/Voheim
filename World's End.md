@@ -78,4 +78,4 @@ There are pipes on the ship allowing for easy verbal communication between stati
 - Aurus
 - Ngisaussau
 - Eraffua
-- Ngijø
+- Ngijø, The Cook
