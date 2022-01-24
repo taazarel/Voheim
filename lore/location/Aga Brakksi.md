@@ -15,14 +15,15 @@ All the items should be collected to find the last location***
 The party must prove themselves worthy of each item. The puzzles are designed to let virtous people pass.
 The virtues which are to be tested are:
 1. Patience 
-1. Focus 
-1. Calmness 
-1. Cleverness 
-1. Honesty 
-1. Selflessness 
-1. Trust/loyalty 
-1. Cooperation 
-1. Courage
+	1. 
+2. Focus 
+3. Calmness 
+4. Cleverness 
+5. Honesty 
+6. Selflessness 
+7. Trust/loyalty 
+8. Cooperation 
+9. Courage
 
 ### Items
 1. A golden beetle 
