@@ -53,9 +53,12 @@ The virtues which are to be tested are:
 1. A sapphire teardrop 
 1. A scroll with a river drawn upon it. Along the river there is a poem. 
 1. A living fox with a silver hide 
-1. A glass plate 
-1. 20 identical stone leaves 
+1. A glass bowl
 1. A spearshaft with a black banner wrapped across it
+2. A marble musicbox
+3. A plant of red sand
+4. Clay Scales (as in the weight)
+5. 20 identical stone leaves 
 
 ### Locations
 1. A forest of mirrors 
@@ -65,5 +68,6 @@ The virtues which are to be tested are:
 1. A chasm with poisonous gas 
 1. A gate with two godlike statues who appear to be enemies 
 2. A Sunken temple
-3. An overgrown 
-4. The library of Aga Brakksi
+3. An overgrown misty village
+4. A ruin under Öbaemnos
+5. The library of Aga Brakksi
