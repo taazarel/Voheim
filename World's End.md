@@ -1,6 +1,18 @@
 #vehicle #lore #item #htx 
 # Description
 The newly crisen ship of the skyrates. Stolen from [[Ourabasá]] and upgraded at [[Sinea]]. The skyrates have increased its speed, firepower and sturdyness at a cost of cargospace.
+## Statblock
+| Name             | Max HP | Threshold | AC  |
+| ---------------- | ------ | --------- | --- |
+| Hull             | 750    | 20        | 5   |
+| Living Quarters  | 200    | 20        | 5   |
+| Machine Room     | 150    | 30        | 5   |
+| Cargo Rooms      | 200    | 20        | 10  |
+| Rest of the Ship | 200    | 20        | 5   | 
+Note: These smaller areas may malfunction if their hp is completely drained.
+Topspeed: 180ft per Round / 30ft per second / 30km/t
+Two harpoons
+Two Cannons
 ## Identity
 - Class: Leviathan millitary class
 - Nickname: Sebángoush
@@ -16,7 +28,7 @@ The newly crisen ship of the skyrates. Stolen from [[Ourabasá]] and upgraded at
 - Price: The product value of a small towns output for 10 years
 - Rarity: 
 - Length: 100m
-- Height: 15m
+- Height: 12m
 - Width: 18m
 - Weight: 600t
 - Speed: 30 km/t 30ft/s. 180ft/R
@@ -25,7 +37,7 @@ The newly crisen ship of the skyrates. Stolen from [[Ourabasá]] and upgraded at
 
 ## Systems
 ### Power Generation
-Two parallel crystal-arrays
+Two parallel crystal-arrays.
 ### Propulsion
 
 ### Weapons & Armaments
