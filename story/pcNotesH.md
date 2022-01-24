@@ -86,3 +86,4 @@ Every skyrate was flooded with applause on their way to [[World's End]].
 
 Session 8.
 The starting date was the 1st of Quczhat.
+Ilsem told Ækuf that the python. The person who made the hit on the skyrates. His real name is Amosi.
