@@ -13,11 +13,11 @@ The newly crisen ship of the skyrates. Stolen from [[Ourabasá]] and upgraded at
 
 ## Properties
 - Related Tech: [[Airship]]
-- Price: 
-- Rarity:
-- Length:
-- Height:
-- Width:
+- Price: The product value of a small towns output for 10 years
+- Rarity: 
+- Length: 100m
+- Height: 15m
+- Width: 18m
 - Weight:
 - Speed: 
 - Crew:
