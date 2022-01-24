@@ -18,14 +18,14 @@ The newly crisen ship of the skyrates. Stolen from [[Ourabasá]] and upgraded at
 - Length: 100m
 - Height: 15m
 - Width: 18m
-- Weight:
-- Speed: 
-- Crew:
-- Cargo & Passenger Capacity:
+- Weight: 600t
+- Speed: 30 km/t 30ft/s. 180ft/R
+- Crew: Hired in Sinea
+- Cargo & Passenger Capacity: 100 ton. not counting armaments and crew. about 20 people.
 
 ## Systems
 ### Power Generation
-
+Two parallel crystal-arrays
 ### Propulsion
 
 ### Weapons & Armaments
