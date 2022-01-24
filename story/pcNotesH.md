@@ -89,3 +89,5 @@ The starting date was the 1st of Quczhat.
 Ilsem told Ækuf that the python. The person who made the hit on the skyrates. His real name is Amosi.
 The party had a relatively calm journey. But on the penultimate day, they flew into a skyeel's territory and had to fight it.
 Their ship almost plummeted into the ocean. but they recovered just in time.
+Then the party made their way into Öbaemnös, they bought some supplies, got some information and uncovered a marble tablet. 
+They met [[Mum the kobold]] and druid [[Ivuta]]
