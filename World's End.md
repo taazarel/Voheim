@@ -41,3 +41,6 @@ There are pipes on the ship allowing for easy verbal communication between stati
 ### Hangars & Docked Vessels
 
 ## Layout
+
+## Crew
+- 
