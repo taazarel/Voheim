@@ -2,15 +2,18 @@
 # Description
 The newly crisen ship of the skyrates. Stolen from [[Ourabasá]] and upgraded at [[Sinea]]. The skyrates have increased its speed, firepower and sturdyness at a cost of cargospace.
 ## Statblock
-| Name             | Max HP | Threshold | AC  |
-| ---------------- | ------ | --------- | --- |
-| Hull             | 750    | 20        | 5   |
-| Living Quarters  | 200    | 20        | 5   |
-| Machine Room     | 150    | 30        | 5   |
-| Cargo Rooms      | 200    | 20        | 10  |
-| Rest of the Ship | 200    | 20        | 5   | 
+| Name            | Max HP | Threshold | AC  |
+| --------------- | ------ | --------- | --- |
+| Hull            | 750    | 20        | 5   |
+| Living Quarters | 200    | 20        | 5   |
+| Machine Room    | 150    | 30        | 5   |
+| Cargo Rooms     | 200    | 20        | 10  |
+| Helm            | 100    | 10        | 5   |
+| Rest of Ship    | 100    | 20        | 5   | 
 Note: These smaller areas may malfunction if their hp is completely drained.
-Topspeed: 180ft per Round / 30ft per second / 30km/t
+Topspeed: 270ft per Round / 45ft per second / 50km/t
+**Note: Running for too long at topspeed is not recommended. Keep to 40km/t when traveling.**
+Acceleration: 10ft difference per action. Up to a total of 60ft difference per round.
 Two harpoons
 Two Cannons
 ## Identity
@@ -26,12 +29,11 @@ Two Cannons
 ## Properties
 - Related Tech: [[Airship]]
 - Price: The product value of a small towns output for 10 years
-- Rarity: 
+- Rarity: Unique
 - Length: 100m
 - Height: 12m
 - Width: 18m
 - Weight: 600t
-- Speed: 30 km/t 30ft/s. 180ft/R
 - Crew: Hired in Sinea
 - Cargo & Passenger Capacity: 100 ton. not counting armaments and crew. about 20 people.
 
