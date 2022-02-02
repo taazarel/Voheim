@@ -21,9 +21,21 @@ In her hands is a small shovel, by digging the last of the dirt from the mound t
 The sky is filled with stars in her room.
 On the left(western) wall there is a door with an inscription which reads:
 
-*To know what has passed is to know what must follow
+*Rings are forged with ends, yet created with none
+To know what has passed is to know what must follow
 As the sun rises at dawn, and is born anew upon each day
-As the forest burns before the might of flame, and yet *
+As the forest burns before the might of flame, and yet again may grow
+As Sapen is born and may birth new life themselves
+Time is an illusion
+To know what has passed is to know what must follow
+As the brook ends in the ocean, yet never runs out
+As the mountains rise from the earth, yet are not forever tall
+As the world is born only to wither, yet is reborn again
+Time is an illusion
+The man who has gone, and he who has yet to come are one and the same
+For they will meet by the ring which runs around the world
+Fresh and stale water will meet in the self same pool
+Time is an illusion, rings are forged with ends, yet created with none*
 
 ### Second Room (Youth)
 Small room (25,25,25) with a ground level and a balcony 5ft wide.. There are two ladders leading up the balcony. on the ground floor is a rat-swarm.
