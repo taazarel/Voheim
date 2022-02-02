@@ -20,8 +20,8 @@ Although their equiment may change, they have standard features.
 
 | Proficiencies        |                                                |
 | -------------------- | ---------------------------------------------- |
-| Saving Throws        | Dex, Wis.                                      | 
-| Skills               | Perception +                                               |
+| Saving Throws        | Dex, Wis.                                      |
+| Skills               | Perception+4, stealth+7                        | 
 | Damage Immunities    | Poison, Venom, Psychic                         |
 | Condition Immunities | Poisoned, Confused, Blinded, Deafened, Stunned |
 | Senses               | Darkvision 60ft, passive perception 14         |
