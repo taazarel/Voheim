@@ -31,6 +31,7 @@ Although their equiment may change, they have standard features.
 ## Features
 **Programming:** Guardians follow programming and may not act against it.
 **Patience Testers:** Guardians will expose a weakspot if their target waits for one round. This weakspot has 5 hitpoints and an ac of 10. When hit, the guardian deactivates attack protocol.
+**Magical Resistance:** Any who wish to cast a spell on the Guardian must make a DC 15 INT check. Damage from spells is halved.
 
 ## Actions
 **Multiattack:** The Guardian makes two attacks with its spear, or other weapon. Or Two shots with its bow.
