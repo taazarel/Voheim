@@ -10,6 +10,10 @@ Kimnsil and Romnsil
 Hu' Noaman and Ga' Noaman
 Ansalmanei and Nivn
 Lakoru and Qeilo
+Arcer and Fahmer
+Ishma and Herd
+Riter and Teaker
+Ninuel And Vinuel
+Roskat and Rosvang
 
-They became many and made families of their own
-Archers, 
+	The greatest gift given to me, is all that was laid before me as i walked the earth. Gods willing i may see my children flourish when i am reborn. - Glaum
