@@ -1,5 +1,11 @@
-#statblock
+#statblock #creature
+# Description
+- Size:
+- Type:
 
+
+
+# Stats
 | Monster Stats | Values |
 | ------------- | ------ |
 | Armor Class   |        |
@@ -22,3 +28,15 @@
 | Languages              |     |
 | Challenge              |     |
 
+## Features
+
+
+## Actions
+
+
+# Legendary Creatures
+## Legendary Actions
+- Amount of Legendary Actions per turn: 
+- Amount of Legendary Resistances: 
+
+## Lair Actions
