@@ -21,7 +21,9 @@ In her hands is a small shovel, by digging the last of the dirt from the mound t
 The sky is filled with stars in her room.
 On the left(western) wall there is a door with an inscription which reads:
 
-**
+*To know what has passed is to know what must follow
+As the sun rises at dawn, and is born anew upon each day
+As the forest burns before the might of flame, and yet *
 
 ### Second Room (Youth)
 Small room (25,25,25) with a ground level and a balcony 5ft wide.. There are two ladders leading up the balcony. on the ground floor is a rat-swarm.
@@ -51,6 +53,7 @@ The sun is now a big red circle on the door to the next room.
 Instead of a yellow sphere, now there hangs a slightly blue sphere, with a strongly tinted red one beside it. (The two moons)
 The room is in a bit of dissaray, the tree has now grown through the clouds, and the previous words written can now be read on the balcony. These word form a poem:
 **
+
 The field is less populated, but the plants that remain are stronger and bigger.
 On the bench is a white tinted glass skull.
 By the door lies some of the rubble. And in the far left corner by the tree is a small hole.
