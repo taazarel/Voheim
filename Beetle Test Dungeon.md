@@ -15,25 +15,26 @@ To know what must follow is to have the comforbility of waiting (patience)
 The comforbility of waiting (Patience) is to accept and excpect the future (Peace)*
 
 
-### First Room
+### First Room (Adolesence)
 There is a statuette of a small child holding out her hands as if to recieve something.
 On the left(western) wall there is a door with an inscription which reads:
 
 **
 
-### Second Room
+### Second Room (Youth)
+Small room with a ground level and a balcony. There are two ladders leading up the balcony. on the ground floor is a rat-swarm.
+There is a greentinted glass plant in the far-right corner, and on the balcony on the far left, is a small fountain, which is spewing forth a clear liquid.
+
+### Third Room (Prime)
+A medium-sized room with a ground level and bal
+
+### Fourth Room (Middle-age)
 
 
-### Third Room
+### Fith Room (Old)
 
 
-### Fourth Room
+### Sixth Room (Death)
 
 
-### Fith Room
-
-
-### Sixth Room
-
-
-### Seventh Room
+### Seventh Room (Rebirth)
