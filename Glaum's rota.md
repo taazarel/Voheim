@@ -15,5 +15,6 @@ Ishma and Herd
 Riter and Teaker
 Ninuel And Vinuel
 Roskat and Rosvang
+Numbunu and Lububu
 
 	The greatest gift given to me, is all that was laid before me as i walked the earth. Gods willing i may see my children flourish when i am reborn. - Glaum
