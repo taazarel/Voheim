@@ -4,3 +4,12 @@ Niept's daughter became a great druid, who is said to be able to speak with the 
 Ilsom's lover then became the monarch of a city-state which was named after her own desire.
 In the city of the heart of the mountain earthriver birthed many children, not all to the same father.
 
+Ignui and Agnui
+Selaom and Ullaom
+Kimnsil and Romnsil
+Hu' Noaman and Ga' Noaman
+Ansalmanei and Nivn
+Lakoru and Qeilo
+
+They became many and made families of their own
+Archers, 
