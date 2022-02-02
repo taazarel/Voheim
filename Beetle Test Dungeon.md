@@ -4,7 +4,7 @@ The rooms are in a circle, with the first and last rooms connecting.
 ## Rooms
 ### Foyeour
 ##### Statues
-A Circular room with statues of meditating smiling monks, getting older and older as you pass along. In the middle of these statues is a plinth with a groove in the ground around it. 
+A Circular room with 7 statues of meditating smiling monks, getting older and older as you pass along. In the middle of these statues is a plinth with a small dome and groove in the ground around it. 
 Should anyone wait for long enough on the plinth it will descend into the room below. It starts descending after a minute and takes a whole day to reach the end.
 
 ##### Gate
@@ -58,5 +58,7 @@ By the door lies some of the rubble. And in the far left corner by the tree is a
 ### Seventh Room (Rebirth)
 In the seventh room, a solar eclipse is portrayed on the ceiling. 
 The tree now has fruit hanging from its branches and one on these brances hangs over the middle of the room.
-By the end of the room lies a grave by the tree, and 7 plinths in a circle. By placing the additional items in order on these plinths the last door opens and leads back to the first room.
-Additionally, a larger green bead formed like a 
+By the end of the room lies a grave by the tree, and 7 plinths in a circle, in the middle of the circle lies a dome. By placing the additional items in order on these plinths the last door opens and leads back to the first room.
+Additionally, a larger green bead formed like a seed, is revealed from the dome.
+
+Solving everything gives the players a hint to find the secret room.
