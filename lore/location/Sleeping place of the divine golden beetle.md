@@ -63,8 +63,7 @@ The sun is now a big red circle on the door to the next room.
 
 ### Sixth Room (Death)
 Instead of a yellow sphere, now there hangs a slightly blue sphere, with a strongly tinted red one beside it. (The two moons)
-The room is in a bit of dissaray, the tree has now grown through the clouds, and the previous words written can now be read on the balcony. These word form a poem:
-**
+The room is in a bit of dissaray, the tree has now grown through the clouds, and the previous words written can now be read on the balcony. These words form [[Glaum's rota]].
 
 The field is less populated, but the plants that remain are stronger and bigger.
 On the bench is a white tinted glass skull.
