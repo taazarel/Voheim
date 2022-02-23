@@ -32,6 +32,8 @@
 
 
 ## Actions
+Multi-attack:
+Firespit:
 
 
 # Legendary Creatures
