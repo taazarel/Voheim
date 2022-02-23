@@ -29,24 +29,20 @@
 | Challenge              | 10                            | 
 
 ## Features
-**Ankheg mount:**
+**Ankheg mount:** Advantage to attackrolls while mounted. The mount is a standard anhkeg.
 
 ## Actions
 **Multi-attack:** Attacks three times with [[Glødhvast]].
-**Firespit:** Spits fire at one enemy withing 
+**Firespit:** Spits fire at one enemy within 70ft. 2d6 fire damage
 
 ## Bonus Actions
-**Bessy!:** Commands the Ankheg mount to move, burrow, attack or acid spit.
-
+**Bessy! :** Commands the Ankheg mount to move, burrow, attack or acid spit.
 
 ## Reactions
 **Bonfire:** Flares fire to give disadvantage to any attacker within 5ft.
-
-
-
+**Meteor Jump:** Jumps to an enemy when they leave range of Frige.
 
 
 ## Villain Actions
-**Meteor-jump::**
-**Unyielding:**
-**Scorched Earth:**
+**Scorched Earth:** Sets the underbrush aflame and runs 30ft through the smokescreen.
+**Unyielding:** Explodes in a 30ft radius dealing 2d8 thunder damage.
