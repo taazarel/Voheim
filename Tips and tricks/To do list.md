@@ -8,3 +8,9 @@
 - Make the crew of [[World's End]] (Done)
 
 ### Session 9
+- make the dungeon of the golden beetle
+
+### Session 10
+- make more puzzles for the dungeons
+- research how to make a treasure hunt
+- 
