@@ -8,9 +8,9 @@
 # Stats
 | Monster Stats | Values |
 | ------------- | ------ |
-| Armor Class   |        |
-| Hit Points    |        |
-| Speed         |        |
+| Armor Class   | 20     |
+| Hit Points    | 200    |
+| Speed         | 45ft   | 
 
 | Str | Dex | Con | Int | Wis | Cha |
 | --- | --- | --- | --- | --- | --- |
@@ -19,14 +19,14 @@
 | Proficiencies          |                               |
 | ---------------------- | ----------------------------- |
 | Saving Throws          | dex,con,wis                   |
-| Skills                 | perception+5,stealth+9        | 
+| Skills                 | perception+5,stealth+9        |
 | Damage Vulnerabilities | cold                          |
 | Damage Resistances     | piercing,bludgeoning,slashing |
 | Damage Immunities      | fire                          |
 | Condition Immunities   | poisoned                      |
-| Senses                 |                               |
-| Languages              |                               |
-| Challenge              |                               |
+| Senses                 | darkvision60ft                |
+| Languages              | kragvi                        |
+| Challenge              | 10                            | 
 
 ## Features
 
@@ -36,7 +36,9 @@
 
 # Legendary Creatures
 ## Legendary Actions
-- Amount of Legendary Actions per turn: 
-- Amount of Legendary Resistances: 
+- Amount of Legendary Actions per turn: 1
+- Amount of Legendary Resistances: 2
 
-## Lair Actions
+**Swiftness:**
+**Unyielding:**
+Scorched Earth:
