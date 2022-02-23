@@ -29,7 +29,7 @@
 | Challenge              | 10                            | 
 
 ## Features
-
+**Ankheg mount:**
 
 ## Actions
 Multi-attack:
@@ -41,6 +41,6 @@ Firespit:
 - Amount of Legendary Actions per turn: 1
 - Amount of Legendary Resistances: 2
 
-**Swiftness:**
+**Meteor-jump::**
 **Unyielding:**
-Scorched Earth:
+**Scorched Earth:**
