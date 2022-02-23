@@ -92,3 +92,13 @@ Their ship almost plummeted into the ocean. but they recovered just in time.
 Then the party made their way into Öbaemnös, they bought some supplies, got some information and uncovered a marble tablet buried in a hillside.
 Digging further they uncover a marble stairway, and a circular room with meditating statues surrounding a central plinth.
 They met [[Mum the kobold]] and druid [[Ivuta]]
+
+Session 9.
+The starting date was the 2nd of Quzchat.
+The players escavated the dungeon which portrayed Glaum's life, and found a golden beetle.
+Mato Exim greeted them and followed the skyrates to a lakeside where a new stonework was uncovered. 
+Lavender told the skyrates she was going to get a head start on the hunt for 20 stone leaves.
+After being humiliated by Pen, mika planted a magic mouth with an impression of the captain lavender on their ship. The mouth will say "Hard to starboard!" when the ship takes flight.
+
+Session 10.
+The starting date was the 18th of Quzchat.
