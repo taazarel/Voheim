@@ -19,6 +19,8 @@ The virtues which are to be tested are:
 	1. Meditating statues 
 	2. Emphasis on time
 	3. Things to lead astray
+	4. Gives the golden beetle
+
 2. Focus 
 	1. Things that demand attention
 	2. 
