@@ -33,10 +33,10 @@
 
 ## Actions
 
+## Bonus Actions
 
-# Legendary Creatures
-## Legendary Actions
-- Amount of Legendary Actions per turn: 
-- Amount of Legendary Resistances: 
+## Reactions
+
+## Villain Actions
 
 ## Lair Actions

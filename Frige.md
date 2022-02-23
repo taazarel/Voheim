@@ -32,15 +32,21 @@
 **Ankheg mount:**
 
 ## Actions
-Multi-attack:
-Firespit:
+**Multi-attack:** Attacks three times with [[Glødhvast]].
+**Firespit:** Spits fire at one enemy withing 
+
+## Bonus Actions
+**Bessy!:** Commands the Ankheg mount to move, burrow, attack or acid spit.
 
 
-# Legendary Creatures
-## Legendary Actions
-- Amount of Legendary Actions per turn: 1
-- Amount of Legendary Resistances: 2
+## Reactions
+**Bonfire:** Flares fire to give disadvantage to any attacker within 5ft.
 
+
+
+
+
+## Villain Actions
 **Meteor-jump::**
 **Unyielding:**
 **Scorched Earth:**
