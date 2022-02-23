@@ -2,7 +2,7 @@
 ### Quirk
 Skin glows red hot when she uses fire.
 ### Desire
-Wants to be stronger and have the greatest honour of being kin of the entire nothern isle.
+Wants to be stronger and have the greatest honour of being king of the entire nothern isle.
 ### Equipment
 - Greataxe
 - Leather armor
