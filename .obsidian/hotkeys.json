@@ -171,5 +171,13 @@
       ],
       "key": "ArrowUp"
     }
+  ],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
   ]
 }
