@@ -14,19 +14,19 @@
 
 | Str | Dex | Con | Int | Wis | Cha |
 | --- | --- | --- | --- | --- | --- |
-|     |     |     |     |     |     |
+| 18  | 20  | 20  | 10  | 12  | 8   | 
 
-| Proficiencies          |     |
-| ---------------------- | --- |
-| Saving Throws          |     |
-| Skills                 |     |
-| Damage Vulnerabilities |     |
-| Damage Resistances     |     |
-| Damage Immunities      |     |
-| Condition Immunities   |     |
-| Senses                 |     |
-| Languages              |     |
-| Challenge              |     |
+| Proficiencies          |                               |
+| ---------------------- | ----------------------------- |
+| Saving Throws          | dex,con,wis                   |
+| Skills                 | perception+5,stealth+9        | 
+| Damage Vulnerabilities | cold                          |
+| Damage Resistances     | piercing,bludgeoning,slashing |
+| Damage Immunities      | fire                          |
+| Condition Immunities   | poisoned                      |
+| Senses                 |                               |
+| Languages              |                               |
+| Challenge              |                               |
 
 ## Features
 
