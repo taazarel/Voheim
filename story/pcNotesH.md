@@ -102,3 +102,6 @@ After being humiliated by Pen, mika planted a magic mouth with an impression of 
 
 Session 10.
 The starting date was the 18th of Quzchat.
+The party found a stone spire jutting out of the lake, they explored it and found a wiretap and some treasure.
+Ækuf bothered by this sight wanted to take a walk alone, and was ambushed by Frige.
+After a long battle Ækuf calmed her down and found she was hesitant to kill him.

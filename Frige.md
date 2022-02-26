@@ -16,17 +16,17 @@
 | --- | --- | --- | --- | --- | --- |
 | 18  | 20  | 20  | 10  | 12  | 8   | 
 
-| Proficiencies          |                               |
-| ---------------------- | ----------------------------- |
-| Saving Throws          | dex,con,wis                   |
-| Skills                 | perception+5,stealth+9        |
-| Damage Vulnerabilities | cold                          |
-| Damage Resistances     | piercing,bludgeoning,slashing |
-| Damage Immunities      | fire                          |
-| Condition Immunities   | poisoned                      |
-| Senses                 | darkvision60ft                |
-| Languages              | kragvi                        |
-| Challenge              | 10                            | 
+| Proficiencies          |                                    |
+| ---------------------- | ---------------------------------- |
+| Saving Throws          | dex,con,wis                        |
+| Skills                 | perception+5,stealth+9             |
+| Damage Vulnerabilities | cold                               |
+| Damage Resistances     | piercing,bludgeoning,slashing,fire | 
+| Damage Immunities      |                                    |
+| Condition Immunities   | poisoned                           |
+| Senses                 | darkvision60ft                     |
+| Languages              | kragvi                             |
+| Challenge              | 10                                 |
 
 ## Features
 **Ankheg mount:** Advantage to attackrolls while mounted. The mount is a standard anhkeg.
