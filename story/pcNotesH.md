@@ -105,3 +105,7 @@ The starting date was the 18th of Quzchat.
 The party found a stone spire jutting out of the lake, they explored it and found a wiretap and some treasure.
 Ækuf bothered by this sight wanted to take a walk alone, and was ambushed by Frige.
 After a long battle Ækuf calmed her down and found she was hesitant to kill him.
+She fled into the marshland, and the skyrates hauled the carcass of a large bug onto their ship.
+
+Session 11.
+The starting date was the 18th of Quzchat.
