@@ -91,7 +91,7 @@ The party had a relatively calm journey. But on the penultimate day, they flew i
 Their ship almost plummeted into the ocean. but they recovered just in time.
 Then the party made their way into Öbaemnös, they bought some supplies, got some information and uncovered a marble tablet buried in a hillside.
 Digging further they uncover a marble stairway, and a circular room with meditating statues surrounding a central plinth.
-They met [[Mum the kobold]] and druid [[Ivuta]]
+They met Mum the kobold and druid [[Ivuta]]
 
 Session 9.
 The starting date was the 2nd of Quzchat.
