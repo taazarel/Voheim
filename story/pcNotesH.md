@@ -109,3 +109,4 @@ She fled into the marshland, and the skyrates hauled the carcass of a large bug 
 
 Session 11.
 The starting date was the 18th of Quzchat.
+The skyrates intimidated a whole town. Killed a random guy (cause he was sus). And found two cool leaves.

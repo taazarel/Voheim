@@ -31,9 +31,9 @@ Two Cannons
 - Price: The product value of a small towns output for 10 years
 - Rarity: Unique
 - Crew: 21 Including the skyrates
-- Length: 100m
-- Height: 12m
-- Width: 18m
+- Length: 100m 328ft
+- Height: 12m 40ft
+- Width: 18m 60ft
 - Weight: 600t
 - Crew: Hired in Sinea
 - Cargo & Passenger Capacity: 100 ton. not counting armaments and crew. about 20 people.
@@ -67,7 +67,7 @@ There are pipes on the ship allowing for easy verbal communication between stati
 - Hreivei
 - Feivei, The exemplar Janitor
 - Aneivei
-- Manbreinei
+- Manbreineiz
 - Uhrn
 - Ahrm
 - Einio
