@@ -14,6 +14,14 @@ https://nhentai.net/g/379239/
 https://nhentai.net/g/379261/
 https://nhentai.net/g/371144/4/
 https://nhentai.net/g/351257/
+https://www.luscious.net/albums/artist-luminyu_322603/read/?index=96&view=slideshow&sorting=date_newest
+https://www.luscious.net/albums/artist-luminyu_322603/read/?index=98&view=slideshow&sorting=date_newest
+https://www.luscious.net/albums/artist-luminyu_322603/read/?index=151&view=slideshow&sorting=date_newest
+https://www.luscious.net/albums/artist-luminyu_322603/read/?index=282&view=slideshow&sorting=date_newest
+https://rule34.xxx/index.php?page=post&s=list&tags=evulchibi
+https://rule34.xxx/index.php?page=post&s=list&tags=cherry-gig
+https://rule34.xxx/index.php?page=post&s=list&tags=ninjartist
+
 
 ### Hazbin/Helluva
 https://e621.net/posts/2550144?q=hi_res+order%3Ascore+demon+anthro+female
