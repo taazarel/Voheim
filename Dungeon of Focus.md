@@ -25,7 +25,6 @@ It's purpose is to lead astray, but reward those who have a keen focus.
 ### Tourism
 
 ## Room
-- Including Vehicle:
 - Connected Rooms:
 
 ### Design
@@ -35,13 +34,17 @@ It's purpose is to lead astray, but reward those who have a keen focus.
 ### Sensory & Apperances
 
 ### Denizens
+Hazekillers
 
 ### Content & Furnishings
 
 ### Valuables & Treasure
+platinum pieces and spell scrolls
+illusory artifacts
+traho and trudo
 
 ### Hazards & Traps
 
 ### Special Properties
-
+"Stay on the "
 ### Environmental Effects
