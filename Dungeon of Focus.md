@@ -12,7 +12,8 @@ is located in a forest of mirrors
 - Alternate Names:
 
 ### Purpose
-
+Designed to test the delvers for their virtue of focus.
+It's purpose is to lead astray, but reward those who have a keen focus.
 ### Alterations
 
 ### Architecture
