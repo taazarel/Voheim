@@ -1,6 +1,7 @@
 #location #lore #landmark #building #room
 # Description
-
+Contains the glass bowl
+is located in 
 ## Generic
 - Parent Location:
 - Construction Date:
