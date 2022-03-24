@@ -1,7 +1,7 @@
 #location #lore #landmark #building #room
 # Description
 Contains the glass bowl
-is located in 
+is located in a forest of mirrors
 ## Generic
 - Parent Location:
 - Construction Date:
