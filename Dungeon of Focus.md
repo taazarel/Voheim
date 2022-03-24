@@ -46,5 +46,9 @@ traho and trudo
 ### Hazards & Traps
 
 ### Special Properties
-"Stay on the "
+"Stay on the path"
+"Luriking in the haze"
+
 ### Environmental Effects
+"Misty environment"
+"Reflective lives"
