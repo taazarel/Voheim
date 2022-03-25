@@ -26,7 +26,7 @@ It's purpose is to lead astray, but reward those who have a keen focus.
 ### Sensory & Apperances
 
 ### Denizens
-Hazekillers
+[[Hazekiller]]
 
 ### Content & Furnishings
 
