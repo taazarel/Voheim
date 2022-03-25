@@ -1,16 +1,47 @@
-#npc #antagonist 
-### Quirk
-Skin glows red hot when she uses fire.
-### Desire
-Wants to be stronger and have the greatest honour of being king of the entire nothern isle.
-### Equipment
-- Greataxe
-- Leather armor
-- Skinhide boots
-- Necklace of monster teeth
-### Emotional state
-Putting on a brave face. Angry and frightened
-### Biography
-Her family was always about to fall apart. Her parents argued and shouted around her. Her friends were the only ones to help her in her times of need, always being able to cheer her up. Her best friend [[Ækuf]] was a wimp in his early years but became a huge deal before the trial. Jealousy and rage made her accept [[Oterko]]'s proposal of patronage.  
-Now she is on the path to domination and respect of [[Kragvi]].
-She killed Ækuf's mother and destroyed his house in fire.
+#statblock #creature
+# Description
+- Size: Medium
+- Type: Humanoid
+
+
+# Stats
+| Monster Stats | Values |
+| ------------- | ------ |
+| Armor Class   | 20     |
+| Hit Points    | 200    |
+| Speed         | 45ft   | 
+
+| Str | Dex | Con | Int | Wis | Cha |
+| --- | --- | --- | --- | --- | --- |
+| 18  | 20  | 20  | 10  | 12  | 8   | 
+
+| Proficiencies          |                                    |
+| ---------------------- | ---------------------------------- |
+| Saving Throws          | dex,con,wis                        |
+| Skills                 | perception+5,stealth+9             |
+| Damage Vulnerabilities | cold                               |
+| Damage Resistances     | piercing,bludgeoning,slashing,fire | 
+| Damage Immunities      |                                    |
+| Condition Immunities   | poisoned                           |
+| Senses                 | darkvision60ft                     |
+| Languages              | kragvi                             |
+| Challenge              | 10                                 |
+
+## Features
+**Ankheg mount:** Advantage to attackrolls while mounted. The mount is a standard anhkeg.
+
+## Actions
+**Multi-attack:** Attacks three times with [[Glødhvast]].
+**Firespit:** Spits fire at one enemy within 70ft. 2d6 fire damage
+
+## Bonus Actions
+**Bessy! :** Commands the Ankheg mount to move, burrow, attack or acid spit.
+
+## Reactions
+**Bonfire:** Flares fire to give disadvantage to any attacker within 5ft.
+**Meteor Jump:** Jumps to an enemy when they leave range of Frige.
+
+
+## Villain Actions
+**Scorched Earth:** Sets the underbrush aflame and runs 30ft through the smokescreen.
+**Unyielding:** Explodes in a 30ft radius dealing 2d8 thunder damage.
