@@ -4,10 +4,12 @@
 Badu: Holy one, Druid
 Ïnulis: Saviour (One who saves others)
 Ïnulis aru okim: One who saves all
-Tïsitëm
+Tïsitëm 
 Bëmotëk
-Löför
-
+Löför: Expression of dissapointment
+Sumnurö: May you be touched by sun (formal greeting)
+Kasï: hello
+Tër Sumnurö/kasï: until again
 
 # Sushomela
 
