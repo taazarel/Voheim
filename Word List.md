@@ -8,6 +8,7 @@ Tër Sumnurö/kasï: until again
 
 ## Curses
 Bëmo(tëk): Don't go further/stop. (Your words are poison)
+Ïlil: Flood
 
 
 ## Titles
