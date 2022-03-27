@@ -6,29 +6,19 @@ is located in a forest of mirrors
 ### Purpose
 Designed to test the delvers for their virtue of focus.
 It's purpose is to lead astray, but reward those who have a keen focus.
-### Alterations
-
-### Architecture
-
 ### Defences
 
 ### History
-
-### Tourism
-
-## Room
-- Connected Rooms:
+A grove in the forest which has been transformed into a timeless silvery spectre.
 
 ### Design
 
-### Entries
-
 ### Sensory & Apperances
+The trees are significantly smaller in stature. The ground is also solidified chrome, and no wind, nor animal appears.
+Anything that touches the mirrors makes a *ping* sound. Except for the hazekillers, the ghosts of old denizens of this place.
 
 ### Denizens
 [[Hazekiller]]
-
-### Content & Furnishings
 
 ### Valuables & Treasure
 platinum pieces and spell scrolls
