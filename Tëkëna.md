@@ -1,15 +1,15 @@
 #character #npc 
 # OGASM
 ## Occupation
-
+Druid, Helper of the people
 ## Goals
-
+Catching up with their work. Fighting against Shaitan
 ## Attitude
-
+Welcoming
 ## Stake
-
+High
 ## Machnations
-
+Hiring others, using spells.
 # Generic
 ## Presentation
 - Eyes: warm
