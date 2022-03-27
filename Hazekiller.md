@@ -36,7 +36,10 @@ When a hazekiller forgets their identity their statblock becomes what is below.
 
 
 ## Actions
+Life Drain: Melee Weapon Attack:
 
 ## Bonus Actions
+Mirrorshift: The hazekiller shifts from its mirrorform to its corporeal form or vice versa. The hazekiller can not affect the other side while transformed.
 
 ## Reactions
+Grapple: The hazekillers will attempt to grapple any who try to leave their space. If successfull, they will then drag the target away from the path.
