@@ -12,7 +12,7 @@ When a hazekiller forgets their identity their statblock becomes what is below.
 # Stats
 | Monster Stats | Values |
 | ------------- | ------ |
-| Armor Class   |        |
+| Armor Class   | 13     | 
 | Hit Points    |        |
 | Speed         |        |
 
