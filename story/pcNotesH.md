@@ -122,3 +122,6 @@ The skyrates met [[Black Spear]] and released him.
 Mika found: Two spellbooks, a scroll and a parcel from An-rivatch
 Skëlite found: A book and ritual dagger with his rune on it.
 Ækuf Found: 10 platinum pieces and [[Axe of Vallr]].
+The skyrates barely escape the collapse of the mirror forest, and make it out alive. We left as they heard laughter from the hole.
+
+Session 13.
