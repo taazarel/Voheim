@@ -1,6 +1,9 @@
 #story 
 
 # RItu
+## Binding words
+Em: And
+
 ## Greetings
 Sumnurö: May you be touched by sun (formal greeting)
 Kasï: hello
@@ -9,7 +12,7 @@ Tër Sumnurö/kasï: until again
 ## Curses
 Bëmo(tëk): Don't go further/stop. (Your words are poison)
 Ïliil: Flood
-Rukut: Rot
+Urur/Uru: Rot
 Ïfemn/Monïmnir: Fire
 
 ## Titles
