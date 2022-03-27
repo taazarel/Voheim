@@ -20,17 +20,17 @@ When a hazekiller forgets their identity their statblock becomes what is below.
 | --- | --- | --- | --- | --- | --- |
 |     |     |     |     |     |     |
 
-| Proficiencies          |     |
-| ---------------------- | --- |
-| Saving Throws          |     |
-| Skills                 |     |
-| Damage Vulnerabilities |     |
-| Damage Resistances     |     |
-| Damage Immunities      |     |
-| Condition Immunities   |     |
-| Senses                 |     |
-| Languages              |     |
-| Challenge              |     |
+| Proficiencies          |                                                                  |
+| ---------------------- | ---------------------------------------------------------------- |
+| Saving Throws          |                                                                  |
+| Skills                 |                                                                  |
+| Damage Vulnerabilities | Thunder, Acid, Cold.                                             | 
+| Damage Resistances     | Nonmagical bludgeoning slashing and piercing. Fire.                   |
+| Damage Immunities      | Necrotic, Poison, Ligthning.                                              |
+| Condition Immunities   | Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Posioned. |
+| Senses                 | Tremorsense 100ft                                                |
+| Languages              | Any it knew when it was alive                                    |
+| Challenge              |                                                                  |
 
 ## Features
 
