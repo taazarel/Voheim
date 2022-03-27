@@ -112,4 +112,5 @@ The starting date was the 18th of Quzchat.
 The skyrates intimidated a whole town. Killed a random guy (cause he was sus). And found two cool leaves.
 Skerlite has no feelings. The party is john wick.
 
-Session 11.
+Session 12.
+The starting date was the 18th of Quzchat.
