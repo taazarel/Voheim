@@ -1,11 +1,16 @@
 #item #lore 
 # Description
+Requires attunement by a Bard, Sorcerer, Warlock or Wizard.
+When used as a spellcasting focus, you may add +2 to spell attack rolls.
+The item has 3 charges, which are regained every midnight.
 
+You may expend charges to do the following:
+1 Charge: Cast purify food and Drink
+1 Charge: Cast Cure wounds.
+2 Charges: Cast Misty step.
+2 Charges: 
 ## Generic
-- Weight:
-- Dimensions:
-- Price:
-- Rarity:
+- Rarity: Rare Magical Item
 
 ### History
 - Creation Date: 5142
