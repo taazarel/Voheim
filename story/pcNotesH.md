@@ -115,3 +115,4 @@ Skerlite has no feelings. The party is john wick.
 Session 12.
 The starting date was the 18th of Quzchat.
 The skyrates stealth into sprite mania, killing the rest of them and taking some chickens.
+The party met [[Te]]
