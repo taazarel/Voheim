@@ -33,10 +33,11 @@ When a hazekiller forgets their identity their statblock becomes what is below.
 | Challenge              | idfk                                                                 |
 
 ## Features
-
+Ethereal sight: Can see into the ethereal plane.
+Incorporeal Movement: Can move through creatures and object as if they were difficult terrain. It takes 1d10 force damage if it ends its turn inside an object.
 
 ## Actions
-Life Drain: Melee Weapon Attack:
+Life Drain: Melee Weapon Attack: 1d6+3 necrotic, reach 5ft., One creature. The target must succeed on a DC 13 Con Save, or have its hp reduced by the damage taken. This reduction lasts untill a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
 ## Bonus Actions
 Mirrorshift: The hazekiller shifts from its mirrorform to its corporeal form or vice versa. The hazekiller can not affect the other side while transformed.
