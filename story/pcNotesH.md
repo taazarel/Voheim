@@ -116,3 +116,5 @@ Session 12.
 The starting date was the 18th of Quzchat.
 The skyrates stealth into sprite mania, killing the rest of them and taking some chickens.
 The party met [[Tëkëna]] who gave them a clue to find petrified leaves, and pointed Mika in the direction of [[Rhaebase]]'s tower.
+Rhaebase told that leaves were not enough for the library. He is scared of the Shaitan leaf.
+He also told the party about [[Dungeon of Focus]]. The ultimate heist was 
