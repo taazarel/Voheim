@@ -1,9 +1,9 @@
 #statblock #creature
 # Description
-- Size:
-- Type:
+- Size: Medium	
+- Type: Abberation
 
-
+Trapped souls from a conjuration mishap. They are bound in eternity to this 
 
 # Stats
 | Monster Stats | Values |
