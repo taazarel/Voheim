@@ -8,32 +8,14 @@
 - Rarity:
 
 ### History
-- Creation Date:
-- Destruction Date:
-- Significance:
+- Creation Date: 5142
+- Significance: Used as a spellcasting focus for the teleportation spell to [[Aga Brakksi]].
 
 ### Mechanics & Inner Workings
 
 ## Construction
 ### Materials & Components
 
-### Tooling
-
-### Manufacturing Process
-
-## Categorization
-### Model/Subtype
-
-### Manufacturer
-
-### Owning Guilds
-
-### Related Technologies
-
-### Related Condition
-
-### Related Ethnicities
-
 # Whereabouts
-- Current Geographic Location:
-- Current Holder:
+- Current Geographic Location: [[Dungeon of Focus]]
+- Current Holder: [[Watcher in the Haze]]

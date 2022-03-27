@@ -41,6 +41,7 @@ Life Drain: Melee Weapon Attack: 1d6+3 necrotic, reach 5ft., One creature. The t
 
 ## Bonus Actions
 Mirrorshift: The hazekiller shifts from its mirrorform to its corporeal form or vice versa. The hazekiller can not affect the other side while transformed.
+Creeping Mercury: The Hazekillers body will start crawling up a creature within 5ft. and will attempt to grapple or restrain the target if it is already grappled. The target must roll an athletics or acrobatics check against the hazekillers atheltics.
 
 ## Reactions
 Grapple: The hazekillers will attempt to grapple any who try to leave their space. If successfull, they will then drag the target away from the path.
