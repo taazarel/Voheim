@@ -15,6 +15,6 @@
 - research how to make a treasure hunt
 
 ### Session 12
-- Make a list of expressions and words that people of ritu and anumivo use.
+- ~~Make a list of expressions and words that people of ritu and anumivo use.~~
 - Make the dungeon of focus
 - flesh out religions/belief system for Ritu, sothos and anumivo

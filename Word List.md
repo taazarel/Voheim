@@ -8,8 +8,9 @@ Tër Sumnurö/kasï: until again
 
 ## Curses
 Bëmo(tëk): Don't go further/stop. (Your words are poison)
-Ïlil: Flood
-
+Ïliil: Flood
+Rukut: Rot
+Ïfemn/Monïmnir: Fire
 
 ## Titles
 Badu: Holy one, Druid
