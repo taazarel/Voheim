@@ -119,7 +119,7 @@ The party met [[Tëkëna]] who gave them a clue to find petrified leaves, and po
 Rhaebase told that leaves were not enough for the library. He is scared of the Shaitan leaf.
 He also told the party about [[Dungeon of Focus]]. The ultimate heist was planned.
 The skyrates met [[Black Spear]] and released him.
-Mika found: Two spellbooks, a scroll and a parcel from An-rivatch
+Mika found: Two spellbooks, a scroll and a [[Parcel To Bliun]]
 Skëlite found: A book and ritual dagger with his rune on it.
 Ækuf Found: 10 platinum pieces and [[Axe of Vallr]].
 The skyrates barely escape the collapse of the mirror forest, and make it out alive. We left as they heard [laughter](watcher) from the hole.
