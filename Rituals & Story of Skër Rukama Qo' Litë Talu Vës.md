@@ -19,34 +19,24 @@ There is another part of the book isolated from the rest, which handle the story
 
 ## Generic
 ### Related Locations
-[[Ritu]],[[Shei Tan]].
+[[Ritu]],[[Shei Tan]], [[Anumivo]] & [[Sushomela]].
 ### Related Litterature
-
+[[Appendixes of Lunara's history]]
+[[Religion in Ritu]]
+[[Journal of the End]]
 ### Creation Process
-- Author
-- Signatories for backers:
-- Signatories for guilds:
+- Author: 
+- Signatories for backers: The skyrates.
+- Signatories for guilds: 
 
 ### Purpose
-## Structure
-### Clauses
-
-### Caveats
-
-### Legal & Publication Status
+A guide for interacting with this god.
 
 ## Historical Details
-- Authoring Date:
-- Ratification Date:
-- Expiration Date:
-
+- Authoring Date: 8567
+- Ratification Date: 8712
+- Expiration Date: 9412
 
 ### Cultural, Historical & Political Background
-
+Written with the purpose of 
 ### History
-
-### Public Reaction
-
-### Legacy
-
-### Term
