@@ -16,29 +16,19 @@ Recruiting armies and waging war. Using its divine power to transport troops. Up
 - Skin: Black
 - Hair: Short curls on shaved on the sides.
 - Height: 1,90 m
-- Weight:
-- Presented Gender:
-- Body Type:
-- Clothing:
-- Attitude:
-- Identifying Feature:
-- Age:
-- Pronouns:
-- Species:
-- Ethnicity:
-- Family:
-
-## Current State
-- Religion:
-- Status:
-- Location:
-- Residence:
-- Affiliated Guild:
-- Conditions:
+- Weight: 
+- Presented Gender: Man
+- Body Type: Bulky and strong
+- Clothing: Tight ceremonial wraps of ivory and red.
+- Identifying Feature: Presence
+- Age: hard to say, looks in his 40's
+- Pronouns: He/It
+- Species: [[Torko Uhralik]]
+- Ethnicity: Sushomelan
 
 # Naming
-- Titles:
-- Given Names:
+- Titles: The first spear. Reddenmark. Gedhra's Wounder.
+- Given Names: Redden
 - Middle Name:
 - Family Name:
 - Maiden Name:
@@ -65,40 +55,21 @@ Recruiting armies and waging war. Using its divine power to transport troops. Up
 
 #item #lore 
 # Description
-
+In its spear form it is a completely black spear of one continous substance.
 ## Generic
-- Weight:
-- Dimensions:
-- Price:
-- Rarity:
+- Weight: 1kg
+- Dimensions: 2m long
+- Price: 1000-1million platinum
+- Rarity: Legendary
 
 ### History
-- Creation Date:
-- Destruction Date:
-- Significance:
-
-### Mechanics & Inner Workings
+- Creation Date: See Destruction
+- Destruction Date: not yet
+- Significance: That of legend
 
 ## Construction
 ### Materials & Components
-
-### Tooling
+Black iron and Ruby.
 
 ### Manufacturing Process
-
-## Categorization
-### Model/Subtype
-
-### Manufacturer
-
-### Owning Guilds
-
-### Related Technologies
-
-### Related Condition
-
-### Related Ethnicities
-
-# Whereabouts
-- Current Geographic Location:
-- Current Holder:
+Destruction tore part of his soul apart to make it.
