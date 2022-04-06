@@ -1,20 +1,22 @@
 #item #lore 
 # Description
 a parcel from An-rivatch with a letter attached to [[Bliun]].
+Within the parcel is a pouch of crushed Traho crystals, and a small metallic canine tooth with inscriptions upon its inside.
+When exposed to oxidization it begins sparkling and cracking.
 
 ## Generic
-- Weight:
-- Dimensions:
-- Price:
-- Rarity:
+- Weight: 0,5 kg
+- Dimensions: about the fist of a halfling.
+- Price: 10-100 platinum
+- Rarity: uncommon.
 
 ### History
-- Creation Date:
+- Creation Date: 10th of quzchat.
 - Destruction Date:
-- Significance:
+- Significance: not much
 
 ### Mechanics & Inner Workings
-
+The pouch is made with rough leather and has 
 ## Construction
 ### Materials & Components
 
@@ -32,12 +34,8 @@ a parcel from An-rivatch with a letter attached to [[Bliun]].
 [[An-rivatch]]
 
 ### Related Technologies
-[[Traho]], [[Trudo]]. 
-### Related Condition
-
+[[Traho]] & [[Trudo]]. 
 ### Related Ethnicities
-
+[[Anum]]
 # Whereabouts
-- Current Geographic Location:
-- Current Holder:
-- 
+- Current Holder: Bliun & [[Mikalei]]
