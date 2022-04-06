@@ -28,30 +28,28 @@ Recruiting armies and waging war. Using its divine power to transport troops. Up
 
 # Naming
 - Titles: The first spear. Reddenmark. Gedhra's Wounder.
-- Given Names: Redden
-- Middle Name:
-- Family Name:
-- Maiden Name:
-- Suffix:
-- Alternate Names:
+- Given Names: Crimson Scar.
+- Alternate Names: Sepne. Magennamil
 
 # Mental
 ## History
-
+Has been together with his god for thousands of years. Became devastated when seperated for a long time.
 ### Virtues & Taboos
-
+Focus
+Calmness
+Sadism
 ### Accomplishments & Failures
+Wounded Gedhra themself.
+Felled aga brakksi.
+Captured by Vonën
 
 ### Education
-
+Understanding from an ascended.
 # Social
-## Reign
-
 ## Wealth
-
-## Relations & Family Ties
-
+Whatever he can take, and manifest.
 ## Hobbies
+Woodcarving and lilting.
 
 #item #lore 
 # Description
