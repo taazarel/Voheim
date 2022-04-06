@@ -10,4 +10,15 @@ Does a goal achieved mean anything if your life is gone by the time you reach it
 
 ## Items
 - Spellbook 1
-	- 
+	- Blight
+	- Animate Dead
+	- Charm Person
+	- Chill touch
+	- Create Undead
+	- Jump
+
+- Spellbook 2
+	- Animate Dead
+	- Dream
+	- Etherealness
+	- Life Transference
