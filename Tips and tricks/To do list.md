@@ -20,6 +20,6 @@
 - flesh out religions/belief system for Ritu, sothos and anumivo. (Semi-done)
 
 ### Session 13
-- Skërlitë's bog
+- ~~Skërlitë's bog~~
 - New Dungeon
 - Flesh out culture of Ritu
