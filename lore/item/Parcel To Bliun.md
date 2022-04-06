@@ -11,22 +11,19 @@ When exposed to oxidization it begins sparkling and cracking.
 - Rarity: uncommon.
 
 ### History
-- Creation Date: 10th of quzchat.
+- Creation Date: 14th of Brunat.
 - Destruction Date:
 - Significance: not much
 
 ### Mechanics & Inner Workings
-The pouch is made with rough leather and has 
+The pouch is made with rough leather and has green lines on its insides which will rupture when the command-word is spoken to the tooth.
+
 ## Construction
 ### Materials & Components
-
-### Tooling
-
-### Manufacturing Process
-
+- Leather
+- Traho
+- Silver
 ## Categorization
-### Model/Subtype
-
 ### Manufacturer
 [[Unn]] and Liltriver Industries
 
