@@ -18,3 +18,8 @@
 - ~~Make a list of expressions and words that people of ritu and anumivo use.~~
 - ~~Make the dungeon of focus~~
 - flesh out religions/belief system for Ritu, sothos and anumivo. (Semi-done)
+
+### Session 13
+- Skërlitë's bog
+- New Dungeon
+- Flesh out culture of Ritu

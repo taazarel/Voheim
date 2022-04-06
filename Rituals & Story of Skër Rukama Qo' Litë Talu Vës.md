@@ -16,9 +16,10 @@ There are rites for all matters of important events, such as:
 - and more
 
 There is another part of the book isolated from the rest, which handle the story of how this god came to be, and the most important events in their story up to that point.
+
 ## Generic
 ### Related Locations
-
+[[Ritu]],[[Shei Tan]].
 ### Related Litterature
 
 ### Creation Process
