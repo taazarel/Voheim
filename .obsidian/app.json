@@ -6,5 +6,6 @@
   "trashOption": "local",
   "newFileLocation": "root",
   "attachmentFolderPath": "assets",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheck": true
 }
