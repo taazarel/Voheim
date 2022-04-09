@@ -50,25 +50,25 @@ The virtues which are to be tested are:
 	2. Must look the fears in the face and not falter
 
 ### Items
-1. A golden beetle 
-1. A sapphire teardrop 
-1. A scroll with a river drawn upon it. Along the river there is a poem. 
-1. A living fox with a silver hide 
-1. A glass bowl
-1. A spear shaft with a black banner wrapped across it
-2. A marble music box
-3. A plant of red sand
-4. Clay Scales (as in the weight)
-5. 20 identical stone leaves 
+- [x] A golden beetle 
+- [ ] A sapphire teardrop 
+- [ ] A scroll with a river drawn upon it. Along the river there is a poem. 
+- [ ] A living fox with a silver hide 
+- [x] A glass bowl
+- [ ] A spear shaft with a black banner wrapped across it
+- [ ] A marble music box
+- [ ] A plant of red sand
+- [ ] Clay Scales (as in the weight)
+- [x] 20 identical stone leaves 
 
 ### Locations
-1. A forest of mirrors 
-1. A gladiatorial combat arena 
-1. A high stilted set of stones 
-1. A cave with blackened walls 
-1. A chasm with poisonous gas 
-1. A gate with two godlike statues who appear to be enemies 
-2. A Sunken temple
-3. An overgrown misty village
-4. A ruin under Öbaemnos
-5. The library of Aga Brakksi
+- [x] A forest of mirrors 
+- [ ] A gladiatorial combat arena 
+- [ ] A high stilted set of stones 
+- [ ] A cave with blackened walls 
+- [ ] A chasm with poisonous gas 
+- [ ] A gate with two godlike statues who appear to be enemies 
+- [ ] A Sunken temple
+- [ ] An overgrown misty village
+- [x] A ruin under Öbaemnos
+- [ ] The library of Aga Brakksi
