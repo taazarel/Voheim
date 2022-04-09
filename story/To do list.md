@@ -11,15 +11,15 @@
 - ~~make the dungeon of the golden beetle~~
 
 ### Session 10
-- ~~make more puzzles for the dungeons~~
-- ~~research how to make a treasure hunt~~
+- make more puzzles for the dungeons
+- research how to make a treasure hunt
 
 ### Session 12
-- ~~Make a list of expressions and words that people of ritu and anumivo use.~~
-- ~~Make the dungeon of focus~~
-- flesh out religions/belief system for Ritu, sothos and anumivo. (Semi-done)
+[ ] Make a list of expressions and words that people of ritu and anumivo use.
+[ ] Make the dungeon of focus
+[ ] flesh out religions/belief system for Ritu, sothos and anumivo. (Semi-done)
 
 ### Session 13
-- ~~Skërlitë's bog~~
-- New Dungeon
-- Flesh out culture of Ritu
+- [x] Skërlitë's bog
+- [ ] New Dungeon
+- [ ] Flesh out culture of Ritu
