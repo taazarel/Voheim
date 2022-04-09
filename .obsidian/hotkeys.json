@@ -235,5 +235,13 @@
       ],
       "key": "F8"
     }
+  ],
+  "outline:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F5"
+    }
   ]
 }
