@@ -16,7 +16,7 @@
 
 ### Architecture
 
-### Defences
+### Defenses
 
 ### History
 
@@ -30,7 +30,7 @@
 
 ### Entries
 
-### Sensory & Apperances
+### Sensory & Appearances
 
 ### Denizens
 

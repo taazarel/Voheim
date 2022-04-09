@@ -57,7 +57,7 @@ The virtues which are to be tested are:
 - [x] A glass bowl
 - [ ] A spear shaft with a black banner wrapped across it
 - [ ] A marble music box
-- [ ] A plant of red sand
+- [x] A plant of red sand
 - [ ] Clay Scales (as in the weight)
 - [x] 20 identical stone leaves 
 
@@ -66,7 +66,7 @@ The virtues which are to be tested are:
 - [ ] A gladiatorial combat arena 
 - [ ] A high stilted set of stones 
 - [ ] A cave with blackened walls 
-- [ ] A chasm with poisonous gas 
+- [x] A chasm with poisonous gas 
 - [ ] A gate with two godlike statues who appear to be enemies 
 - [ ] A Sunken temple
 - [ ] An overgrown misty village
