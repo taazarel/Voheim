@@ -195,5 +195,45 @@
       ],
       "key": "F3"
     }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "F2"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "F1"
+    }
+  ],
+  "note-refactor-obsidian:app:split-note-by-heading-h1": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F6"
+    }
+  ],
+  "note-refactor-obsidian:app:split-note-by-heading-h2": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F7"
+    }
+  ],
+  "note-refactor-obsidian:app:split-note-by-heading-h3": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F8"
+    }
   ]
 }
