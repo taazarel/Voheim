@@ -79,6 +79,7 @@ There are pipes on the ship allowing for easy verbal communication between stati
 - Ngisaussau
 - Eraffua
 - Ngijø, The Cook
-- Remoun
-- Joesephene
-- 
+- Remoun (machine room)
+- Joesephene (repair)
+- Moon (cook)
+- Galei (Machine Room)
