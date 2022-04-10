@@ -26,7 +26,7 @@
 
 ### History
 
-### Related Litterature
+### Related Literature
 
 ### Related Technology
 

@@ -179,5 +179,97 @@
       ],
       "key": "P"
     }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F4"
+    }
+  ],
+  "workspace:export-pdf": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F3"
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "F2"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "F1"
+    }
+  ],
+  "note-refactor-obsidian:app:split-note-by-heading-h1": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F6"
+    }
+  ],
+  "note-refactor-obsidian:app:split-note-by-heading-h2": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F7"
+    }
+  ],
+  "note-refactor-obsidian:app:split-note-by-heading-h3": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F8"
+    }
+  ],
+  "outline:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F5"
+    }
+  ],
+  "editor:toggle-bold": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F9"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "B"
+    }
+  ],
+  "editor:toggle-italics": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F10"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "I"
+    }
   ]
 }

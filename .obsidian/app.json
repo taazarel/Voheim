@@ -6,5 +6,16 @@
   "trashOption": "local",
   "newFileLocation": "root",
   "attachmentFolderPath": "assets",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "Öbaemnos",
+    "Aga",
+    "Brakksi",
+    "Vonën",
+    "skyrates",
+    "npc",
+    "Sequela",
+    "Biome"
+  ]
 }

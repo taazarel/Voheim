@@ -8,7 +8,7 @@
 
 ## Stake
 
-## Machnations
+## Machinations
 
 # Generic
 ## Presentation

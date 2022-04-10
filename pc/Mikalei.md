@@ -7,3 +7,18 @@ Does a goal achieved mean anything if your life is gone by the time you reach it
 "Hide from my brother he has gotten worse" - [[Hrouei]], Mika - "I want to look for his brother". "He has gotten worse" - Mika.
 "You guys would get along" - Mika to Aesh and [[Voei]].
 "The power of sea-shanties" - Mika to Ækuf.
+
+## Items
+- Spellbook 1
+	- Blight
+	- Animate Dead
+	- Charm Person
+	- Chill touch
+	- Create Undead
+	- Jump
+
+- Spellbook 2
+	- Animate Dead
+	- Dream
+	- Etherealness
+	- Life Transference

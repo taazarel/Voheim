@@ -6,7 +6,7 @@
 
 ### Related Locations
 
-### Related Litterature
+### Related Literature
 
 ### Creation Process
 - Author
