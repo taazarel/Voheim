@@ -129,3 +129,7 @@ The starting date was the 20th of Quzchat.
 Skërlitë buried the fallen crewmates, and the skyrates set off to Rhaebase.
 Ouli uses the bowl as a waterbowl for his pets.
 The skyrates went to Kö'Toum again, mika to the broken wand, Ouli and Skërlitë with a blue kenku trader.
+Aesh went to request more cannons for the ship.
+The skyrates then found Sannesh once again, and Aesh met them for the first time.
+Ouli's magic got awakened and Aesh gave up their noble title.
+Ækuf got wooden axes
