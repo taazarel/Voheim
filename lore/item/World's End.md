@@ -79,3 +79,6 @@ There are pipes on the ship allowing for easy verbal communication between stati
 - Ngisaussau
 - Eraffua
 - Ngijø, The Cook
+- Remoun
+- Joesephene
+- 

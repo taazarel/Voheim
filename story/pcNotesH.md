@@ -132,4 +132,6 @@ The skyrates went to Kö'Toum again, mika to the broken wand, Ouli and Skërlit�
 Aesh went to request more cannons for the ship.
 The skyrates then found Sannesh once again, and Aesh met them for the first time.
 Ouli's magic got awakened and Aesh gave up their noble title.
-Ækuf got wooden axes
+Ækuf got wooden axes, a dragon and a ship in a bottle.
+Aesh got a new armor set and bracers.
+Skërlitë got a bunch of magical chaos potions and a deck of cards.
