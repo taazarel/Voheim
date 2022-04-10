@@ -135,3 +135,4 @@ Ouli's magic got awakened and Aesh gave up their noble title.
 Ækuf got wooden axes, a dragon and a ship in a bottle.
 Aesh got a new armor set and bracers.
 Skërlitë got a bunch of magical chaos potions and a deck of cards.
+**Crimson Scar rallies an army in Beausi to go to war against the king.**
