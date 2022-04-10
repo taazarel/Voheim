@@ -62,15 +62,15 @@ There are pipes on the ship allowing for easy verbal communication between stati
 - Kaval, The Carpenter
 - Rëmnërin, The Surgeon/Doctor
 - Itef, The Scout
-- Glalei
-- Glalou
+- ~~Glalei~~
+- ~~Glalou~~
 - Hreivei
 - Feivei, The exemplar Janitor
 - Aneivei
 - Manbreineiz
 - Uhrn
-- Ahrm
-- Einio
+- ~~Ahrm~~
+- ~~Einio~~
 - Mobrtch
 - Aehrann
 - Mounm
