@@ -128,3 +128,4 @@ The skyrates barely escape the collapse of the mirror forest, and make it out al
 The starting date was the 20th of Quzchat.
 Skërlitë buried the fallen crewmates, and the skyrates set off to Rhaebase.
 Ouli uses the bowl as a waterbowl for his pets.
+The skyrates went to Kö'Toum 
