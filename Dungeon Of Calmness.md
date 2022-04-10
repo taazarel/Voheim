@@ -28,6 +28,8 @@ The chasm can only be entered when the gas recedes slightly when the [[small moo
 - Connected Rooms:
 
 ### Design
+Waves of poison wash through the cavern revealing and concealing airpockets on the sides of the chasm. The players can stay in these pockets to catch their breath, but must leave soon.
+Whenever the players are in the poison, they must make con checks to keep their breath whilst they wander. During this time, whisper begin to eat away at their insecurities. The whispers will speak to the characters deepest insecurities.
 
 ### Entries
 
