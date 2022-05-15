@@ -29,13 +29,13 @@
     "Anumivo",
     "Anumivan Aristrocracy",
     "Anum",
-    "lore/item",
-    "lore/location",
-    "npc",
-    "story",
     "story/misc",
     "Tips and tricks",
-    "lore/guild"
+    "story",
+    "npc",
+    "lore/guild",
+    "lore/item",
+    "lore/location"
   ],
   "ignoredFolders": []
 }
