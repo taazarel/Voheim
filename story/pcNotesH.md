@@ -122,7 +122,7 @@ The skyrates met [[Crimson Scar]] and released him.
 Mika found: Two spellbooks, a scroll and a [[Parcel To Bliun]]
 Skëlite found: A book and ritual dagger with his rune on it.
 Ækuf Found: 10 platinum pieces and [[Axe of Vallr]].
-The skyrates barely escape the collapse of the mirror forest, and make it out alive. We left as they heard [laughter](watcher) from the hole.
+The skyrates barely escape the collapse of the mirror forest, and make it out alive. We left as they heard [laughter](Watcher in the Haze) from the hole.
 
 ### Session 13.
 The starting date was the 20th of Quzchat.

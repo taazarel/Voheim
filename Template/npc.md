@@ -8,6 +8,6 @@
 
 ## Stake
 
-## Machnations
+## Machinations
 
 # Appearance, Personality & Background
