@@ -31,6 +31,6 @@
 - [ ] Flesh out culture of Ritu
 
 ### Session 14
-Make more items
-Make interesting fights
-Dangling Links
+- [ ] Make more items
+- [ ] Make interesting fights
+- [ ] Dangling Links
