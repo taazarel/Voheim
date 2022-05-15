@@ -1,5 +1,5 @@
 {
-  "selectedTab": 2,
+  "selectedTab": 1,
   "sortOrder": 0,
   "reducedIndices": [
     "Tips and tricks/Adventures.md",
@@ -28,7 +28,14 @@
     "Appendixes of Lunara's history",
     "Anumivo",
     "Anumivan Aristrocracy",
-    "Anum"
+    "Anum",
+    "lore/item",
+    "lore/location",
+    "npc",
+    "story",
+    "story/misc",
+    "Tips and tricks",
+    "lore/guild"
   ],
   "ignoredFolders": []
 }
