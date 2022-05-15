@@ -21,7 +21,7 @@
 
 ### Session 13
 - [x] Skërlitë's bog
-- [ ] New Dungeon
+- [x] New Dungeon
 - [ ] Flesh out culture of Ritu
 
 ### Session 14
