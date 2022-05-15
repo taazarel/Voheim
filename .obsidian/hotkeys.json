@@ -183,9 +183,9 @@
   "file-explorer:move-file": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
-      "key": "F4"
+      "key": "W"
     }
   ],
   "workspace:export-pdf": [

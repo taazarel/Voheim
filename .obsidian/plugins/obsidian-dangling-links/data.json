@@ -33,9 +33,9 @@
     "Tips and tricks",
     "story",
     "npc",
-    "lore/guild",
-    "lore/item",
-    "lore/location"
+    "lore/location",
+    "lore",
+    "lore/guild"
   ],
   "ignoredFolders": []
 }
