@@ -144,3 +144,4 @@ INSIGHT CHECK
 IM IN, Were DOing IT
 Sava Onikoralësöm is a bitch
 Ouli takes the party to Miravit to look for Sheitan Cultists.
+Skerlite is the best kitty momma
