@@ -142,3 +142,5 @@ The party went to open the Library of Aga. Discovering that it is stopped in tim
 The starting date was the 23rd of Quzchat.
 INSIGHT CHECK
 IM IN, Were DOing IT
+Sava Onikoralësöm is a bitch
+Ouli takes the party to Miravit to look for Sheitan Cultists.
