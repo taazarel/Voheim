@@ -143,5 +143,5 @@ The starting date was the 23rd of Quzchat.
 INSIGHT CHECK
 IM IN, Were DOing IT
 Sava Onikoralësöm is a bitch
-Ouli takes the party to Miravit to look for Sheitan Cultists.
-Skerlite is the best kitty momma
+Ouli takes the party to Miravit to look for Sheitan Cultists. They killed the recruiter and left all the other cultists alone.
+Skerlite is the best kitty momma.
