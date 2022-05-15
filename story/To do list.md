@@ -1,5 +1,11 @@
 #story  
 # HTX
+## Misc
+- [ ] Make 5 legends
+- [ ] Make 10 maps
+- [ ] Make 10 magical items
+- [ ] Make 10 Spells
+
 ## Aga Brakksi Arc
 ### Session 8
 - [ ] Make maps of the challenges
@@ -25,3 +31,6 @@
 - [ ] Flesh out culture of Ritu
 
 ### Session 14
+Make more items
+Make interesting fights
+Dangling Links
