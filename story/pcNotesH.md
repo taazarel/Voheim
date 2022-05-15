@@ -137,3 +137,6 @@ Aesh got a new armor set and bracers.
 Skërlitë got a bunch of magical chaos potions and a deck of cards.
 **Crimson Scar rallies an army in Beausi to go to war against the king.**
 The party went to open the Library of Aga. Discovering that it is stopped in time, and will be opened by 9 artifacts.
+
+### Session 14
+The starting date was the 23rd of Quzchat.
