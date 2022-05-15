@@ -35,4 +35,4 @@ The pouch is made with rough leather and has green lines on its insides which wi
 ### Related Ethnicities
 [[Anum]]
 # Whereabouts
-- Current Holder: Bliun & [[Mikalei]]
+- Current Holder: Bliun & [[Mika Mikalei Oberlin]]

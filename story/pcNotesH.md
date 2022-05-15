@@ -4,10 +4,10 @@ These are the notes for the HTX group
 #htx #story
 ## The skyrates
 [[Skërlite]] is the main healer and can take quite a hit. Strange creature though.
-[[Mikalei]] the scholar of the group. Very explorative and questionate. What a nightmare.
-[[Ouli]] is the bard. Has yet to do bard things. Hope it stays that way.
-[[Aesh]], a very straight-forward person. Not that this is a bad thing.
-[[Ækuf]], oh Ækuf. Why are you still here? you only care for one person amongst this group. and that is the monster...
+[[Mika Mikalei Oberlin]] the scholar of the group. Very explorative and questionate. What a nightmare.
+[[Ouli Ofishou]] is the bard. Has yet to do bard things. Hope it stays that way.
+[[Aesheshours Rsauvveisouff]], a very straight-forward person. Not that this is a bad thing.
+[[Ækuf Ekøjæfrångo]], oh Ækuf. Why are you still here? you only care for one person amongst this group. and that is the monster...
 & Some honorary members of the party:
 [[Luna]] is a very interesting person for this party. Bit of a rocky start to their relationship.
 
@@ -115,7 +115,7 @@ Skerlite has no feelings. The party is john wick.
 ### Session 12.
 The starting date was the 18th of Quzchat.
 The skyrates stealth into sprite mania, killing the rest of them and taking some chickens.
-The party met [[Tëkëna]] who gave them a clue to find petrified leaves, and pointed Mika in the direction of [[Rhaebase]]'s tower.
+The party met [[Tëkëna]] who gave them a clue to find petrified leaves, and pointed Mika in the direction of [[Rhaebase Rsauvveisouff]]'s tower.
 Rhaebase told that leaves were not enough for the library. He is scared of the Shaitan leaf.
 He also told the party about [[Dungeon of Focus]]. The ultimate heist was planned.
 The skyrates met [[Crimson Scar]] and released him.

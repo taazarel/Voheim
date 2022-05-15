@@ -4,5 +4,5 @@ Although always up for mischief, he is good with a hammer. Many a masterpiece of
 
 >"It's always those who glimmer the most, whose shine fades quickly" - Oscar
 
-His legacy is a magnificent ship made in the honour of his son [[Ækuf]]. 
+His legacy is a magnificent ship made in the honour of his son [[Ækuf Ekøjæfrångo]]. 
 Yet he is still alive. He tricked his pursuer and went into hiding.

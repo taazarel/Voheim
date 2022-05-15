@@ -1,2 +1,2 @@
 #npc
-Tailor for [[An-rivatch]]. Friend of [[Mikalei]] and used to her bullshit.
+Tailor for [[An-rivatch]]. Friend of [[Mika Mikalei Oberlin]] and used to her bullshit.

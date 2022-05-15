@@ -1,3 +1,3 @@
 #npc 
 Leif is a person whom you would never want to tell any secrets or insecurities. Trust me, its like the man feeds of making fun of others... 
-He once challenged his captain [[Ækuf]] to a duel, it quickly ended with his embarrassing defeat.
+He once challenged his captain [[Ækuf Ekøjæfrångo]] to a duel, it quickly ended with his embarrassing defeat.

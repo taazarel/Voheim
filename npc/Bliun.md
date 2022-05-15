@@ -2,7 +2,7 @@
 Real name is classified. Bliun means butterfly, and is a nickname given to him by his wife, the head of An-rivatch.
 ## Description
 Bliun is an inquisitor of [[Anbrim]]. He has a thin metallic arm that whirrs and clicks when it moves. The arm can transform into different nessecary tools. 
-Bliun was the person that scouted [[Mikalei]] Oberlin for [[An-rivatch]]
+Bliun was the person that scouted [[Mika Mikalei Oberlin]] Oberlin for [[An-rivatch]]
 He is cloaked in a deep blue trench coat with contrasting white lines running over it. It covers everything except for his metallic arm, head and left hand.
 He is also married to the [[Unn]] headmistress of Anbrim
 
