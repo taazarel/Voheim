@@ -145,3 +145,4 @@ IM IN, Were DOing IT
 Sava Onikoralësöm is a bitch
 Ouli takes the party to Miravit to look for Sheitan Cultists. They killed the recruiter and left all the other cultists alone.
 Skerlite is the best kitty momma.
+Ouli Knows that skerlite is a god now. He met his alter egos in the afterlife.
