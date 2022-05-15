@@ -1,7 +1,7 @@
 #location #lore #landmark #building #room
 # Description
 The skyrates must find a [[plant of red sand]] in a chasm filled with poisonous gas.
-The chasm can only be entered when the gas recedes slightly when the [[small moon]] is full.
+The chasm can only be entered when the gas recedes slightly when [[Sila]] is full.
 ## Generic
 - Parent Location:
 - Construction Date:
