@@ -140,4 +140,5 @@ The party went to open the Library of Aga. Discovering that it is stopped in tim
 
 ### Session 14
 The starting date was the 23rd of Quzchat.
-INSIGN
+INSIGHT CHECK
+IM IN, Were DOing IT
