@@ -5,6 +5,13 @@
 - [ ] Make 10 maps
 - [ ] Make 10 magical items
 - [ ] Make 10 Spells
+- [ ] Make the dangling links
+	- [ ] Reach 5
+	- [ ] Reach 10
+	- [ ] Reach 20
+	- [ ] Reach 30
+	- [ ] Reach 40
+	- [ ] Reach 50
 
 ## Aga Brakksi Arc
 ### Session 8
@@ -33,6 +40,4 @@
 ### Session 14
 - [ ] Make more items
 - [ ] Make interesting fights
-- [ ] Dangling Links
 - [ ] Make a dungeon
-
