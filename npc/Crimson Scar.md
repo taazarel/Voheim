@@ -39,7 +39,7 @@ Focus
 Calmness
 Sadism
 ### Accomplishments & Failures
-Wounded Gedhra themself.
+Wounded [[Gedhra]] themself.
 Felled aga brakksi.
 Captured by Vonën
 

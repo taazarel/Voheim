@@ -1,11 +1,14 @@
 #species #lore 
 # Description
-The spawn of 
+The spawn of [[Gedhra]] takes many forms due to their high adaptability.
+The standard creature has untapped potential, and given 18 hours, will adapt to any challenge that did not kill it.
+Growing fins, wings, gills and the capacity to burrow is not uncommon among these creatures. Pray ye never see ones who have adapted to combat with powerful adventurers, like those of [[Shei Tan]]. 
+
 ## Generic
-- Scientific Classification:
+- Scientific Classification: Isulea Gedhra Fatins
 - Ancestry:
 - Geographic Distribution:
-- Related Ethnicities:
+- Related Ethnicities: [[Torko Uhralik]]
 - Discovered by:
 - Conservation status:
 
