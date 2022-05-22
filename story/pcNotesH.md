@@ -155,3 +155,14 @@ Crimson Scar shows up on the skyrates ship in order to thank them. We ended ther
 
 ### Session 15
 The starting date was the 28th of Quzchat.
+Hiding from a storm. Aesh hears a voice call to him.
+The party is weirded out by a hammerfall.
+Stealing is good actually.
+Aesh hates beaucracy.
+Getting MOAR CANNONS.
+Magic items get.
+Aesh hates beaucracy again.
+Visiting an uncle twice removed.
+Uncle is a war-criminal and youre guilty by association.
+Buying magical weapons in the future.
+Oh boy that traveling.

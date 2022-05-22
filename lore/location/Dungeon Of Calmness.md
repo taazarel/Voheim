@@ -11,17 +11,6 @@ The chasm can only be entered when the gas recedes slightly when [[Sila]] is ful
 - Owning Guilds:
 - Alternate Names:
 
-### Purpose
-
-### Alterations
-
-### Architecture
-
-### Defences
-
-### History
-
-### Tourism
 
 ## Room
 - Including Vehicle:
