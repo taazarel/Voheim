@@ -32,4 +32,4 @@
 **Infectious:** Can move into the same space as other creatures, and does not take movement penalties for difficult terrain. Up to four Isulae can be in the same space.
 
 ## Actions
-Bloodsucking: Attaches itself to the target on a successful hit (+3). Deals 1d3-1 necrotic and can be removed with a DC 10 athletics check.
+**Bloodsucking:** Attaches itself to the target on a successful hit (+3). Deals 1d3-1 necrotic and can be removed with a DC 10 athletics check.
