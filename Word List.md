@@ -6,8 +6,8 @@ Em: And
 
 ## Greetings
 Sumnurö: May you be touched by sun (formal greeting)
-Kasï: hello
-Tër Sumnurö/kasï: until again
+Kosï: hello
+Tër Sumnurö/kosï: until again
 
 ## Curses
 Bëmo(tëk): Don't go further/stop. (Your words are poison)
