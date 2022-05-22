@@ -149,3 +149,9 @@ Ouli Knows that skerlite is a god now. He met his alter egos in the afterlife.
 Ooh, treasure map. And BARRELS
 Everyone has watched how to train your dragon.
 It is my orb, and i want it NOW.
+Ouli gets his wewawd and leawns about mokov.
+Ækuf and Usaqin Grow a bit closer.
+Crimson Scar shows up on the skyrates ship in order to thank them. We ended there.
+
+### Session 15
+The starting date was the 28th of Quzchat.
