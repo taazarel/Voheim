@@ -166,3 +166,6 @@ Visiting an uncle twice removed.
 Uncle is a war-criminal and youre guilty by association.
 Buying magical weapons in the future.
 Oh boy that traveling.
+The skyrates enter a deep dark damp cold cave.
+Bugs are grafting into the party, they annoying.
+Hellspawn demon dogs are terrifying and almo
