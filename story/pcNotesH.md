@@ -168,4 +168,10 @@ Buying magical weapons in the future.
 Oh boy that traveling.
 The skyrates enter a deep dark damp cold cave.
 Bugs are grafting into the party, they annoying.
-Hellspawn demon dogs are terrifying and almo
+Plant get.
+Hellspawn demon dogs are terrifying and almost kills aesh like 15 times in a row.
+Ouli is a coward, and Usaqin is a gentleman.
+LEVEL UP!
+
+### Session 16
+The starting date was the 9th of Ticeczhat.
