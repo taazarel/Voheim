@@ -170,7 +170,7 @@ The skyrates enter a deep dark damp cold cave.
 Bugs are grafting into the party, they annoying.
 Plant get.
 Hellspawn demon dogs are terrifying and almost kills aesh like 15 times in a row.
-Ouli is a coward, and Usaqin is a gentleman.
+Ouli is a turncoat, and Usaqin is a gentleman.
 LEVEL UP!
 
 ### Session 16
