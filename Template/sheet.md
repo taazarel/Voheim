@@ -26,7 +26,6 @@
 | Condition Immunities   |     |
 | Senses                 |     |
 | Languages              |     |
-| Challenge              |     |
 
 ## Features
 
