@@ -1,7 +1,7 @@
 #statblock #creature
 # Description
 - Size: Tiny
-- Type: Abberation
+- Type: Abberation [[Isulae]]
 
 
 
@@ -28,8 +28,8 @@
 | Languages              | Celestial (understand, not speak) |
 
 ## Features
-**Burning Blood:** When killed its blood will burn away at the victim who is within its same space.
+**Burning Blood:** When killed its blood will burn away at the victim who is within its same space. dealing 1d6 acid damage.
 **Infectious:** Can move into the same space as other creatures, and does not take movement penalties for difficult terrain. Up to four Isulae can be in the same space.
 
 ## Actions
-Bloodsucking: Attaches itself to the target on a successful hit (+3). Deals 1d6 necrotic and can be removed with a DC 10 athletics check.
+Bloodsucking: Attaches itself to the target on a successful hit (+3). Deals 1d3-1 necrotic and can be removed with a DC 10 athletics check.

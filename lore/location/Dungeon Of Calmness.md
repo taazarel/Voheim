@@ -36,7 +36,7 @@ Whenever the players are in the poison, they must make con checks of DC 15 to ke
 ### Sensory & Appearances
 
 ### Denizens
-[[The Scourge]] are infesting this place, they only thing holding them back, the fact that they only breathe in the poison. An evolutionary end, allowing them no access to the rest of the world.
+[[Isulae]] are infesting this place, they only thing holding them back, the fact that they only breathe in the poison. An evolutionary end, allowing them no access to the rest of the world.
 This particular variant of scourge has been designated as [[Blood Isulae]].
 
 ### Content & Furnishings
