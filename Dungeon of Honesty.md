@@ -1,6 +1,6 @@
 #location #lore #landmark #building #room
 # Description
-Scroll with river, Sunken river.
+Scroll with river, Sunken temple.
 ## Generic
 - Parent Location:
 - Construction Date:
@@ -15,6 +15,7 @@ Scroll with river, Sunken river.
 ### Alterations
 
 ### Architecture
+Old Stone and woodwork, crudely made and massive in design, the walls are 20 ft tall and 5 ft thick.
 
 ### Defenses
 
