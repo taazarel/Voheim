@@ -41,3 +41,8 @@
 - [ ] Make more items
 - [ ] Make interesting fights
 - [ ] Make a dungeon
+### Session 16
+- [ ] Make the next dungeon
+- [ ] Make the Kraken fight
+- [ ] Make the captain for the kraken
+- [ ] Make the warplans for Anumivo and Ritu
