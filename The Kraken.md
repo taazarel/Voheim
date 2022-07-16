@@ -1,6 +1,6 @@
 #vehicle #lore #item
 # Description
-
+With the captain [[Iuvaivotchei Ouniugluv]] by its helm this ship has never lost a battle. Easy to see why.
 ## Statblock
 | Name            | Max HP | Threshold | AC  |
 | --------------- | ------ | --------- | --- |
