@@ -44,4 +44,4 @@
 ### Session 16
 - [ ] Make the next dungeon
 - [ ] Make the Kraken fight
-- [ ] Make the captain for the kraken
+- [x] Make the captain for the kraken
