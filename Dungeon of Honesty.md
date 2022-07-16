@@ -1,14 +1,10 @@
 #location #lore #landmark #building #room
 # Description
-Scroll with river, Sunken temple.
+[[Clear River]], Sunken temple.
 ## Generic
-- Parent Location:
-- Construction Date:
-- Ruination Date:
-- Owner/Ruler:
-- Owning Rank:
-- Owning Guilds:
-- Alternate Names:
+- Parent Location: [[Ritu]]
+- Construction Date: 5203
+- Alternate Names: Gaata Yua
 
 ### Purpose
 Originally built as a cruel punishment for terrible criminals, this maze is now used as a proving-grounds for would be saviours of [[Aga Brakksi]]. 
