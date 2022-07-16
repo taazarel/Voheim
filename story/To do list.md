@@ -45,4 +45,3 @@
 - [ ] Make the next dungeon
 - [ ] Make the Kraken fight
 - [ ] Make the captain for the kraken
-- [ ] Make the warplans for Anumivo and Ritu
