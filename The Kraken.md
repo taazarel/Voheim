@@ -1,6 +1,21 @@
 #vehicle #lore #item
 # Description
 
+## Statblock
+| Name            | Max HP | Threshold | AC  |
+| --------------- | ------ | --------- | --- |
+| Hull            | 750    | 20        | 5   |
+| Living Quarters | 200    | 20        | 5   |
+| Machine Room    | 150    | 30        | 5   |
+| Cargo Rooms     | 200    | 20        | 10  |
+| Helm            | 100    | 10        | 5   |
+| Rest of Ship    | 100    | 20        | 5   | 
+Top speed: 
+Acceleration: 
+Weaponry: 
+
+### Ship Actions
+
 ## Identity
 - Class:
 - Nickname:
@@ -45,3 +60,5 @@
 ### Hangars & Docked Vessels
 
 ## Layout
+
+## Crew

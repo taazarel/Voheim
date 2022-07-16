@@ -57,7 +57,7 @@ Tight-knit family
 ### Features
 **Unwavering** While they are alive, their crew cannot be charmed nor frightened.
 **Look at my Hat!** Everyone has advantage on spotting them.
-Hostile Environment Any enemy of the captai
+**Hostile Environment** Any enemy of the captain has to make a charisma 14 DC or be frightened by him until they make it at the end of their turn.
 
 ### Actions
 **Manoeuvre** The Kraken will be moved up to twice its speed, OR gain 20 temporary bonus hp.
