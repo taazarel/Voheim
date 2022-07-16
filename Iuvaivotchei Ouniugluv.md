@@ -47,26 +47,27 @@ Tight-knit family
 | --- | --- | --- | --- | --- | --- |
 | 10  | 14  | 16  | 18  | 16  | 20  | 
 
-| Proficiencies          | +4                              |
-| ---------------------- | ------------------------------- |
-| Saving Throws          |                                 |
-| Skills                 | Perception, Survival, Athletics |
-| Damage Vulnerabilities |                                 |
-| Damage Resistances     |                                 |
-| Damage Immunities      |                                 |
-| Condition Immunities   | Fear                            | 
-| Senses                 |                                 |
-| Languages              | Anum, It                                |
+| Proficiencies        | +4                              |
+| -------------------- | ------------------------------- |
+| Saving Throws        | Constitution, Wisdom            |
+| Skills               | Perception, Survival, Athletics | 
+| Condition Immunities | Fear                            |
+| Languages            | Anum, Itë, Bási                 |
 
 ### Features
-
+**Unwavering** While they are alive, their crew cannot be charmed nor frightened.
+**Look at my Hat!** Everyone has advantage on spotting them.
+Hostile Environment Any enemy of the captai
 
 ### Actions
+**Manoeuvre** The Kraken will be moved up to twice its speed, OR gain 20 temporary bonus hp.
+**Rain Fire!** 
 
 ### Bonus Actions
+**Give Command** The captain can make his crew use a ship-action.
 
 ### Reactions
-
-### Villain Actions
+**On my mark!** The captain issues a previously given command again.
 
 ### Lair Actions
+**Chum the waters!** Roll 1d4, that many piranhas set off from the ship. Recharge 5
