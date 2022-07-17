@@ -5,7 +5,14 @@
 - Parent Location: [[Ritu]]
 - Construction Date: 5203
 - Alternate Names: Gaata Yua
-
+## Loot Table
+| d100 | Outcome | 
+| ---- | ------- |
+|      |         |
+## Random Encounters
+| d100 | Outcome |
+| ---- | ------- |
+|      |         |
 ### Purpose
 Originally built as a cruel punishment for terrible criminals, this maze is now used as a proving-grounds for would be saviours of [[Aga Brakksi]]. 
 Its traps and denizens are still largely intact, though now some changes have been made.
@@ -20,17 +27,14 @@ Old Stone and woodwork, crudely made and massive in design, the walls are 20 ft 
 ### Defenses
 Barricades and heavy gates.
 ### History
-
+The temple was first built by elemental worshippers. The architecture reflects this. Then it was conquered in the last war and damaged heavily on its south side (entrance).
 ### Entries
-
+The only entry to the maze is from the temple above. The entance is locked behind a large door locked from the outside. The key is hanging above the entrance by a chain.
 ### Sensory & Appearances
-The walls are decorated with serpents and mythical creatures. the furtgher 
-### Denizens
-
-### Valuables & Treasure
-
-### Hazards & Traps
-
+The walls are decorated with serpents and mythical creatures. the further to the center the more detail appears.
+A rancid smell of seaweed and moss fills the corridors. The surfaces are damp and cold, no light exists within.
+Bringing light inside makes the walls look frozen.
 ### Special Properties
-
+The walls cannot be destroyed or climbed by normal means.
 ### Environmental Effects
+The walls and floor sometimes shift and become water, it never stays for long, only 1d4+1 rounds.
