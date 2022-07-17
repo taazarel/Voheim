@@ -182,3 +182,5 @@ week 3, OH SHIT ITS GOING DOWN.
 I did not want to worry the others. Mika: We are in danger.
 Is nebusiton deaf?
 Banishment is the perfect ambush spell
+The kraken is boring
+Nebusiton fucking died.
