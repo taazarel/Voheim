@@ -6,9 +6,10 @@
 - Construction Date: 5203
 - Alternate Names: Gaata Yua
 ## Loot Table
-| d100 | Outcome | 
-| ---- | ------- |
-|      |         |
+| d100 | Outcome                |
+| ---- | ---------------------- |
+| 1-4  | Pit trap (setback)2d10 |
+|      |                        |
 ## Random Encounters
 | d100 | Outcome |
 | ---- | ------- |
