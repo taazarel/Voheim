@@ -1,51 +1,17 @@
 #vehicle #lore #item
 # Description
-
+A small vessel made for 1 soldier, it has the bare minimum; a cannon, flight capability, and enough space to fit 1 person.
 ## Statblock
-| HP  | AC  | Threshold |
-| --- | --- | --------- |
-|     |     |           |
-## Identity
-- Class:
-- Nickname:
-- Designation:
-- Motto:
-- Creation Date:
-	- Decommission Date:
-	- Destruction Date:
-- Manufacturer:
-- Related Primary Location:
-- Owner:
-- Owning Guild:
-- Millitary Unit use:
+| HP  | AC  | Speed | Acceleration |
+| --- | --- | ----- | ------------ |
+| 25  |     |       |              |
 
-## Properties
-- Related Tech:
-- Price:
-- Rarity:
-- Length:
-- Height:
-- Width:
-- Weight:
-- Speed: 
-- Crew:
-- Cargo & Passenger Capacity:
 
 ## Systems
 ### Power Generation
 
 ### Propulsion
 
-### Weapons & Armaments
-
-### Armor & Defences
-
 ### Communication Tools & Systems
 
-### Sensors:
-
 ### Additional & Auxiliary Systems
-
-### Hangars & Docked Vessels
-
-## Layout
