@@ -184,3 +184,5 @@ Is nebusiton deaf?
 Banishment is the perfect ambush spell
 The kraken is boring
 Nebusiton fucking died.
+Wizard contraception is wild.
+Arrive at ritu (break)
