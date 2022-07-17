@@ -188,3 +188,6 @@ Wizard contraception is wild.
 Arrive at ritu (break)
 Bossman knows where the river-scroll is
 lights be like: dance break
+Fumnes Firbolg(doppelgänger) is confused.
+Sphinx lets you through, but took a tax.
+A shadow stalks the party. (isulae stalks the party is up to x3)
