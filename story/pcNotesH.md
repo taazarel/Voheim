@@ -175,3 +175,9 @@ LEVEL UP!
 
 ### Session 16
 The starting date was the 9th of Ticeczhat.
+Off for anumivo
+Week 1, nothing much happens. Shimmer happened tho.
+week 2, still not much, Nebusiton is sus. Red gas?
+week 3, OH SHIT ITS GOING DOWN.
+I did not want to worry the others. Mika: We are in danger.
+Is nebusiton deaf?
