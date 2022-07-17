@@ -17,7 +17,8 @@ Weaponry: 60 cannons stationed all around the ship. 12 harpoons. Fortified front
 Accelerate: change speed by 10 ft in any direction.
 Change altitude: can move the ship up or down by up to 20 ft.
 Fly: Move up to the current speed.
-Fire: Fire the cannons, a maximum of 20 cannons can see the same target at any given time. 
+Fire: [5d12 300ft] Fire the cannons, a maximum of 20 cannons can see the same target at any given time. 
+
 ## Identity
 - Class: Mythic class military ship.
 - Nickname: The Blight steel Colossus
@@ -46,21 +47,19 @@ Fire: Fire the cannons, a maximum of 20 cannons can see the same target at any g
 
 ## Systems
 ### Power Generation
-
+Crystal array, very large.
 ### Propulsion
-
-### Weapons & Armaments
-
-### Armor & Defences
-
+By wind.
 ### Communication Tools & Systems
-
+The captain uses magic to enhance his voice.
 ### Sensors:
-
+They have scouts posted on all edges of the ship. The scouts have +7 to perception.
 ### Additional & Auxiliary Systems
 
 ### Hangars & Docked Vessels
-
+There is room for 2 merchant ships and 16 [[piranha]].
 ## Layout
+Machine room is out in the open, it is a half sphere with quarters below and gets its food from a teleportation circle.
 
 ## Crew
+100 highly trained military soldiers.
