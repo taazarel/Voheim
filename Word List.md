@@ -1,6 +1,6 @@
 #story 
 
-# RItu
+# Ritu
 ## Binding words
 Em: And
 
