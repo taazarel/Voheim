@@ -41,3 +41,8 @@
 - [ ] Make more items
 - [ ] Make interesting fights
 - [ ] Make a dungeon
+### Session 16
+- [x] Make the next dungeon
+- [x] Make the Kraken fight
+- [x] Make the captain for the kraken
+- [x] Make the river scroll

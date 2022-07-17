@@ -52,7 +52,7 @@ The virtues which are to be tested are:
 ### Items
 - [x] A golden beetle 
 - [ ] A sapphire teardrop 
-- [ ] A scroll with a river drawn upon it. Along the river there is a poem. 
+- [x] A scroll with a river drawn upon it. Along the river there is a poem. 
 - [ ] A living fox with a silver hide 
 - [x] A glass bowl
 - [ ] A spear shaft with a black banner wrapped across it
@@ -68,7 +68,7 @@ The virtues which are to be tested are:
 - [ ] A cave with blackened walls 
 - [x] A chasm with poisonous gas 
 - [ ] A gate with two godlike statues who appear to be enemies 
-- [ ] A Sunken temple
+- [x] A Sunken temple
 - [ ] An overgrown misty village
 - [x] A ruin under Öbaemnos
 - [ ] The library of Aga Brakksi
