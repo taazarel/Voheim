@@ -191,3 +191,6 @@ lights be like: dance break
 Fumnes Firbolg(doppelgänger) is confused.
 Sphinx lets you through, but took a tax.
 A shadow stalks the party. (isulae stalks the party is up to x3)
+
+### Session 17
+The starting date was the 23rd of Inat 8424.
