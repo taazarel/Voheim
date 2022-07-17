@@ -18,13 +18,13 @@ There are now three locks before the last level, each of which require the sacri
 Old Stone and woodwork, crudely made and massive in design, the walls are 20 ft tall and 5 ft thick.
 
 ### Defenses
-
+Barricades and heavy gates.
 ### History
 
 ### Entries
 
 ### Sensory & Appearances
-
+The walls are decorated with serpents and mythical creatures. the furtgher 
 ### Denizens
 
 ### Valuables & Treasure
