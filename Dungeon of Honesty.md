@@ -34,10 +34,6 @@
 | 96-99 | Gelatinous cube, if it rolls 1-4 it surprises the party.                                                                                                                                                                                                                       |
 | 100   | 1 Water elemental.                                                                                                                                                                                                                                                             |
 
-## Loot Table
-| d100 | Outcome |
-| ---- | ------- |
-|      |         |
 ### Purpose
 Originally built as a cruel punishment for terrible criminals, this maze is now used as a proving-grounds for would be saviours of [[Aga Brakksi]]. 
 Its traps and denizens are still largely intact, though now some changes have been made.
