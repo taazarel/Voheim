@@ -6,34 +6,34 @@
 - Construction Date: 5203
 - Alternate Names: Gaata Yua
 ## Loot Table
-| d100 | Outcome                             |
-| ---- | ----------------------------------- |
-| 1-4  | Path of blades 2d10+5 initiative 20 |
-| 5-8  | Find a corpse (1d6 gold pieces)     |
-| 9-13 | 2d4 giant poisonous snakes          |
-|      | Secret safe room, DC 20 to find     |
-|      | Ambush by 2d4 -1 giant spiders      |
-|      | The walls become liquid, advance 1  | 
-|      |                                     |
-|      |                                     |
-|      |                                     |
-|      |                                     |
-|      |                                     |
-|      |                                     |
-|      |                                     |
-|      |                                     |
-|      |                                     |
-|      |                                     |
-|      |                                     |
-|      |                                     |
-|      |                                     |
-|      |                                     |
-|      |                                     |
-|      |                                     |
-|      |                                     |
-|      |                                     |
-|      |                                     |
-|      |                                     |
+| d100 | Outcome                                                                                                  |
+| ---- | -------------------------------------------------------------------------------------------------------- |
+| 1-4  | Path of blades 2d10+5 initiative 20                                                                      |
+| 5-8  | Find a corpse (1d6 gold pieces)                                                                          |
+| 9-13 | 2d4 giant poisonous snakes                                                                               |
+|      | Secret safe room, DC 20 to find                                                                          |
+|      | Ambush by 2d4 -1 giant spiders                                                                           |
+|      | The walls become liquid, advance 1                                                                       |
+|      | The party hears the [[Alpha Isulae]]. DC 14 wisdom check. If half of them fail, they loose all progress. |
+|      | The Isulae finds a victim, they now lie in wait.                                                         |
+|      | The walls become liquid, make a navigation check, if successful advance 1.                               |
+|      | 1 shambling mound                                                                                        | 
+|      | Find another exit through a swamp tree that has broken down the rock.                                                                                                         |
+|      | The walls become liquid, make a navigation check, if successful stick together, loose all progress.                                                                                                         |
+|      | The party finds a place they have already been. Reset progress.                                                                                                         |
+|      | Nothing Happens                                                                                                         |
+|      | Trap                                                                                                         |
+|      | Penatly (Exha)                                                                                                         |
+|      |                                                                                                          |
+|      |                                                                                                          |
+|      |                                                                                                          |
+|      |                                                                                                          |
+|      |                                                                                                          |
+|      |                                                                                                          |
+|      |                                                                                                          |
+|      |                                                                                                          |
+|      |                                                                                                          |
+|      |                                                                                                          |
 ## Random Encounters
 | d100 | Outcome |
 | ---- | ------- |
