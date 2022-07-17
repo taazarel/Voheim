@@ -6,33 +6,33 @@
 - Construction Date: 5203
 - Alternate Names: Gaata Yua
 ## Loot Table
-| d100 | Outcome                                                                                                                      |
-| ---- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 1-4  | Path of blades 2d10+5 initiative 20                                                                                          |
-| 5-8  | Find a corpse (1d6 gold pieces)                                                                                              |
-| 9-13 | 2d4 giant poisonous snakes                                                                                                   |
-|      | Secret safe room, DC 20 to find                                                                                              |
-|      | Ambush by 2d4 -1 giant spiders                                                                                               |
-|      | The walls become liquid, advance 1                                                                                           |
-|      | The party hears the [[Alpha Isulae]]. DC 14 wisdom check. If half of them fail, they loose all progress.                     |
-|      | The Isulae finds a victim, they now lie in wait.                                                                             |
-|      | The walls become liquid, make a navigation check, if successful advance 1.                                                   |
-|      | 1 shambling mound                                                                                                            |
-|      | Find another exit through a swamp tree that has broken down the rock.                                                        |
-|      | The walls become liquid, make a navigation check, if successful stick together, loose all progress.                          |
-|      | The party finds a place they have already been. Reset progress.                                                              |
-|      | Nothing Happens                                                                                                              |
-|      | Trap                                                                                                                         |
-|      | Penalty (Exhausted)                                                                                                          |
-|      | Special encounter                                                                                                            |
-|      | Temporarily loose 1 point of wisdom charisma or intelligence, until rest.                                                    |
-|      | Trap                                                                                                                         |
-|      | Find missing party members. Otherwise no effect.                                                                             |
-|      | The party members find a part of the maze particularly sunken. Navigation checks have disadvantage. Lasts for 1d4 + 1 rolls. |
-|      | Find a gored wizard, searching him reveals a dagger, staff, 2d6 x 10 gp and 1d4 scrolls.                                     |
-|      |                                                                                                                              |
-|      | Gelatinous cube, if it rolls 1-4 it surprises the party.                                                                                                                             |
-|      | 1 Water elemental.                                                                                                                             |
+| d100  | Outcome                                                                                                                                                                                                                                                                        |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1-4   | Path of blades 2d10+5 initiative 20                                                                                                                                                                                                                                            |
+| 5-8   | Find a corpse (1d6 gold pieces)                                                                                                                                                                                                                                                |
+| 9-13  | 2d4 giant poisonous snakes                                                                                                                                                                                                                                                     |
+|       | Secret safe room, DC 20 to find                                                                                                                                                                                                                                                |
+|       | Ambush by 2d4 -1 giant spiders                                                                                                                                                                                                                                                 |
+|       | The walls become liquid, advance 1                                                                                                                                                                                                                                             |
+|       | The party hears the [[Alpha Isulae]]. DC 14 wisdom check. If half of them fail, they loose all progress.                                                                                                                                                                       |
+|       | The Isulae finds a victim, it now lies in wait.                                                                                                                                                                                                                                |
+|       | The walls become liquid, make a navigation check, if successful advance 1.                                                                                                                                                                                                     |
+|       | 1 shambling mound                                                                                                                                                                                                                                                              |
+|       | Find another exit through a swamp tree that has broken down the rock.                                                                                                                                                                                                          |
+|       | The walls become liquid, make a navigation check, if successful stick together, loose all progress.                                                                                                                                                                            |
+|       | The party finds a place they have already been. Reset progress.                                                                                                                                                                                                                |
+|       | Nothing Happens                                                                                                                                                                                                                                                                |
+|       | Trap                                                                                                                                                                                                                                                                           |
+|       | Penalty (Exhausted)                                                                                                                                                                                                                                                            |
+|       | Special encounter                                                                                                                                                                                                                                                              | 
+|       | Temporarily loose 1 point of wisdom charisma or intelligence, until rest.                                                                                                                                                                                                      |
+|       | Trap                                                                                                                                                                                                                                                                           |
+|       | Find missing party members. Otherwise no effect.                                                                                                                                                                                                                               |
+|       | The party members find a part of the maze particularly sunken. Navigation checks have disadvantage. Lasts for 1d4 + 1 rolls.                                                                                                                                                   |
+|       | Find a gored wizard, searching him reveals a dagger, staff, 2d6 x 10 gp and 1d4 scrolls.                                                                                                                                                                                       |
+|       | Find a fountain in an alcove. 1d6: 1-Save vs poison, die/long rest. 2-You understand the maze. 3-Nothing happens. 4-Save, you can no longer breathe air/you can now breathe water. 5-You see the Isulae in the reflection. 6-You feel sick, disadvantage on navigation checks. |
+| 96-99 | Gelatinous cube, if it rolls 1-4 it surprises the party.                                                                                                                                                                                                                       |
+| 100   | 1 Water elemental.                                                                                                                                                                                                                                                             |
 
 ## Random Encounters
 | d100 | Outcome |
