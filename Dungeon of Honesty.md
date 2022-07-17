@@ -6,10 +6,34 @@
 - Construction Date: 5203
 - Alternate Names: Gaata Yua
 ## Loot Table
-| d100 | Outcome                |
-| ---- | ---------------------- |
-| 1-4  | Pit trap (setback)2d10 |
-|      |                        |
+| d100 | Outcome                             |
+| ---- | ----------------------------------- |
+| 1-4  | Path of blades 2d10+5 initiative 20 |
+| 5-8  | Find a corpse (1d6 gold pieces)     |
+| 9-13 | 2d4 giant poisonous snakes          |
+|      | Secret safe room, DC 20 to find     |
+|      | Ambush by 2d4 -1 giant spiders      |
+|      | The walls become liquid, advance 1  | 
+|      |                                     |
+|      |                                     |
+|      |                                     |
+|      |                                     |
+|      |                                     |
+|      |                                     |
+|      |                                     |
+|      |                                     |
+|      |                                     |
+|      |                                     |
+|      |                                     |
+|      |                                     |
+|      |                                     |
+|      |                                     |
+|      |                                     |
+|      |                                     |
+|      |                                     |
+|      |                                     |
+|      |                                     |
+|      |                                     |
 ## Random Encounters
 | d100 | Outcome |
 | ---- | ------- |
