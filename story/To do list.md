@@ -45,4 +45,4 @@
 - [ ] Make the next dungeon
 - [x] Make the Kraken fight
 - [x] Make the captain for the kraken
-- [ ] Make the river scroll
+- [x] Make the river scroll
