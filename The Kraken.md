@@ -11,10 +11,13 @@ With the captain [[Iuvaivotchei Ouniugluv]] by its helm this ship has never lost
 | Helm            | 200    | 20        | 5   |
 Top speed: 300ft per round. 54 km/t
 Acceleration: 10ft per round.
-Weaponry: 
+Weaponry: 60 cannons stationed all around the ship. 12 harpoons. Fortified front for ramming. 16 piranhas.
 
 ### Ship Actions
-
+Accelerate: change speed by 10 ft in any direction.
+Change altitude: can move the ship up or down by up to 20 ft.
+Fly: Move up to the current speed.
+Fire: Fire the cannons, a maximum of 20 cannons can see the same target at any given time. 
 ## Identity
 - Class: Mythic class military ship.
 - Nickname: The Blight steel Colossus
