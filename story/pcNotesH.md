@@ -181,3 +181,4 @@ week 2, still not much, Nebusiton is sus. Red gas?
 week 3, OH SHIT ITS GOING DOWN.
 I did not want to worry the others. Mika: We are in danger.
 Is nebusiton deaf?
+Banishment is the perfect ambush spell
