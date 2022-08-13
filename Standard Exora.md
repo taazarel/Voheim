@@ -7,11 +7,12 @@ Other models defer to the Standard Exora. Documentation shows only the differenc
 
 ## Statblock
 Size: Large
+Type: Mount
 Where the proficiency bonus is applicable, the pilots bonus is used.
 | Combat Stats | Values           |
 | ------------ | ---------------- |
-| Armor Class  | 15               | 
-| Hit Points   | 100              |
+| Armor Class  | 15               |
+| Hit Points   | 100 (250)        | 
 | Speed        | 50ft, 25ft climb |
 
 | Str | Dex | Con | Int | Wis | Cha |
@@ -21,23 +22,25 @@ Where the proficiency bonus is applicable, the pilots bonus is used.
 | Proficiencies          |                                                                                                 |
 | ---------------------- | ----------------------------------------------------------------------------------------------- |
 | Saving Throws          | Strength & Constitution.                                                                        |
-| Skills                 | None                                                                                            | 
+| Skills                 | None                                                                                            |
 | Damage Vulnerabilities | Acid & Thunder                                                                                  |
-| Damage Resistances     | Fire & Cold                                                                                     |
-| Damage Immunities      | Psychic, Necrotic, Poison, Lightning & Nonmagical Bludgeoning, Slashing, Piercing               |
+| Damage Resistances     | Fire, Cold, Nonmagical Bludgeoning, Slashing & Piercing                                         | 
+| Damage Immunities      | Psychic, Necrotic, Poison & Lightning.                                                          |
 | Condition Immunities   | Blinded, Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Poisoned, Stunned & Unconscious. |
 | Senses                 | None                                                                                            |
 | Languages              | None                                                                                            |
 
 ### Features
-Hulking mass: Disadvantage on stealth.
+**Hulking mass** Disadvantage on stealth.
+**Fill 'er up** Spending a turn will let the pilot fill the tank up to ten percent. (Steam power)
 
 ### Actions
+**Eject!** The Exora opens its cockpit letting the pilot escape. 
 
 ### Bonus Actions
-
+None without additional installations.
 ### Reactions
-
+None without additional installations.
 ## Properties
 - Related Tech: [[Exora]]
 - Price: 2000 gp
@@ -52,9 +55,10 @@ Hulking mass: Disadvantage on stealth.
 ## Systems
 ### Power Generation
 Either through steam or air-propulsion.
-Air-propulsion will only allow the machine to run for a limited time before it has to recharge. The rule is a maximum of 1 hour, with a 5 hour waiting time to charge up fully.
+- Air-propulsion will only allow the machine to run for a limited time before it has to recharge. The rule is a maximum of 1 hour, with a 5 hour waiting time to charge up fully.
+- If running on steam, a Standard Exora can run for as long as there is water in its tank, however. The pilot will need to pour in more water to keep it running. This can be done from inside the cockpit.
 ### Propulsion
-
+By using its appendages it can run, walk or climb over most obstacles.
 ### Weapons & Armaments
 Swords, guns or crossbows have been manufactured and can be fitted onto the body. 
 Armaments are available at an additional fee. Custom orders are prohibitively expensive.
