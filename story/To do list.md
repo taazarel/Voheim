@@ -48,4 +48,4 @@
 - [x] Make the river scroll
 ### Session 17
 - [ ] Make the magical weaponry
-- [ ] Research war play
+- [x] Research war play
