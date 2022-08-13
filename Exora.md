@@ -31,12 +31,12 @@ The tubing especially.
 ## Categorization
 ### Model/Subtype
 This is a list of the models of Exora. The standard Exora takes on the visage of a humanoid with working appendages and hands.
-- Standard
-- Armored
-- Cerulean
-- Lancer
-- Light
-- Dropper
+- [[Standard Exora]]
+- [[Armored Exora]]
+- [[Cerulean Exora]]
+- [[Lancer Exora]]
+- [[Light Exora]]
+- [[Dropper Exora]]
 ### Manufacturer
 [[Rhaebase Rsauvveisouff]] 
 ### Owning Guilds

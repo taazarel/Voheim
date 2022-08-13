@@ -47,5 +47,5 @@
 - [x] Make the captain for the kraken
 - [x] Make the river scroll
 ### Session 17
-- [ ] Make the magical weaponry
+- [x] Make the magical weaponry
 - [x] Research war play

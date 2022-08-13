@@ -5,14 +5,46 @@ Other models defer to the Standard Exora. Documentation shows only the differenc
 - Class: Flexible
 - Nickname: Regular
 
+## Statblock
+Size: Large
+| Combat Stats | Values |
+| ------------ | ------ |
+| Armor Class  |        |
+| Hit Points   |        |
+| Speed        |        |
+
+| Str | Dex | Con | Int | Wis | Cha |
+| --- | --- | --- | --- | --- | --- |
+|     |     |     | 0   | 0   | 0   | 
+
+| Proficiencies          |                                                                                   |
+| ---------------------- | --------------------------------------------------------------------------------- |
+| Saving Throws          |                                                                                   |
+| Skills                 |                                                                                   |
+| Damage Vulnerabilities | Acid & Thunder                                                                    |
+| Damage Resistances     | Fire & Cold                                                                       |
+| Damage Immunities      | Psychic, Necrotic, Poison, Lightning & Nonmagical Bludgeoning, Slashing, Piercing |
+| Condition Immunities   | Blinded, Charmed, Deafened                                                                                  | 
+| Senses                 |                                                                                   |
+| Languages              |                                                                                   |
+
+## Features
+
+
+## Actions
+
+## Bonus Actions
+
+## Reactions
+
 ## Properties
 - Related Tech: [[Exora]]
 - Price: 2000 gp
 - Rarity: Uncommon
-- Length: 
-- Height:
-- Width:
-- Weight:
+- Length: Effective Length of 10ft
+- Height: 13ft(4m)
+- Width: Effective width of 10ft
+- Weight: About 2 tons.
 - Speed: 50ft, 25ft climb speed.
 - Crew: 1 person.
 - Cargo & Passenger Capacity: N/A.
