@@ -1,4 +1,4 @@
-#item #lore 
+#item #lore #tech 
 # Description
 A large construction which can be piloted by a medium humanoid with training. The training program consists of a few courses in total taking up 4 days of practice.
 
@@ -44,9 +44,6 @@ This is a list of the models of Exora. The standard Exora takes on the visage of
 ### Related Technologies
 [[Traho]], [[Trudo]] & [[Airship]].
 ### Related Condition
-
+Windsickness
 ### Related Ethnicities
-
-# Whereabouts
-- Current Geographic Location:
-- Current Holder:
+[[Anum]]
