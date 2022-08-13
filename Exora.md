@@ -4,10 +4,10 @@ A large construction which can be piloted by a medium humanoid with training. Th
 
 "This titanic mass of pistons, tubes and pressurized weapons is a shining example of our progress"
 ## Generic
-- Weight:
-- Dimensions:
-- Price:
-- Rarity:
+- Weight: 2 tons
+- Dimensions: large
+- Price: 2000 gp
+- Rarity: Uncommon
 
 ### History
 - Creation Date:
