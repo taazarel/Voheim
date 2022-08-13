@@ -33,6 +33,7 @@ Where the proficiency bonus is applicable, the pilots bonus is used.
 ### Features
 **Hulking mass** Disadvantage on stealth.
 **Fill 'er up** Spending a turn will let the pilot fill the tank up to ten percent. (Steam power)
+**Good view aye?** Does not protect the pilot from AOE.
 
 ### Actions
 **Eject!** The Exora opens its cockpit letting the pilot escape. 
