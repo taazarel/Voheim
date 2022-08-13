@@ -1,6 +1,6 @@
 #vehicle #lore #item
 # Description
-
+Other models defer to the Standard Exora. Documentation shows only the differences between the model in question and the "Standard" model. All models are manufactured by [[Rhaebase Rsauvveisouff]] and [[Bright Skies Industry]].
 ## Identity
 - Class: Flexible
 - Nickname: Regular
@@ -13,9 +13,9 @@
 - Height:
 - Width:
 - Weight:
-- Speed: 
-- Crew:
-- Cargo & Passenger Capacity:
+- Speed: 50ft, 25ft climb speed.
+- Crew: 1 person.
+- Cargo & Passenger Capacity: N/A.
 
 ## Systems
 ### Power Generation
@@ -38,4 +38,6 @@ Are made to custom order and is not in a formatted list. All expenses are specif
 ### Hangars & Docked Vessels
 Are not available for the standard Exora.
 ## Layout
-The pilots seat is reserved for what we have dubbed "The cockpit". Here they can freely control the Exora,
+The pilots seat is reserved for what we have dubbed "The cockpit". Here they can freely control the Exora, exit and enter the machine. 
+The core is a small space beneath the shoulders of the machine. It has a openable flap for maintenance. 
+Appendages are replaceable and customizable.
