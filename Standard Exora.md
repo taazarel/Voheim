@@ -7,35 +7,36 @@ Other models defer to the Standard Exora. Documentation shows only the differenc
 
 ## Statblock
 Size: Large
-| Combat Stats | Values |
-| ------------ | ------ |
-| Armor Class  |        |
-| Hit Points   |        |
-| Speed        |        |
+Where the proficiency bonus is applicable, the pilots bonus is used.
+| Combat Stats | Values           |
+| ------------ | ---------------- |
+| Armor Class  | 15               | 
+| Hit Points   | 100              |
+| Speed        | 50ft, 25ft climb |
 
 | Str | Dex | Con | Int | Wis | Cha |
 | --- | --- | --- | --- | --- | --- |
-|     |     |     | 0   | 0   | 0   | 
+| 24  | 14  | 20  | 0   | 0   | 0   |
 
-| Proficiencies          |                                                                                   |
-| ---------------------- | --------------------------------------------------------------------------------- |
-| Saving Throws          |                                                                                   |
-| Skills                 |                                                                                   |
-| Damage Vulnerabilities | Acid & Thunder                                                                    |
-| Damage Resistances     | Fire & Cold                                                                       |
-| Damage Immunities      | Psychic, Necrotic, Poison, Lightning & Nonmagical Bludgeoning, Slashing, Piercing |
-| Condition Immunities   | Blinded, Charmed, Deafened                                                                                  | 
-| Senses                 |                                                                                   |
-| Languages              |                                                                                   |
+| Proficiencies          |                                                                                                 |
+| ---------------------- | ----------------------------------------------------------------------------------------------- |
+| Saving Throws          | Strength & Constitution.                                                                        |
+| Skills                 | None                                                                                            | 
+| Damage Vulnerabilities | Acid & Thunder                                                                                  |
+| Damage Resistances     | Fire & Cold                                                                                     |
+| Damage Immunities      | Psychic, Necrotic, Poison, Lightning & Nonmagical Bludgeoning, Slashing, Piercing               |
+| Condition Immunities   | Blinded, Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Poisoned, Stunned & Unconscious. |
+| Senses                 | None                                                                                            |
+| Languages              | None                                                                                            |
 
-## Features
+### Features
+Hulking mass: Disadvantage on stealth.
 
+### Actions
 
-## Actions
+### Bonus Actions
 
-## Bonus Actions
-
-## Reactions
+### Reactions
 
 ## Properties
 - Related Tech: [[Exora]]
@@ -45,13 +46,13 @@ Size: Large
 - Height: 13ft(4m)
 - Width: Effective width of 10ft
 - Weight: About 2 tons.
-- Speed: 50ft, 25ft climb speed.
 - Crew: 1 person.
 - Cargo & Passenger Capacity: N/A.
 
 ## Systems
 ### Power Generation
 Either through steam or air-propulsion.
+Air-propulsion will only allow the machine to run for a limited time before it has to recharge. The rule is a maximum of 1 hour, with a 5 hour waiting time to charge up fully.
 ### Propulsion
 
 ### Weapons & Armaments
