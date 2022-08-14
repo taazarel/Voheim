@@ -205,3 +205,6 @@ Scroll get!
 Mika did not die. Best use of inspiration
 All is well on the ship (break)
 Uncle is a fugitive.
+The river scroll breaks the laws of logic
+Ouli gets a new arm
+WATERBRIDGE!
