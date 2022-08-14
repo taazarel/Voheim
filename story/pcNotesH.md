@@ -194,3 +194,13 @@ A shadow stalks the party. (isulae stalks the party is up to x3)
 
 ### Session 17
 The starting date was the 23rd of Inat 8424.
+Cupped water was not the right answer.
+Roomba!
+Ey thats a lot of money..
+Confessing to murder
+Oh i know those guys *goes invisible*
+Cool stick
+Ouli dies again again again
+Scroll get!
+Mika did not die. Best use of inspiration
+All is well on the ship (break)
