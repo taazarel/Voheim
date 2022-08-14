@@ -9,11 +9,12 @@ Other models defer to the Standard Exora. Documentation shows only the differenc
 Size: Large
 Type: Mount
 Where the proficiency bonus is applicable, the pilots bonus is used.
+
 | Combat Stats | Values           |
 | ------------ | ---------------- |
 | Armor Class  | 15               |
-| Hit Points   | 100 (250)        | 
-| Speed        | 50ft, 25ft climb |
+| Hit Points   | 100 (250)        |
+| Speed        | 50ft, 25ft climb | 
 
 | Str | Dex | Con | Int | Wis | Cha |
 | --- | --- | --- | --- | --- | --- |
@@ -37,6 +38,8 @@ Where the proficiency bonus is applicable, the pilots bonus is used.
 
 ### Actions
 **Eject!** The Exora opens its cockpit letting the pilot escape. 
+**Punch** 3d12 + 6, 10ft range, proficient.
+**Sword attack** 6d12 + 6, 10ft range, proficient.
 
 ### Bonus Actions
 None without additional installations.
