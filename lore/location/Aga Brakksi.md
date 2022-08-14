@@ -71,4 +71,4 @@ The virtues which are to be tested are:
 - [x] A Sunken temple
 - [ ] An overgrown misty village
 - [x] A ruin under Öbaemnos
-- [ ] The library of Aga Brakksi
+- [x] The library of Aga Brakksi
