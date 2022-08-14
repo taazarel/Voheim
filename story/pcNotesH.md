@@ -210,5 +210,6 @@ Ouli gets a new arm
 WATERBRIDGE!
 Ækuf steals a mech.
 Epic mech battle.
+Aesh checks back home on his family assassinations.
 
 ### Session 18
