@@ -26,8 +26,8 @@ Where the proficiency bonus is applicable, the pilots bonus is used.
 | Saving Throws          | Strength & Constitution.                                                                        |
 | Skills                 | None                                                                                            |
 | Damage Vulnerabilities | Acid & Thunder                                                                                  |
-| Damage Resistances     | Fire, Cold, Nonmagical Bludgeoning, Slashing & Piercing                                         | 
-| Damage Immunities      | Psychic, Necrotic, Poison & Lightning.                                                          |
+| Damage Resistances     | Nonmagical Bludgeoning, Slashing & Piercing                                         | 
+| Damage Immunities      | Psychic, Fire, Cold, Necrotic, Poison & Lightning.                                                          |
 | Condition Immunities   | Blinded, Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Poisoned, Stunned & Unconscious. |
 | Senses                 | Sight                                                                                            |
 | Languages              | None                                                                                            |
@@ -38,30 +38,32 @@ Where the proficiency bonus is applicable, the pilots bonus is used.
 **Bunker** The pilot cannot be targeted while inside.
 
 ### Actions
-**Eject!** The Exora opens its cockpit letting the pilot escape. 
+**Eject!** The Exora opens its cockpit letting the pilot escape. This process takes 5 minutes. 
 **Stomp** 3d12 + 5, 5ft range, proficient.
-**Shoot** 5d12, 120 
+**Cannon** 5d12, 120ft range, proficient, cannot target medium or smaller creatures within 10ft of the chassis. 20 cannonballs.
+**Hold position** Becomes stationary and digs its claws into the earth. Cannot be moved while stationary and gains +2 to its AC.
 
 ### Bonus Actions
-None without additional installations.
+**Operate coms** Turn off/on audio to the outside.
+
 ### Reactions
 None without additional installations.
 ## Properties
 - Related Tech: [[Exora]]
-- Price: 2000 gp
-- Rarity: Uncommon
+- Price: 3000 gp
+- Rarity: Rare
 - Length: Effective Length of 10ft
 - Height: 13ft(4m)
 - Width: Effective width of 10ft
 - Weight: About 2 tons.
-- Crew: 1 person.
-- Cargo & Passenger Capacity: N/A.
+- Crew: 2 persons.
+- Cargo & Passenger Capacity: up to 3 people and a table.
 
 ## Systems
 ### Power Generation
 Either through steam or air-propulsion.
 - Air-propulsion will only allow the machine to run for a limited time before it has to recharge. The rule is a maximum of 1 hour, with a 5 hour waiting time to charge up fully.
-- If running on steam, a Standard Exora can run for as long as there is water in its tank, however. The pilot will need to pour in more water to keep it running. This can be done from inside the cockpit.
+- If running on steam, an Exora can run for as long as there is water in its tank, however. The pilot will need to pour in more water to keep it running. This can be done from inside the cockpit.
 ### Propulsion
 By using its appendages it can run, walk or climb over most obstacles.
 ### Weapons & Armaments
@@ -70,7 +72,8 @@ Armaments are available at an additional fee. Custom orders are prohibitively ex
 ### Armor & Defences
 All regulars are equipped with tough armour, strong enough to survive landslides and long falls.
 ### Communication Tools & Systems
-The pilot is able to hear and see outside of the Exora. And can be heard speaking from the outside.
+The pilot can see outside thanks to an illusion projected inside. The pilot can hear and be heard from outside when coms are active.
+Armored Exora are fitted with a target for magical messages, which extends the range of a message by 1 mile.
 Additional communication systems are available at an additional fee.
 ### Sensors:
 This machinery has no standard sensors.
