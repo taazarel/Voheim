@@ -34,15 +34,19 @@ Where the proficiency bonus is applicable, the pilots bonus is used.
 ### Features
 **Hulking mass** Disadvantage on stealth.
 **Fill 'er up** Spending a turn will let the pilot fill the tank up to ten percent. (Steam power)
-**Good view aye?** Does not protect the pilot from AOE.
-
+**Blind fighting** The Exoras shielded cockpit protects the pilot from AOE and gives Full cover, but also gives disadvantage on Investigation and Perception Checks.
+**Line Breaker** If the lancer has travelled 60ft or more, in the same direction during this turn, add 1d12 + 1d12 per additional 30 ft travelled to the next lance attack.
+**Unstoppable**
 ### Actions
 **Eject!** The Exora opens its cockpit letting the pilot escape. 
-**Punch** 3d12 + 6, 10ft range, proficient.
-**Sword attack** 6d12 + 6, 10ft range, proficient.
+**Multiattack** The Lancer can make either 2 attacks with punch or 1 attack with lance.
+**Punch** 2d12 + 6, 10ft range, proficient.
+**Lance** 7d12 + 6, 15ft range, proficient.
+**Lance the masses** 4d12 + 6, 15ft line, DEX check 13 + proficiency.
 
 ### Bonus Actions
-None without additional installations.
+**Charge!** By spending 1 minute of uptime the lancer travels an additional 10ft. You may spend any amount of uptime to a maximum of 30 minutes.
+
 ### Reactions
 None without additional installations.
 ## Properties
