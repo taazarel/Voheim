@@ -38,8 +38,8 @@ Where the proficiency bonus is applicable, the pilots bonus is used.
 **Eject!** The Exora opens its cockpit letting the pilot escape. Ejecting and entering the Dropper takes 1 minute.
 
 ### Actions
-**Orbital Vengeance** The Exora utilizes its buil
-**Punch** 3d12 + 6, 10ft range, proficient.
+**Orbital Vengeance** The Exora utilizes its build to jump from the deck of a ship, forming into an arrow which when lands deals 20d12 in a 10ft radius and is unavoidable. Though landing at a designated target is near impossible. To hit a large target such as  an army is guaranteed. To hit a specific battalion is a DEX 15 check, Proficient. To hit a small target such as another exora, is a DEX 22 check, Proficient.
+**Slice** 6d12 + 10, 10ft range, proficient.
 
 ### Bonus Actions
 None without additional installations.
@@ -49,9 +49,9 @@ None without additional installations.
 - Related Tech: [[Exora]]
 - Price: 2000 gp
 - Rarity: Uncommon
-- Length: Effective Length of 10ft
+- Length: Effective Length of 15ft
 - Height: 13ft(4m)
-- Width: Effective width of 10ft
+- Width: Effective width of 15ft
 - Weight: About 2 tons.
 - Crew: 1 person.
 - Cargo & Passenger Capacity: N/A.
