@@ -1,24 +1,25 @@
 #vehicle #lore #item
 # Description
-Other models defer to the Standard Exora. Documentation shows only the differences between the model in question and the "Standard" model. All models are manufactured by [[Rhaebase Rsauvveisouff]] and [[Bright Skies Industry]].
+Initially we wanted to create a veritable mountain of a machine. An Exora with defences to exhaust any attack, then strike back.
+However this machine has low attack capabilities, simply because it now has a new purpose: protect the commander.
 ## Identity
-- Class: Flexible
-- Nickname: Regular
+- Class: Stronghold
+- Nickname: Turtle, Hills(group)
 
 ## Statblock
 Size: Large
 Type: Mount
 Where the proficiency bonus is applicable, the pilots bonus is used.
 
-| Combat Stats | Values           |
-| ------------ | ---------------- |
-| Armor Class  | 15               |
-| Hit Points   | 100 (250)        |
-| Speed        | 50ft, 25ft climb | 
+| Combat Stats | Values     |
+| ------------ | ---------- |
+| Armor Class  | 20         | 
+| Hit Points   | 500 (1000) |
+| Speed        | 20ft       |
 
 | Str | Dex | Con | Int | Wis | Cha |
 | --- | --- | --- | --- | --- | --- |
-| 24  | 14  | 20  | 0   | 0   | 0   |
+| 20  | 10  | 30  | 0   | 0   | 0   |
 
 | Proficiencies          |                                                                                                 |
 | ---------------------- | ----------------------------------------------------------------------------------------------- |
@@ -28,18 +29,18 @@ Where the proficiency bonus is applicable, the pilots bonus is used.
 | Damage Resistances     | Fire, Cold, Nonmagical Bludgeoning, Slashing & Piercing                                         | 
 | Damage Immunities      | Psychic, Necrotic, Poison & Lightning.                                                          |
 | Condition Immunities   | Blinded, Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Poisoned, Stunned & Unconscious. |
-| Senses                 | None                                                                                            |
+| Senses                 | Sight                                                                                            |
 | Languages              | None                                                                                            |
 
 ### Features
 **Hulking mass** Disadvantage on stealth.
 **Fill 'er up** Spending a turn will let the pilot fill the tank up to ten percent. (Steam power)
-**Good view aye?** Does not protect the pilot from AOE.
+**Bunker** The pilot cannot be targeted while inside.
 
 ### Actions
 **Eject!** The Exora opens its cockpit letting the pilot escape. 
-**Punch** 3d12 + 6, 10ft range, proficient.
-**Sword attack** 6d12 + 6, 10ft range, proficient.
+**Stomp** 3d12 + 5, 5ft range, proficient.
+**Shoot** 5d12, 120 
 
 ### Bonus Actions
 None without additional installations.
