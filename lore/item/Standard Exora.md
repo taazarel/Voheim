@@ -5,7 +5,7 @@ Other models defer to the Standard Exora. Documentation shows only the differenc
 - Class: Flexible
 - Nickname: Regular
 
-## Statblock
+## Stat block
 Size: Large
 Type: Mount
 Where the proficiency bonus is applicable, the pilots bonus is used.
