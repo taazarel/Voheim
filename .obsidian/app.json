@@ -4,7 +4,7 @@
   "foldHeading": true,
   "showLineNumber": true,
   "trashOption": "local",
-  "newFileLocation": "root",
+  "newFileLocation": "folder",
   "attachmentFolderPath": "assets",
   "alwaysUpdateLinks": true,
   "spellcheck": true,
@@ -18,5 +18,6 @@
     "Sequela",
     "Biome",
     "Kragvi"
-  ]
+  ],
+  "newFileFolderPath": "WIP"
 }
