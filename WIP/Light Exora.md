@@ -36,3 +36,7 @@ While worn the users abilities are enhanced to the following.
 -   Weight: About 90 lbs.
 -   Crew: 1 person.
 -   Cargo & Passenger Capacity: N/A.
+
+## Systems
+### Power Generation
+Air-propulsion will only allow the machine to run for a limited time before it has to recharge. The rule is a maximum of 1 hour, with a 5 hour waiting time to charge up fully.
