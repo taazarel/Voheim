@@ -50,7 +50,7 @@
 - [x] Make the magical weaponry
 - [x] Research war play
 ### Session 18
-- [ ] Make the rest of the Exora
+- [x] Make the rest of the Exora
 - [ ] Make the dungeon of Cooperation
 - [ ] Make the magical item
-- [ ] Find a good way for Luna to join the party
+- [x] Find a good way for Luna to join the party
