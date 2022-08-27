@@ -2,30 +2,30 @@
 # Description
 Other models defer to the Standard Exora. Documentation shows only the differences between the model in question and the "Standard" model. All models are manufactured by [[Rhaebase Rsauvveisouff]] and [[Bright Skies Industry]].
 ## Identity
-- Class: Flexible
-- Nickname: Regular
+- Class: Cavalry
+- Nickname: Rockets
 
 ## Statblock
 Size: Large
 Type: Mount
 Where the proficiency bonus is applicable, the pilots bonus is used.
 
-| Combat Stats | Values           |
-| ------------ | ---------------- |
-| Armor Class  | 15               |
-| Hit Points   | 100 (250)        |
-| Speed        | 50ft, 25ft climb | 
+| Combat Stats | Values    |
+| ------------ | --------- |
+| Armor Class  | 15        |
+| Hit Points   | 100 (250) |
+| Speed        | 60ft      | 
 
 | Str | Dex | Con | Int | Wis | Cha |
 | --- | --- | --- | --- | --- | --- |
-| 24  | 14  | 20  | 0   | 0   | 0   |
+| 24  | 16  | 18  | 0   | 0   | 0   |
 
 | Proficiencies          |                                                                                                 |
 | ---------------------- | ----------------------------------------------------------------------------------------------- |
-| Saving Throws          | Strength & Constitution.                                                                        |
-| Skills                 | None                                                                                            |
+| Saving Throws          | Strength & Dexterity.                                                                           |
+| Skills                 | None                                                                                            | 
 | Damage Vulnerabilities | Acid & Thunder                                                                                  |
-| Damage Resistances     | Fire, Cold, Nonmagical Bludgeoning, Slashing & Piercing                                         | 
+| Damage Resistances     | Fire, Cold, Nonmagical Bludgeoning, Slashing & Piercing                                         |
 | Damage Immunities      | Psychic, Necrotic, Poison & Lightning.                                                          |
 | Condition Immunities   | Blinded, Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Poisoned, Stunned & Unconscious. |
 | Senses                 | None                                                                                            |
