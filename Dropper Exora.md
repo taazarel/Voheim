@@ -2,23 +2,23 @@
 # Description
 This class of Exora are meant to take the enemy by storm and surprise. Using the largest chassis and heaviest artillery it is assured that any who encounter these titans will be annihilated.
 ## Identity
-- Class: Flexible
-- Nickname: Regular
+- Class: Heavy Infantry
+- Nickname: Spikes, Hail (group)
 
 ## Statblock
-Size: Large
+Size: Huge
 Type: Mount
 Where the proficiency bonus is applicable, the pilots bonus is used.
 
-| Combat Stats | Values           |
-| ------------ | ---------------- |
-| Armor Class  | 15               |
-| Hit Points   | 100 (250)        |
-| Speed        | 50ft, 25ft climb | 
+| Combat Stats | Values    |
+| ------------ | --------- |
+| Armor Class  | 15        |
+| Hit Points   | 200 (500) |
+| Speed        | 30ft      | 
 
 | Str | Dex | Con | Int | Wis | Cha |
 | --- | --- | --- | --- | --- | --- |
-| 24  | 14  | 20  | 0   | 0   | 0   |
+| 30  | 6   | 22  | 0   | 0   | 0   | 
 
 | Proficiencies          |                                                                                                 |
 | ---------------------- | ----------------------------------------------------------------------------------------------- |
@@ -34,12 +34,12 @@ Where the proficiency bonus is applicable, the pilots bonus is used.
 ### Features
 **Hulking mass** Disadvantage on stealth.
 **Fill 'er up** Spending a turn will let the pilot fill the tank up to ten percent. (Steam power)
-**Good view aye?** Does not protect the pilot from AOE.
+**Robust Build** Does not take fall damage, and pilots inside do not take fall damage.
+**Eject!** The Exora opens its cockpit letting the pilot escape. Ejecting and entering the Dropper takes 1 minute.
 
 ### Actions
-**Eject!** The Exora opens its cockpit letting the pilot escape. 
+**Orbital Vengeance** The Exora utilizes its buil
 **Punch** 3d12 + 6, 10ft range, proficient.
-**Sword attack** 6d12 + 6, 10ft range, proficient.
 
 ### Bonus Actions
 None without additional installations.
