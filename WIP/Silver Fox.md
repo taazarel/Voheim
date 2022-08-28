@@ -4,7 +4,7 @@ Kotöröt
 ## Occupation
 Strategist
 ## Goals
-Keep the library closed.
+Keep the library closed.[[Lancer Exora]]
 ## Attitude
 Upbeat, very playful.
 ## Stake

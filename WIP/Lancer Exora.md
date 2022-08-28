@@ -91,3 +91,4 @@ The pilots seat is reserved for what we have dubbed "The cockpit". Here they can
 The core is a small space beneath the shoulders of the machine. It has a openable flap for maintenance. 
 Attached to the core is the main thruster which activates during a charge.
 Appendages are replaceable and customizable.
+
