@@ -231,3 +231,7 @@ Kotöröt greets the party
 Exora Get!
 To the sapphire tear.
 they had us in the first half ngl
+Welcome to takitla tesu.
+
+### Session 19
+The starting date was the 10th of Anat.
