@@ -213,3 +213,4 @@ Epic mech battle.
 Aesh checks back home on his family assassinations.
 
 ### Session 18
+The starting date was the 27th of Inat
