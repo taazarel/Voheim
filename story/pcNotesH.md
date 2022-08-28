@@ -217,4 +217,8 @@ The starting date was the 27th of Inat
 Skërlite is saving lives
 Druids go kaboom
 Ækuf meets the silver fox
-	
+(go to Luna on the 28th)
+Sinea is a buzz of activity, Luna is looking forward to research
+Bliun "saves" a boat of "civilians"
+The mayor of Sinea announces that Anumivo is forced to go to war against Ritu
+(go to Skyrates on the )
