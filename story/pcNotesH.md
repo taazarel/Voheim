@@ -217,8 +217,13 @@ The starting date was the 27th of Inat
 Skërlite is saving lives
 Druids go kaboom
 Ækuf meets the silver fox
-(go to Luna on the 28th)
+(go to Luna on the 2nd)
 Sinea is a buzz of activity, Luna is looking forward to research
 Bliun "saves" a boat of "civilians"
 The mayor of Sinea announces that Anumivo is forced to go to war against Ritu
-(go to Skyrates on the )
+(go to Skyrates on the 2nd)
+Anumivo invades, and "Ritu" strickes first with lightning
+Skyrates are unstoppable
+Bwoooom, dropper hits the wrong target
+Mika enters the dropper and gets one-shot by friendly fire
+The skyrates pull back and meet luna at their house. (Break)
