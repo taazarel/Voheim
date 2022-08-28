@@ -14,7 +14,7 @@ Where the proficiency bonus is applicable, the pilots bonus is used.
 | ------------ | --------- |
 | Armor Class  | 15        |
 | Hit Points   | 200 (500) |
-| Speed        | 30ft      | 
+| Speed        | 35ft      | 
 
 | Str | Dex | Con | Int | Wis | Cha |
 | --- | --- | --- | --- | --- | --- |
