@@ -227,8 +227,8 @@ Skyrates are unstoppable
 Bwoooom, dropper hits the wrong target
 Mika enters the dropper and gets one-shot by friendly fire
 The skyrates pull back and meet luna at their house. (Break)
-Kotöröt greets the party
-Exora Get!
+[[Kotöröt]] greets the party
+[[Exora]] Get!
 To the sapphire tear.
 they had us in the first half ngl
 Welcome to takitla tesu.

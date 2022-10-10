@@ -58,4 +58,10 @@
 ### Session 19
 - [ ] Make the dungeon of cooperation
 - [ ] Make the magical item
-- [ ] Make the crystal hand(really a)
+- [ ] Make the crystal hand(really a silver fox earring)
+- [ ] Look for a way to incorporate the players backstories into the campaign
+	- [ ] Kristoffer
+	- [ ] Frederik
+	- [ ] Sammer
+	- [ ] Viktor
+	- [ ] William
