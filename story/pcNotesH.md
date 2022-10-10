@@ -10,7 +10,7 @@ These are the notes for the HTX group
 [[Ækuf Ekøjæfrångo]], oh Ækuf. Why are you still here? you only care for one person amongst this group. and that is the monster...
 & Some honorary members of the party:
 [[Luna]] is a very interesting person for this party. Bit of a rocky start to their relationship.
-
+## Aga Brakksi arc
 ### Session 1.
 The starting date is the 3rd of brinat 8423.
 Mika is sassy towards Aesh. Mika has a grudge against Ækuf. 

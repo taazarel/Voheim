@@ -16,24 +16,11 @@ When attached the Ti'vak will answer any question asked whilst holding a finger 
 
 ## Construction
 ### Materials & Components
-
+Silver from an earth-elemental, teeth of a white dragon, and the feather of a phoenix.
 ### Tooling
-
+A highly skilled magic user.
 ### Manufacturing Process
-
-## Categorization
-### Model/Subtype
-
-### Manufacturer
-
-### Owning Guilds
-
-### Related Technologies
-
-### Related Condition
-
-### Related Ethnicities
+Unknown
 
 # Whereabouts
-- Current Geographic Location:
-- Current Holder:
+- Current Holder: [[Kotöröt]]
