@@ -60,7 +60,7 @@
 - [ ] Make the magical item
 - [x] Make the [[Ti'vak]].
 - [ ] Look for a way to incorporate the players backstories into the campaign
-	- [ ] Kristoffer
+	- [x] Kristoffer
 	- [ ] Frederik
 	- [ ] Sammer
 	- [ ] Viktor
