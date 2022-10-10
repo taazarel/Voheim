@@ -54,3 +54,8 @@
 - [ ] Make the dungeon of Cooperation
 - [ ] Make the magical item
 - [x] Find a good way for Luna to join the party
+
+### Session 19
+- [ ] Make the dungeon of cooperation
+- [ ] Make the magical item
+- [ ] Make the crystal hand(really a)
