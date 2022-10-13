@@ -1,4 +1,4 @@
-#location #lore #landmark #building #room
+#location #lore #landmark #building
 # Description
 [[Clear River]], Sunken temple.
 ## Generic
