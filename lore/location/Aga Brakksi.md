@@ -51,7 +51,7 @@ The virtues which are to be tested are:
 
 ### Items
 - [x] A golden beetle 
-- [ ] A sapphire teardrop 
+- [x] A sapphire teardrop 
 - [x] A scroll with a river drawn upon it. Along the river there is a poem. 
 - [x] A living fox with a silver hide 
 - [x] A glass bowl
@@ -64,7 +64,7 @@ The virtues which are to be tested are:
 ### Locations
 - [x] A forest of mirrors 
 - [ ] A gladiatorial combat arena 
-- [ ] A high stilted set of stones 
+- [x] A high stilted set of stones 
 - [ ] A cave with blackened walls 
 - [x] A chasm with poisonous gas 
 - [ ] A gate with two godlike statues who appear to be enemies 

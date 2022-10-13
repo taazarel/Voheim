@@ -1,5 +1,6 @@
 #item #lore 
 # Description
+A beatiful sapphire, no much more to say.
 
 ## Generic
 - Weight:
