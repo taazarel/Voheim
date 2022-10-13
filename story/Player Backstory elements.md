@@ -22,8 +22,7 @@
 - Skërlite er en gud
 - Har ånden af [[Green Horn]]
 - Er stort set et elemental.
-[^1]
 ## William
-
-
-[^1] Har måske ikke særlig meget, men d
+- Har tre sjæle
+- Har forudsigelser, og har set mange fremtide
+- Hvem dræbte ham?
