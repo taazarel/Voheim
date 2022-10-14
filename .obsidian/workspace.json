@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "8e298b925a1e5712",
+    "type": "split",
+    "children": [
+      {
+        "id": "b37746422d76eb06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ae9c13d05bb07d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "story/pcNotesH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "50c24560d0192a96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efcdebbc7f03a44c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lore/item/Exora.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5d7cf9300fa2b319",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "726d76c9c721327c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lore/location/Aga Brakksi.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ec62793c5d2abaf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f01af70787108b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lore/item/Dropper Exora.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a37f7f762ef49371",
+    "type": "split",
+    "children": [
+      {
+        "id": "74ded39b11fd1eca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1c35aaa15a2a481",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f49eac84970708c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "aga",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299
+  },
+  "right": {
+    "id": "08e9238756883ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d1fc5adbed451ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08974be158f1d523",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "lore/item/Exora.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d26bf860871eb034",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "4d5169e2cd34d5fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "lore/item/Exora.md"
+              }
+            }
+          },
+          {
+            "id": "5f3fd0a3199308b3",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.2000732421875,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "efcdebbc7f03a44c",
+  "lastOpenFiles": [
+    "story/pcNotesH.md",
+    "lore/item/Exora.md",
+    "lore/location/Aga Brakksi.md",
+    "WIP/Lancer Exora.md",
+    "lore/item/Dropper Exora.md",
+    "WIP/Silver Fox.md",
+    "npc/Tesu.md",
+    "lore/item/World's End.md",
+    "lore/location/Menun's silver dagger.md",
+    "lore/item/Glass Bowl of Aga.md"
+  ]
+}
