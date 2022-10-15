@@ -18,13 +18,7 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "1abb3994232baeab",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "631d7f7c7b4e17e1",
             "type": "leaf",
@@ -36,13 +30,7 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "7839815346367d5b",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "f49ed07ec78f1e1b",
             "type": "leaf",
@@ -54,13 +42,7 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "160b072ebdd66f94",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "753d8d8a14c9d059",
             "type": "leaf",
@@ -74,22 +56,17 @@
             }
           },
           {
-            "id": "953105fee4e49fd9",
+            "id": "d720306d75f1ec9a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.0"
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "62d746efa33629fb",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "6830057a3b6395fc",
             "type": "leaf",
@@ -102,7 +79,9 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -160,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIP/sapphire tear.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIP/sapphire tear.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -218,10 +197,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "953105fee4e49fd9",
+  "active": "d720306d75f1ec9a",
   "lastOpenFiles": [
-    "lore/location/Aga Brakksi.md",
     "WIP/sapphire tear.md",
+    "lore/location/Aga Brakksi.md",
     "WIP/Dungeon of cooperation.md",
     "lore/location/Dungeon of Honesty.md",
     "story/To do list.md",
