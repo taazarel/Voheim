@@ -57,7 +57,7 @@
 
 ### Session 19
 - [ ] Make [[Takitla-Tesu]] and their customs.
-- [ ] Make the [[dungeon of cooperation]]
+- [x] Make the [[dungeon of cooperation]]
 - [ ] Make the magical item
 - [x] Make the [[Ti'vak]].
 - [x] Look for a way to incorporate the players backstories into the campaign
