@@ -44,7 +44,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       },
       {
@@ -100,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -159,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lore/location/Aga Brakksi.md",
+                "file": "WIP/Dungeon of cooperation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lore/location/Aga Brakksi.md"
+                "file": "WIP/Dungeon of cooperation.md"
               }
             }
           },
@@ -218,13 +217,13 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6830057a3b6395fc",
+  "active": "f49ed07ec78f1e1b",
   "lastOpenFiles": [
-    "WIP/sapphire tear.md",
     "lore/location/Aga Brakksi.md",
-    "Word List.md",
-    "story/pcNotesH.md",
     "story/To do list.md",
+    "story/pcNotesH.md",
+    "Word List.md",
+    "WIP/sapphire tear.md",
     "story/Player Backstory elements.md",
     "conflict-files-obsidian-git.md",
     "WIP/Dungeon of cooperation.md",
