@@ -7,7 +7,7 @@
   "newFileLocation": "folder",
   "attachmentFolderPath": "assets",
   "alwaysUpdateLinks": true,
-  "spellcheck": true,
+  "spellcheck": false,
   "spellcheckDictionary": [
     "Öbaemnos",
     "Aga",
@@ -19,5 +19,7 @@
     "Biome",
     "Kragvi"
   ],
-  "newFileFolderPath": "WIP"
+  "newFileFolderPath": "WIP",
+  "spellcheckLanguages": null,
+  "showInlineTitle": true
 }
