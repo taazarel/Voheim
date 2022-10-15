@@ -18,7 +18,9 @@ Created as a training grounds to hone balance and quick thinking in combat.
 ### Architecture
 Pillars of stone trees, look like stumps. Have text written on them in the Itë tradition.
 ### Defenses
-Is in the middle of a lake protected by a young
+Is in the middle of a lake protected by a young black dragon. Which guards the ruin as their lair in a deal with [[Kotöröt]]. 
+The dragon is poisoning the water supply, but will not interfere with the party on their quest. Far from it. It will protect the party from outsiders whilst the ritual is taking place.
+
 ### History
 
 ### Tourism
