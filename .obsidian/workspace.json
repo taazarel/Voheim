@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIP/Dungeon of cooperation.md",
+                "file": "story/To do list.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIP/Dungeon of cooperation.md"
+                "file": "story/To do list.md"
               }
             }
           },
@@ -217,11 +217,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f49ed07ec78f1e1b",
+  "active": "631d7f7c7b4e17e1",
   "lastOpenFiles": [
+    "WIP/Dungeon of cooperation.md",
     "story/To do list.md",
     "WIP/sapphire tear.md",
-    "WIP/Dungeon of cooperation.md",
     "lore/location/Aga Brakksi.md",
     "story/pcNotesH.md",
     "Word List.md",

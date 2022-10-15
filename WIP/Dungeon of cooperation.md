@@ -1,6 +1,7 @@
 #location #lore #landmark #building #room
 # Description
 A simple challenge, fight the things on stone pillars. If fought together, they are much easier, but you get exponentially less rewards the more people join.
+This is an easy encounter, since it is not guaranteed the party finds the dungeons in the right order, and since this was a training grounds.
 This is the resting grounds of the [[sapphire tear]].
 ## Generic
 - Parent Location: [[Takitla-Tesu]]
@@ -16,7 +17,7 @@ Created as a training grounds to hone balance and quick thinking in combat.
 ### Alterations
 A goblet has been erected in the city, this goblet has a carving of what the trial includes. Which is:
 - Journey to the pillars
-- Fight the horde of enemies ([[]])
+- Fight the horde of enemies (flying swords, but they are gem arrays)
 - Harvest the gemstones which grow on their foreheads
 - Deposit the gemstones after three days of fighting.
 
