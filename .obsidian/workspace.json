@@ -56,14 +56,6 @@
             }
           },
           {
-            "id": "d720306d75f1ec9a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "6830057a3b6395fc",
             "type": "leaf",
             "state": {
@@ -76,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -135,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WIP/sapphire tear.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "WIP/sapphire tear.md"
+              }
             }
           },
           {
@@ -190,8 +185,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "48c9e709d087eb1d",
+  "active": "753d8d8a14c9d059",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "WIP/sapphire tear.md",
     "lore/location/Aga Brakksi.md",
     "WIP/Dungeon of cooperation.md",
@@ -200,7 +196,6 @@
     "story/pcNotesH.md",
     "story/Player Backstory elements.md",
     "npc/Watcher in the Haze.md",
-    "npc/Kotöröt.md",
-    "WIP/Silver Fox.md"
+    "npc/Kotöröt.md"
   ]
 }
