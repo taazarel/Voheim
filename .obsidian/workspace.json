@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIP/sapphire tear.md",
+                "file": "lore/item/sapphire tear.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 5,
         "stacked": true
       },
       {
@@ -136,6 +136,7 @@
             }
           }
         ],
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -194,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIP/sapphire tear.md",
+                "file": "lore/location/Takitla-Tesu.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIP/sapphire tear.md"
+                "file": "lore/location/Takitla-Tesu.md"
               }
             }
           },
@@ -253,17 +254,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "753d8d8a14c9d059",
+  "active": "d5d7f060841bcc42",
   "lastOpenFiles": [
+    "story/pcNotesH.md",
+    "story/To do list.md",
+    "lore/item/sapphire tear.md",
     "lore/location/Aga Brakksi.md",
-    "WIP/sapphire tear.md",
     "lore/location/Dungeon of cooperation.md",
     "lore/location/Takitla-Tesu.md",
-    "story/To do list.md",
     "Template/settlement.md",
     "Torko Uhralik.md",
     "npc/Tesu.md",
-    "npc/Rilöt.md",
-    "npc/Tinm.md"
+    "npc/Rilöt.md"
   ]
 }
