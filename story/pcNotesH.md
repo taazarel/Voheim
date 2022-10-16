@@ -239,3 +239,5 @@ Skyrim horse be real weird.
 Kill the old man and sacrifice him to the cup
 black dragon suprise
 Gemstones are funy
+Hehe explosion
+The oldest callback "Do i have to make up for ækuf?" for stalking a mayor.
