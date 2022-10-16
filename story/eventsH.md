@@ -11,4 +11,5 @@ Ledger mentioned [[Cartographer Fare Fee]] which was encrypted.
 
 Black dragon is terrorizing the city of [[Takitla-Tesu]]. An official asked the party to help them get rid of it.
 
-The demi icon of war showed Skërlitë a vision of people fleeing from Öbaemnos and the black spear.
+The demi icon of war showed Skërlitë a vision of people fleeing from Öbaemnos and the black spear being in a castle in beausi.
+
