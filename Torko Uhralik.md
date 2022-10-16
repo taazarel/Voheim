@@ -4,14 +4,20 @@ The ethinicity of the Gods. This is the name which [[Vo]] gave to his kind. Tork
 
 # List of Torko Uhralik
 ## Icons
-
+- [[Tesu]]
+- [[Tinm]]
+- [[Numen]]
+- [[Huri]]
+- [[Rilöt]]
 ## Avatars
-
+- [[Gedhra]]
 ## Demi Icons
-
+- [[Tazarel]]
+- [[Tābu]]
 ## Demi Avatars
 
-## 
+## Location Avatars
+
 
 ## Naming Traditions
 ### Family Names

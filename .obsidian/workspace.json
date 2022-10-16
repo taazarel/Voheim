@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d5d7f060841bcc42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIP/Takitla-Tesu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 5,
         "stacked": true
       },
       {
@@ -124,7 +136,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -183,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Torko Uhralik.md",
+                "file": "WIP/Takitla-Tesu.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Torko Uhralik.md"
+                "file": "WIP/Takitla-Tesu.md"
               }
             }
           },
@@ -242,17 +253,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4594d9ece192d990",
+  "active": "d5d7f060841bcc42",
   "lastOpenFiles": [
-    "lore/location/Aga Brakksi.md",
+    "WIP/sapphire tear.md",
+    "story/To do list.md",
     "Torko Uhralik.md",
+    "lore/location/Aga Brakksi.md",
     "npc/Tesu.md",
     "npc/Rilöt.md",
     "npc/Tinm.md",
     "Word List.md",
     "story/eventsH.md",
-    "story/pcNotesH.md",
-    "WIP/Dungeon of cooperation.md",
-    "story/To do list.md"
+    "story/pcNotesH.md"
   ]
 }
