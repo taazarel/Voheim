@@ -235,3 +235,4 @@ Welcome to takitla tesu.
 
 ### Session 19
 The starting date was the 10th of Anat.
+Skyrim horse be real weird.
