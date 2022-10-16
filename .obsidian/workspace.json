@@ -4,66 +4,103 @@
     "type": "split",
     "children": [
       {
-        "id": "b37746422d76eb06",
+        "id": "061b46c93ec55e4c",
         "type": "tabs",
         "children": [
           {
-            "id": "8ae9c13d05bb07d5",
+            "id": "e6b1b8b9ea220c34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "story/pcNotesH.md",
-                "mode": "preview",
+                "file": "Word List.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "efcdebbc7f03a44c",
+            "id": "a923657bb81c1bef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Torko Uhralik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0f5bc90b6a860b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "lore/item/Exora.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b3ac4851d0ab9644",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "726d76c9c721327c",
+            "id": "90f64afb84b6318e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lore/location/Aga Brakksi.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f01af70787108b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lore/item/Dropper Exora.md",
-                "mode": "preview",
+                "file": "lore/location/Dungeon of cooperation.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 3,
+        "stacked": true
+      },
+      {
+        "id": "34d8f465784f160d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc01a75e1a65b87f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "story/Player Backstory elements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f21267dd515010a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "story/eventsH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fb9d57ec5762d80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "story/pcNotesH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -122,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "story/pcNotesH.md",
+                "file": "lore/location/Dungeon of cooperation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "story/pcNotesH.md"
+                "file": "lore/location/Dungeon of cooperation.md"
               }
             }
           },
@@ -172,17 +209,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8ae9c13d05bb07d5",
+  "active": "90f64afb84b6318e",
   "lastOpenFiles": [
-    "story/pcNotesH.md",
-    "Word List.md",
     "lore/item/Exora.md",
+    "Torko Uhralik.md",
+    "story/eventsH.md",
+    "Word List.md",
+    "story/pcNotesH.md",
+    "story/Player Backstory elements.md",
     "lore/item/Dropper Exora.md",
     "lore/location/Aga Brakksi.md",
     "WIP/Lancer Exora.md",
-    "WIP/Silver Fox.md",
-    "npc/Tesu.md",
-    "lore/item/World's End.md",
-    "lore/location/Menun's silver dagger.md"
+    "WIP/Silver Fox.md"
   ]
 }
