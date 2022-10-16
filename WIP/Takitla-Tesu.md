@@ -15,13 +15,18 @@
 ### Demographics
 
 ### Government
-
-### Districts
-
-### Guilds & Factions
-- Mining union
-- Mountains Vanguard
 - 
+### Districts
+- The lakeside gardens
+- The high shrines
+- Main city 
+- City outskirts
+- Farmland
+- Mines
+### Guilds & Factions
+- [[Mining union]]
+- [[Mountains Vanguard]]
+- [[Family of the Cosmos]] 
 ## Infrastructure
 Houses are close to eachother, has a main road for wagons. Stone roads, paths and walkways are maintained and cleaned daily. 
 Mountain passes are cleared weekly.
