@@ -6,16 +6,22 @@
 - Founders:  Refugees from the sorrounding areas.
 - Ruler/Owner: [[Lord ruler of Takitla-Tesu]]
 - Owning Rank: [[Lord]]
-- Owning Guilds: 
-- Alternate Names: 
-- Population: 
 - Denonym of Inhabitants: Tala, Talas
 
 ## Politics
 ### Demographics
-
+- Nobles
+	- Mix of all
+- Farmers
+	- Halflings
+	- Elves
+	- Humans
+- Miners
+	- Dwarves
+	- Humans
+	- Gnomes
 ### Government
-- 
+- Feudal
 ### Districts
 - The lakeside gardens
 - The high shrines
