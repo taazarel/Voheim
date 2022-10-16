@@ -10,3 +10,5 @@ Ledger mentioned [[Cartographer Fare Fee]] which was encrypted.
 [Someone in anumivo is hiring people of Sushomela and Roshu to terrorize the people of Ritu in an attempt to gain more materials.](share%20with%20us.md).
 
 Black dragon is terrorizing the city of [[Takitla-Tesu]]. An official asked the party to help them get rid of it.
+
+The demi icon of war showed Skërlitë a vision of people fleeing from Öbaemnos and the black spear.
