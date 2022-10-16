@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 4,
         "stacked": true
       },
       {
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lore/location/Dungeon of cooperation.md",
+                "file": "WIP/sapphire tear.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lore/location/Dungeon of cooperation.md"
+                "file": "WIP/sapphire tear.md"
               }
             }
           },
@@ -253,8 +253,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f49ed07ec78f1e1b",
+  "active": "753d8d8a14c9d059",
   "lastOpenFiles": [
+    "lore/location/Dungeon of cooperation.md",
     "WIP/sapphire tear.md",
     "lore/location/Takitla-Tesu.md",
     "story/To do list.md",
@@ -263,7 +264,6 @@
     "lore/location/Aga Brakksi.md",
     "npc/Tesu.md",
     "npc/Rilöt.md",
-    "npc/Tinm.md",
-    "Word List.md"
+    "npc/Tinm.md"
   ]
 }
