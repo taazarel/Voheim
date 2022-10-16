@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lore/item/sapphire tear.md",
+                "file": "story/eventsH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lore/item/sapphire tear.md"
+                "file": "story/eventsH.md"
               }
             }
           },
@@ -222,10 +222,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "11177ee41c8f8c12",
+  "active": "f21267dd515010a3",
   "lastOpenFiles": [
-    "story/pcNotesH.md",
     "lore/item/sapphire tear.md",
+    "story/pcNotesH.md",
     "lore/location/Dungeon of cooperation.md",
     "Word List.md",
     "story/eventsH.md",
