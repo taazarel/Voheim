@@ -1,6 +1,18 @@
 #lore #ethnicity
 # Description
 The ethinicity of the Gods. This is the name which [[Vo]] gave to his kind. Torko meaning purified, or "whole" and Uhralik meaning Soul or Being.
+
+# List of Torko Uhralik
+## Icons
+
+## Avatars
+
+## Demi Icons
+
+## Demi Avatars
+
+## 
+
 ## Naming Traditions
 ### Family Names
 
