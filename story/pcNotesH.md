@@ -236,3 +236,6 @@ Welcome to takitla tesu.
 ### Session 19
 The starting date was the 10th of Anat.
 Skyrim horse be real weird.
+Kill the old man and sacrifice him to the cup
+black dragon suprise
+Gemstones are funy

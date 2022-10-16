@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "story/eventsH.md",
+                "file": "story/pcNotesH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "story/eventsH.md"
+                "file": "story/pcNotesH.md"
               }
             }
           },
@@ -210,13 +210,13 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f21267dd515010a3",
+  "active": "1fb9d57ec5762d80",
   "lastOpenFiles": [
+    "story/eventsH.md",
     "story/pcNotesH.md",
     "lore/location/Dungeon of cooperation.md",
     "lore/item/Exora.md",
     "Torko Uhralik.md",
-    "story/eventsH.md",
     "Word List.md",
     "story/Player Backstory elements.md",
     "lore/item/Dropper Exora.md",
