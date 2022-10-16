@@ -53,7 +53,7 @@ The virtues which are to be tested are:
 - [x] A golden beetle 
 - [x] A sapphire teardrop 
 - [x] A scroll with a river drawn upon it. Along the river there is a poem. 
-- [x] A living fox with a silver hide 
+- [ ] A living fox with a silver hide 
 - [x] A glass bowl
 - [ ] A spear shaft with a black banner wrapped across it
 - [x] A marble music box
@@ -67,7 +67,7 @@ The virtues which are to be tested are:
 - [x] A high stilted set of stones 
 - [ ] A cave with blackened walls 
 - [x] A chasm with poisonous gas 
-- [ ] A gate with two godlike statues who appear to be enemies 
+- [x] A gate with two godlike statues who appear to be enemies 
 - [x] A Sunken temple
 - [x] An overgrown misty village
 - [x] A ruin under Öbaemnos

@@ -112,7 +112,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -172,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lore/location/Aga Brakksi.md",
+                "file": "story/Player Backstory elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lore/location/Aga Brakksi.md"
+                "file": "story/Player Backstory elements.md"
               }
             }
           },
@@ -222,17 +221,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "dfeddcfd56d349f9",
+  "active": "cc01a75e1a65b87f",
   "lastOpenFiles": [
+    "lore/location/Aga Brakksi.md",
+    "story/pcNotesH.md",
     "story/eventsH.md",
     "lore/item/sapphire tear.md",
-    "story/pcNotesH.md",
     "lore/location/Dungeon of cooperation.md",
     "Word List.md",
     "lore/item/Exora.md",
     "Torko Uhralik.md",
     "story/Player Backstory elements.md",
-    "lore/item/Dropper Exora.md",
-    "lore/location/Aga Brakksi.md"
+    "lore/item/Dropper Exora.md"
   ]
 }
