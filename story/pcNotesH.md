@@ -244,3 +244,5 @@ The oldest callback "Do i have to make up for ækuf?" for stalking a mayor.
 Tear get
 Fox is an item
 Fox lets you not worry about the marble music box
+Luna ignored soldiers sneaking into Ritu.
+**Break**

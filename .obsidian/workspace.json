@@ -112,6 +112,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -171,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "story/Player Backstory elements.md",
+                "file": "story/pcNotesH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "story/Player Backstory elements.md"
+                "file": "story/pcNotesH.md"
               }
             }
           },
@@ -221,8 +222,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "cc01a75e1a65b87f",
+  "active": "1fb9d57ec5762d80",
   "lastOpenFiles": [
+    "story/Player Backstory elements.md",
     "lore/location/Aga Brakksi.md",
     "story/pcNotesH.md",
     "story/eventsH.md",
@@ -231,7 +233,6 @@
     "Word List.md",
     "lore/item/Exora.md",
     "Torko Uhralik.md",
-    "story/Player Backstory elements.md",
     "lore/item/Dropper Exora.md"
   ]
 }
