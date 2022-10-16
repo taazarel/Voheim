@@ -245,4 +245,7 @@ Tear get
 Fox is an item
 Fox lets you not worry about the marble music box
 Luna ignored soldiers sneaking into Ritu.
-**Break**
+**End**
+
+### Session 20
+The starting date was the 19th of Anat.
