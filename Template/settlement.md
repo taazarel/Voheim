@@ -24,20 +24,20 @@
 
 ## Infrastructure
 
-## Assets
+### Assets
 
-## Defences
+### Defences
 
-## Industry & Trade
+### Industry & Trade
 
 ## History
 
-## Points of Interest
+### Points of Interest
 
-## Tourism
+### Tourism
 
-## Architecture
+### Architecture
 
-## Geography
+### Geography
 
-## Natural Resources
+#### Natural Resources
