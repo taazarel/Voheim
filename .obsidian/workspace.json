@@ -14,17 +14,11 @@
               "type": "markdown",
               "state": {
                 "file": "story/pcNotesH.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "50c24560d0192a96",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "efcdebbc7f03a44c",
             "type": "leaf",
@@ -36,13 +30,15 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "5d7cf9300fa2b319",
-        "type": "tabs",
-        "children": [
+          },
+          {
+            "id": "b3ac4851d0ab9644",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
           {
             "id": "726d76c9c721327c",
             "type": "leaf",
@@ -54,13 +50,7 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "ec62793c5d2abaf8",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "1f01af70787108b4",
             "type": "leaf",
@@ -73,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -131,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lore/item/Exora.md",
+                "file": "story/pcNotesH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lore/item/Exora.md"
+                "file": "story/pcNotesH.md"
               }
             }
           },
@@ -181,17 +172,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "efcdebbc7f03a44c",
+  "active": "8ae9c13d05bb07d5",
   "lastOpenFiles": [
     "story/pcNotesH.md",
+    "Word List.md",
     "lore/item/Exora.md",
+    "lore/item/Dropper Exora.md",
     "lore/location/Aga Brakksi.md",
     "WIP/Lancer Exora.md",
-    "lore/item/Dropper Exora.md",
     "WIP/Silver Fox.md",
     "npc/Tesu.md",
     "lore/item/World's End.md",
-    "lore/location/Menun's silver dagger.md",
-    "lore/item/Glass Bowl of Aga.md"
+    "lore/location/Menun's silver dagger.md"
   ]
 }
