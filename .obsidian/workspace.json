@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "11177ee41c8f8c12",
+            "id": "dfeddcfd56d349f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lore/item/sapphire tear.md",
+                "file": "lore/location/Aga Brakksi.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "story/eventsH.md",
+                "file": "lore/location/Aga Brakksi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "story/eventsH.md"
+                "file": "lore/location/Aga Brakksi.md"
               }
             }
           },
@@ -222,13 +222,13 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f21267dd515010a3",
+  "active": "dfeddcfd56d349f9",
   "lastOpenFiles": [
+    "story/eventsH.md",
     "lore/item/sapphire tear.md",
     "story/pcNotesH.md",
     "lore/location/Dungeon of cooperation.md",
     "Word List.md",
-    "story/eventsH.md",
     "lore/item/Exora.md",
     "Torko Uhralik.md",
     "story/Player Backstory elements.md",

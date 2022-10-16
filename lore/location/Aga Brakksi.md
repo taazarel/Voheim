@@ -56,7 +56,7 @@ The virtues which are to be tested are:
 - [x] A living fox with a silver hide 
 - [x] A glass bowl
 - [ ] A spear shaft with a black banner wrapped across it
-- [ ] A marble music box
+- [x] A marble music box
 - [x] A plant of red sand
 - [ ] Clay Scales (as in the weight)
 - [x] 20 identical stone leaves 
