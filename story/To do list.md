@@ -56,8 +56,9 @@
 - [x] Find a good way for Luna to join the party
 
 ### Session 19
-- [ ] Make the [[dungeon of cooperation]]
-- [ ] Make the magical item
+- [x] Make [[Takitla-Tesu]] and their customs.
+- [x] Make the [[Dungeon of cooperation]]
+- [x] Make the magical item
 - [x] Make the [[Ti'vak]].
 - [x] Look for a way to incorporate the players backstories into the campaign
 	- [x] Kristoffer

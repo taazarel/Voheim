@@ -2,5 +2,7 @@
   "baseFontSize": 17,
   "translucency": false,
   "cssTheme": "",
-  "accentColor": ""
+  "accentColor": "",
+  "nativeMenus": true,
+  "showViewHeader": true
 }

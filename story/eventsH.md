@@ -8,3 +8,4 @@ Ledger mentioned [[Cartographer Fare Fee]] which was encrypted.
 [[The Sunset Tower]] told Ækuf that they run the town of Röso. Then the leader of a cell in the sunset tower found their ship and gave them the proposition of a heist.
 
 [Someone in anumivo is hiring people of Sushomela and Roshu to terrorize the people of Ritu in an attempt to gain more materials.](share%20with%20us.md).
+
