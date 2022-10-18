@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "74af92d088cd3993",
+    "type": "split",
+    "children": [
+      {
+        "id": "31663dceda86e879",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "story/pcNotesH.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "631d7f7c7b4e17e1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "story/To do list.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "f49ed07ec78f1e1b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "WIP/Dungeon of cooperation.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "753d8d8a14c9d059",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "WIP/sapphire tear.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "6830057a3b6395fc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "lore/location/Aga Brakksi.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a55cf6e30bca7174",
+    "type": "split",
+    "children": [
+      {
+        "id": "167296ea96e2c7cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48c9e709d087eb1d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6cd3e95a0de95ac6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "world",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "80837c9291e36904",
+    "type": "split",
+    "children": [
+      {
+        "id": "fff2a50d15e4f20a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "057e231ab7d2cf00",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WIP/sapphire tear.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "371c1f3a78043bc0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ffbddd546732d742",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WIP/sapphire tear.md"
+              }
+            }
+          },
+          {
+            "id": "75f723429eb7b747",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ddb636953ee6733c",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291
+  },
+  "active": "753d8d8a14c9d059",
+  "lastOpenFiles": [
+    "lore/location/Aga Brakksi.md",
+    "WIP/sapphire tear.md",
+    "WIP/Dungeon of cooperation.md",
+    "lore/location/Dungeon of Honesty.md",
+    "story/To do list.md",
+    "story/pcNotesH.md",
+    "story/Player Backstory elements.md",
+    "npc/Watcher in the Haze.md",
+    "npc/Kotöröt.md",
+    "WIP/Silver Fox.md"
+  ]
+}
