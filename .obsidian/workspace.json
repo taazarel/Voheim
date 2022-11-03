@@ -68,7 +68,6 @@
             }
           }
         ],
-        "currentTab": 4,
         "stacked": true
       },
       {
@@ -112,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -172,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "story/pcNotesH.md",
+                "file": "Word List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "story/pcNotesH.md"
+                "file": "Word List.md"
               }
             }
           },
@@ -219,15 +218,12 @@
     "width": 299.2000732421875,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "1fb9d57ec5762d80",
+  "active": "e6b1b8b9ea220c34",
   "lastOpenFiles": [
+    "story/eventsH.md",
+    "story/pcNotesH.md",
     "story/Player Backstory elements.md",
     "lore/location/Aga Brakksi.md",
-    "story/pcNotesH.md",
-    "story/eventsH.md",
     "lore/item/sapphire tear.md",
     "lore/location/Dungeon of cooperation.md",
     "Word List.md",
