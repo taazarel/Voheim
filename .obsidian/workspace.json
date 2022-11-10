@@ -110,17 +110,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "dd44765ee9d5704d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -180,6 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "story/pcNotesH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +199,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "story/pcNotesH.md"
+              }
             }
           },
           {
@@ -224,7 +219,7 @@
     "width": 299.2000732421875,
     "collapsed": true
   },
-  "active": "dd44765ee9d5704d",
+  "active": "1fb9d57ec5762d80",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "story/pcNotesH.md",
