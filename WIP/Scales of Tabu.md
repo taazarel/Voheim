@@ -1,9 +1,11 @@
 #item #lore 
 # Description
-[[Tabu]]
+[[Tābu]]'s own invention. A mechanical scale made of light blue clay, smooth with no ingravings, almost marble in its texture.
+Ice cold to the touch, and rings like a singing stone when struck.
+
 ## Generic
-- Weight:
-- Dimensions:
+- Weight: Incredibly light, weighs about 1 pound.
+- Dimensions: Overly large merchants scale. Needs two hands to handle.
 - Price:
 - Rarity:
 
@@ -36,4 +38,4 @@
 
 # Whereabouts
 - Current Geographic Location:
-- Current
+- Current Holder:
