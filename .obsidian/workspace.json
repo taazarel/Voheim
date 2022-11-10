@@ -49,19 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIP/Dungeon of Trust.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfeddcfd56d349f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lore/location/Aga Brakksi.md",
+                "file": "WIP/Scales of Tabu.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,9 +98,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dfeddcfd56d349f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lore/location/Aga Brakksi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIP/Dungeon of Trust.md",
+                "file": "WIP/Scales of Tabu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIP/Dungeon of Trust.md"
+                "file": "WIP/Scales of Tabu.md"
               }
             }
           },
@@ -221,15 +221,15 @@
   },
   "active": "90f64afb84b6318e",
   "lastOpenFiles": [
+    "WIP/Dungeon of Trust.md",
+    "story/pcNotesH.md",
     "lore/location/Dungeon of cooperation.md",
     "lore/location/Aga Brakksi.md",
-    "story/pcNotesH.md",
     "conflict-files-obsidian-git.md",
     "story/Player Backstory elements.md",
     "story/eventsH.md",
     "lore/item/sapphire tear.md",
     "Word List.md",
-    "lore/item/Exora.md",
-    "Torko Uhralik.md"
+    "lore/item/Exora.md"
   ]
 }
