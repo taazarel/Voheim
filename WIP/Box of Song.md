@@ -1,5 +1,11 @@
 #item #lore 
 # Description
+A mechanical device made with steel cogs and springs, with a white marble case and steel handle.
+A soft melody plays when the handle is turned.
+
+
+## Mechanics & Inner Workings
+
 
 ## Generic
 - Weight:
@@ -7,33 +13,6 @@
 - Price:
 - Rarity:
 
-### History
-- Creation Date:
-- Destruction Date:
-- Significance:
-
-### Mechanics & Inner Workings
-
-## Construction
-### Materials & Components
-
-### Tooling
-
-### Manufacturing Process
-
-## Categorization
-### Model/Subtype
-
-### Manufacturer
-
-### Owning Guilds
-
-### Related Technologies
-
-### Related Condition
-
-### Related Ethnicities
-
 # Whereabouts
 - Current Geographic Location:
-- Current Holder:
+- Current Holder: [[Kotöröt]]
