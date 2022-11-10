@@ -110,9 +110,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dd44765ee9d5704d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -172,7 +180,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "story/pcNotesH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,9 +206,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "story/pcNotesH.md"
-              }
+              "state": {}
             }
           },
           {
@@ -219,17 +224,17 @@
     "width": 299.2000732421875,
     "collapsed": true
   },
-  "active": "1fb9d57ec5762d80",
+  "active": "dd44765ee9d5704d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "story/pcNotesH.md",
     "story/Player Backstory elements.md",
     "lore/location/Aga Brakksi.md",
-    "story/pcNotesH.md",
     "story/eventsH.md",
     "lore/item/sapphire tear.md",
     "lore/location/Dungeon of cooperation.md",
     "Word List.md",
     "lore/item/Exora.md",
-    "Torko Uhralik.md",
-    "lore/item/Dropper Exora.md"
+    "Torko Uhralik.md"
   ]
 }
