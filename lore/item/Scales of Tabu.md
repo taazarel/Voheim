@@ -10,7 +10,7 @@ If the rune for Tabu and Knowledge are placed in  one of the cups, the person wh
 In thoughts: "This thing i like really powerfull, can probably do a lot more stuff."
 
 ## Generic
-- Weight: Incredibly light, weighs about 1 pound.
+- Weight: Incredibly light, weighs half a kilogramme.
 - Dimensions: Overly large merchants scale. Needs two hands to handle.
 - Price: A certain merchant would pay much for this item.
 - Rarity: Legendary (one of two)
