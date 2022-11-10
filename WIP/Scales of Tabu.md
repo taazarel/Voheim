@@ -4,6 +4,8 @@
 Ice cold to the touch, and rings like a singing stone when struck.
 
 ### Mechanics & Inner Workings
+Place an item on the scales to appraise any truth of it.
+If a piece of wood is engraved with the rune for Tabu in one of the cups the person who ingraved it will be rid of lies.
 
 
 ## Generic
