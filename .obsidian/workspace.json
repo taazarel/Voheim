@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lore/location/Dungeon of cooperation.md",
+                "file": "WIP/Dungeon of Trust.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 3,
         "stacked": true
       },
       {
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "story/pcNotesH.md",
+                "file": "WIP/Dungeon of Trust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "story/pcNotesH.md"
+                "file": "WIP/Dungeon of Trust.md"
               }
             }
           },
@@ -219,15 +219,15 @@
     "width": 299.2000732421875,
     "collapsed": true
   },
-  "active": "1fb9d57ec5762d80",
+  "active": "90f64afb84b6318e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "story/pcNotesH.md",
-    "story/Player Backstory elements.md",
+    "lore/location/Dungeon of cooperation.md",
     "lore/location/Aga Brakksi.md",
+    "story/pcNotesH.md",
+    "conflict-files-obsidian-git.md",
+    "story/Player Backstory elements.md",
     "story/eventsH.md",
     "lore/item/sapphire tear.md",
-    "lore/location/Dungeon of cooperation.md",
     "Word List.md",
     "lore/item/Exora.md",
     "Torko Uhralik.md"
