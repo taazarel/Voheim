@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIP/Box of Song.md",
+                "file": "WIP/Dungeon of Trust.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIP/Box of Song.md",
+                "file": "WIP/Dungeon of Trust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIP/Box of Song.md"
+                "file": "WIP/Dungeon of Trust.md"
               }
             }
           },
@@ -221,8 +221,8 @@
   },
   "active": "90f64afb84b6318e",
   "lastOpenFiles": [
+    "lore/item/Box of Song.md",
     "lore/item/Scales of Tabu.md",
-    "WIP/Box of Song.md",
     "WIP/Dungeon of Trust.md",
     "lore/location/Aga Brakksi.md",
     "Torko Uhralik.md",

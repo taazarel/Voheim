@@ -9,7 +9,7 @@ Holds 5 charges, regains 1 charge every dawn and sunset.
 By turning the handle you may cast:
 - Sleep, 1 charge.
 - Heroism, 1 charge per creature.
-- 
+- Hallow, 5 charges.
 
 ## Generic
 - Weight: 100 grammes.
