@@ -155,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299
+    "width": 299,
+    "collapsed": true
   },
   "right": {
     "id": "08e9238756883ba8",
@@ -171,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Torko Uhralik.md",
+                "file": "Word List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Torko Uhralik.md"
+                "file": "Word List.md"
               }
             }
           },
@@ -230,15 +231,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a923657bb81c1bef",
+  "active": "e1c35aaa15a2a481",
   "lastOpenFiles": [
+    "Torko Uhralik.md",
     "lore/location/Aga Brakksi.md",
     "story/pcNotesH.md",
     "story/Player Backstory elements.md",
     "WIP/Dungeon of Trust.md",
     "lore/item/Box of Song.md",
     "lore/item/Scales of Tabu.md",
-    "Torko Uhralik.md",
     "lore/location/Dungeon of cooperation.md",
     "conflict-files-obsidian-git.md",
     "story/eventsH.md"
