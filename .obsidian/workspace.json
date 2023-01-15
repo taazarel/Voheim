@@ -111,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -232,10 +232,10 @@
   },
   "active": "e6b1b8b9ea220c34",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Word List.md",
-    "story/eventsH.md",
     "story/pcNotesH.md",
+    "Word List.md",
+    "conflict-files-obsidian-git.md",
+    "story/eventsH.md",
     "story/Player Backstory elements.md",
     "lore/location/Aga Brakksi.md",
     "lore/item/sapphire tear.md",
