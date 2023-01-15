@@ -262,4 +262,7 @@ sepne threatens the [[World's End]] and its crew
 Burns the ship kills three crewmates
 Sepne is the black spear.
 Mika is killed
-**Break**
+**End**
+
+## Session 21
+The starting date was the 22nd of Anat.

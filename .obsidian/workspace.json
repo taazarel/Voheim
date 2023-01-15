@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 1,
         "stacked": true
       },
       {
@@ -245,10 +245,10 @@
   },
   "active": "1fb9d57ec5762d80",
   "lastOpenFiles": [
-    "lore/item/World's End.md",
-    "story/pcNotesH.md",
-    "lore/location/Dungeon of cooperation.md",
     "lore/item/Scales of Tabu.md",
+    "story/pcNotesH.md",
+    "lore/item/World's End.md",
+    "lore/location/Dungeon of cooperation.md",
     "Word List.md",
     "conflict-files-obsidian-git.md",
     "story/eventsH.md",
