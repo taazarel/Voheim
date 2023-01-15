@@ -20,14 +20,6 @@
             }
           },
           {
-            "id": "916a9a5f075b3814",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "a923657bb81c1bef",
             "type": "leaf",
             "state": {
@@ -76,7 +68,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       },
       {
@@ -180,6 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Word List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +198,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Word List.md"
+              }
             }
           },
           {
@@ -236,7 +230,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "916a9a5f075b3814",
+  "active": "e6b1b8b9ea220c34",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Word List.md",
