@@ -58,7 +58,7 @@ The virtues which are to be tested are:
 - [ ] A spear shaft with a black banner wrapped across it
 - [x] A marble music box
 - [x] A plant of red sand
-- [ ] Clay Scales (as in the weight)
+- [x] Clay Scales (as in the weight)
 - [x] 20 identical stone leaves 
 
 ### Locations
