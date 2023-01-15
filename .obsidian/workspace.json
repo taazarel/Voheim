@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lore/item/World's End.md",
+                "file": "story/pcNotesH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lore/item/World's End.md"
+                "file": "story/pcNotesH.md"
               }
             }
           },
@@ -243,17 +243,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "90f64afb84b6318e",
+  "active": "1fb9d57ec5762d80",
   "lastOpenFiles": [
-    "lore/location/Dungeon of cooperation.md",
+    "lore/item/World's End.md",
     "story/pcNotesH.md",
+    "lore/location/Dungeon of cooperation.md",
     "lore/item/Scales of Tabu.md",
     "Word List.md",
     "conflict-files-obsidian-git.md",
     "story/eventsH.md",
     "story/Player Backstory elements.md",
     "lore/location/Aga Brakksi.md",
-    "lore/item/sapphire tear.md",
-    "lore/item/Exora.md"
+    "lore/item/sapphire tear.md"
   ]
 }

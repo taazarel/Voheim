@@ -259,3 +259,7 @@ sepne downs ouli in one round.
 luna is freefalling
 Ækuf is a pro skater
 sepne threatens the [[World's End]] and its crew
+Burns the ship kills three crewmates
+Sepne is the black spear.
+Mika is killed
+**Break**
