@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lore/item/Scales of Tabu.md",
+                "file": "story/pcNotesH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lore/item/Scales of Tabu.md"
+                "file": "story/pcNotesH.md"
               }
             }
           },
@@ -243,8 +243,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2bdd84544a8cce14",
+  "active": "1fb9d57ec5762d80",
   "lastOpenFiles": [
+    "lore/item/Scales of Tabu.md",
     "Word List.md",
     "story/pcNotesH.md",
     "conflict-files-obsidian-git.md",
@@ -253,7 +254,6 @@
     "lore/location/Aga Brakksi.md",
     "lore/item/sapphire tear.md",
     "lore/location/Dungeon of cooperation.md",
-    "lore/item/Exora.md",
-    "Torko Uhralik.md"
+    "lore/item/Exora.md"
   ]
 }

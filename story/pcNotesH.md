@@ -249,3 +249,13 @@ Luna ignored soldiers sneaking into Ritu.
 
 ### Session 20
 The starting date was the 19th of Anat.
+Temple hanging from vines suspended above a cliff
+Ækuf straight up kills skerlite
+Ouli cheats, both death and the door.
+Mika is not killed
+Sepne has the scales.
+pocket sand is super effective. sepne takes it personally
+sepne downs ouli in one round.
+luna is freefalling
+Ækuf is a pro skater
+sepne threatens the [[World's End]] and its crew
