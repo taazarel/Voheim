@@ -62,10 +62,10 @@ There are pipes on the ship allowing for easy verbal communication between stati
 - Kaval, The Carpenter
 - Rëmnërin, The Surgeon/Doctor
 - Itef, The Scout
-- Hreivei
-- Aurus
+~~- Hreivei~~
+~~- Aurus~~
 - Ngijø, The Cook
-- Remoun (machine room)
+~~- Remoun (machine room)~~
 - Joesephene (repair)
 - Moon (cook)
-- Galei (Machine Room)
+- Galei (Machine Room)l
