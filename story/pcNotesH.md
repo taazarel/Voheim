@@ -263,6 +263,7 @@ Burns the ship kills three crewmates
 Sepne is the black spear.
 Mika is killed
 **End**
+**LEVEL UP!!!**
 
 ## Session 21
 The starting date was the 22nd of Anat.
